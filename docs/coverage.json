@@ -1,0 +1,57 @@
+{
+  "coverage": "13.63%",
+  "expectCount": 44,
+  "actualCount": 6,
+  "files": {
+    "src/GmapManager.js": {
+      "expectCount": 11,
+      "actualCount": 6,
+      "undocumentLines": [
+        18,
+        19,
+        38,
+        41,
+        42
+      ]
+    },
+    "src/Layer.js": {
+      "expectCount": 33,
+      "actualCount": 0,
+      "undocumentLines": [
+        1,
+        4,
+        5,
+        6,
+        8,
+        9,
+        10,
+        11,
+        16,
+        22,
+        34,
+        43,
+        47,
+        54,
+        60,
+        70,
+        108,
+        112,
+        119,
+        126,
+        133,
+        137,
+        151,
+        161,
+        188,
+        192,
+        199,
+        205,
+        215,
+        242,
+        246,
+        253,
+        259
+      ]
+    }
+  }
+}

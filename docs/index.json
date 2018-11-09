@@ -1,0 +1,1593 @@
+[
+  {
+    "__docId__": 1,
+    "kind": "external",
+    "name": "Infinity",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Infinity",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Infinity",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 2,
+    "kind": "external",
+    "name": "NaN",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/NaN",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~NaN",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 3,
+    "kind": "external",
+    "name": "undefined",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/undefined",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~undefined",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 4,
+    "kind": "external",
+    "name": "null",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/null",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~null",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 5,
+    "kind": "external",
+    "name": "Object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Object",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 6,
+    "kind": "external",
+    "name": "object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~object",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 7,
+    "kind": "external",
+    "name": "Function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Function",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 8,
+    "kind": "external",
+    "name": "function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~function",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 9,
+    "kind": "external",
+    "name": "Boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Boolean",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 10,
+    "kind": "external",
+    "name": "boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~boolean",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 11,
+    "kind": "external",
+    "name": "Symbol",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Symbol",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 12,
+    "kind": "external",
+    "name": "Error",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Error",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 13,
+    "kind": "external",
+    "name": "EvalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/EvalError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~EvalError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 14,
+    "kind": "external",
+    "name": "InternalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/InternalError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~InternalError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 15,
+    "kind": "external",
+    "name": "RangeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RangeError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~RangeError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 16,
+    "kind": "external",
+    "name": "ReferenceError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ReferenceError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~ReferenceError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 17,
+    "kind": "external",
+    "name": "SyntaxError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/SyntaxError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~SyntaxError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 18,
+    "kind": "external",
+    "name": "TypeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypeError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~TypeError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 19,
+    "kind": "external",
+    "name": "URIError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/URIError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~URIError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 20,
+    "kind": "external",
+    "name": "Number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Number",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 21,
+    "kind": "external",
+    "name": "number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~number",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 22,
+    "kind": "external",
+    "name": "Date",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Date",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 23,
+    "kind": "external",
+    "name": "String",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~String",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 24,
+    "kind": "external",
+    "name": "string",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~string",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 25,
+    "kind": "external",
+    "name": "RegExp",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~RegExp",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 26,
+    "kind": "external",
+    "name": "Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 27,
+    "kind": "external",
+    "name": "Int8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int8Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int8Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 28,
+    "kind": "external",
+    "name": "Uint8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint8Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 29,
+    "kind": "external",
+    "name": "Uint8ClampedArray",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8ClampedArray",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint8ClampedArray",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 30,
+    "kind": "external",
+    "name": "Int16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int16Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int16Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 31,
+    "kind": "external",
+    "name": "Uint16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint16Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint16Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 32,
+    "kind": "external",
+    "name": "Int32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 33,
+    "kind": "external",
+    "name": "Uint32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 34,
+    "kind": "external",
+    "name": "Float32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Float32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 35,
+    "kind": "external",
+    "name": "Float64Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float64Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Float64Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 36,
+    "kind": "external",
+    "name": "Map",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Map",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 37,
+    "kind": "external",
+    "name": "Set",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Set",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 38,
+    "kind": "external",
+    "name": "WeakMap",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakMap",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~WeakMap",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 39,
+    "kind": "external",
+    "name": "WeakSet",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakSet",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~WeakSet",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 40,
+    "kind": "external",
+    "name": "ArrayBuffer",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ArrayBuffer",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~ArrayBuffer",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 41,
+    "kind": "external",
+    "name": "DataView",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~DataView",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 42,
+    "kind": "external",
+    "name": "JSON",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~JSON",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 43,
+    "kind": "external",
+    "name": "Promise",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Promise",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 44,
+    "kind": "external",
+    "name": "Generator",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Generator",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 45,
+    "kind": "external",
+    "name": "GeneratorFunction",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/GeneratorFunction",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~GeneratorFunction",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 46,
+    "kind": "external",
+    "name": "Reflect",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Reflect",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Reflect",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 47,
+    "kind": "external",
+    "name": "Proxy",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Proxy",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 48,
+    "kind": "file",
+    "name": "src/app.js",
+    "content": "import GmapManager from './GmapManager';\r\n\r\nwindow.GmapManager = GmapManager;",
+    "static": true,
+    "longname": "D:/Repositorios/RepositorioMigue/libs/gmaps-manager/src/app.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 49,
+    "kind": "file",
+    "name": "src/GmapManager.js",
+    "content": "import Layer from \"./Layer\";\r\n\r\n/**\r\n * Google maps layer manager\r\n */\r\nexport default class GmapManager {\r\n\r\n    // constructor\r\n    // --------------------------\r\n\r\n    /**\r\n     * @constructor\r\n     * @param {any} divId: DOM div ID\r\n     * @param {object} options: classic options of google maps instances\r\n     */\r\n    constructor(divId, options) {\r\n        \r\n        this.divId = divId;\r\n        this.options = options;\r\n        \r\n        // default properties\r\n        this.options.center = options.center || {lat: -31.4138261, lng: -64.2008924};\r\n        this.options.zoom = options.zoom || 13;\r\n\r\n        // init map\r\n        this.createMap();\r\n    }\r\n\r\n    // methods\r\n    // --------------------------\r\n\r\n    /**\r\n     * Create and configure a new instance of a map\r\n     */\r\n    createMap() {\r\n\r\n        // creates map instance\r\n        this.map = new google.maps.Map(document.getElementById(this.divId),this.options);\r\n        \r\n        // creates default layer\r\n        this._baseLayer = new Layer(this.map, '__baseLayer');\r\n        this.layers = this._baseLayer.layers;\r\n\r\n        // custom properties: events\r\n        if (this.options['events'] != null) {\r\n            for (var name in this.options['events']) {\r\n                this.map.addListener(name, this.options['events'][name]);\r\n            }\r\n        }\r\n\r\n    }\r\n\r\n    /**\r\n     * create a new base layer\r\n     * @param {any} id: layer id\r\n     */\r\n    addLayer(id) {\r\n        return this._baseLayer.addLayer(id);\r\n    }\r\n\r\n    /**\r\n     * get a base layer by id\r\n     * @param {any} id: layer id\r\n     */\r\n    getLayer(id) {\r\n        return this._baseLayer.getLayer(id);\r\n    }\r\n\r\n    /**\r\n     * remove a base layer by id\r\n     * @param {any} id: layer id\r\n     */\r\n    removeLayer(id) {\r\n        return this._baseLayer.removeLayer(id);\r\n    }\r\n\r\n}",
+    "static": true,
+    "longname": "D:/Repositorios/RepositorioMigue/libs/gmaps-manager/src/GmapManager.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 50,
+    "kind": "class",
+    "name": "GmapManager",
+    "memberof": "src/GmapManager.js",
+    "static": true,
+    "longname": "src/GmapManager.js~GmapManager",
+    "access": "public",
+    "export": true,
+    "importPath": "babel_webpack_starter/src/GmapManager.js",
+    "importStyle": "GmapManager",
+    "description": "Google maps layer manager",
+    "lineNumber": 6,
+    "interface": false
+  },
+  {
+    "__docId__": 51,
+    "kind": "constructor",
+    "name": "constructor",
+    "memberof": "src/GmapManager.js~GmapManager",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/GmapManager.js~GmapManager#constructor",
+    "access": "public",
+    "description": "",
+    "lineNumber": 16,
+    "unknown": [
+      {
+        "tagName": "@constructor",
+        "tagValue": ""
+      }
+    ],
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "any"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "divId:",
+        "description": "DOM div ID"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "object"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "options:",
+        "description": "classic options of google maps instances"
+      }
+    ]
+  },
+  {
+    "__docId__": 52,
+    "kind": "member",
+    "name": "divId",
+    "memberof": "src/GmapManager.js~GmapManager",
+    "static": false,
+    "longname": "src/GmapManager.js~GmapManager#divId",
+    "access": "public",
+    "description": null,
+    "lineNumber": 18,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 53,
+    "kind": "member",
+    "name": "options",
+    "memberof": "src/GmapManager.js~GmapManager",
+    "static": false,
+    "longname": "src/GmapManager.js~GmapManager#options",
+    "access": "public",
+    "description": null,
+    "lineNumber": 19,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 54,
+    "kind": "method",
+    "name": "createMap",
+    "memberof": "src/GmapManager.js~GmapManager",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/GmapManager.js~GmapManager#createMap",
+    "access": "public",
+    "description": "Create and configure a new instance of a map",
+    "lineNumber": 35,
+    "params": [],
+    "return": null
+  },
+  {
+    "__docId__": 55,
+    "kind": "member",
+    "name": "map",
+    "memberof": "src/GmapManager.js~GmapManager",
+    "static": false,
+    "longname": "src/GmapManager.js~GmapManager#map",
+    "access": "public",
+    "description": null,
+    "lineNumber": 38,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 56,
+    "kind": "member",
+    "name": "_baseLayer",
+    "memberof": "src/GmapManager.js~GmapManager",
+    "static": false,
+    "longname": "src/GmapManager.js~GmapManager#_baseLayer",
+    "access": "private",
+    "description": null,
+    "lineNumber": 41,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 57,
+    "kind": "member",
+    "name": "layers",
+    "memberof": "src/GmapManager.js~GmapManager",
+    "static": false,
+    "longname": "src/GmapManager.js~GmapManager#layers",
+    "access": "public",
+    "description": null,
+    "lineNumber": 42,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 58,
+    "kind": "method",
+    "name": "addLayer",
+    "memberof": "src/GmapManager.js~GmapManager",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/GmapManager.js~GmapManager#addLayer",
+    "access": "public",
+    "description": "create a new base layer",
+    "lineNumber": 57,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "any"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "id:",
+        "description": "layer id"
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 59,
+    "kind": "method",
+    "name": "getLayer",
+    "memberof": "src/GmapManager.js~GmapManager",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/GmapManager.js~GmapManager#getLayer",
+    "access": "public",
+    "description": "get a base layer by id",
+    "lineNumber": 65,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "any"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "id:",
+        "description": "layer id"
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 60,
+    "kind": "method",
+    "name": "removeLayer",
+    "memberof": "src/GmapManager.js~GmapManager",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/GmapManager.js~GmapManager#removeLayer",
+    "access": "public",
+    "description": "remove a base layer by id",
+    "lineNumber": 73,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "any"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "id:",
+        "description": "layer id"
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 61,
+    "kind": "file",
+    "name": "src/Layer.js",
+    "content": "export default class Layer {\r\n  // constructor\r\n  // --------------------------\r\n  constructor(map, id) {\r\n    this.map = map;\r\n    this.id = id;\r\n\r\n    this.layers = [];\r\n    this.markers = [];\r\n    this.polygons = [];\r\n    this.polylines = [];\r\n  }\r\n\r\n  // own methods\r\n  // --------------------------\r\n  clear() {\r\n    this.clearMarkers();\r\n    this.clearPolygons();\r\n    this.clearLayers();\r\n  }\r\n\r\n  setVisible(visible) {\r\n    this.setVisibleMarkers(visible);\r\n    this.setVisiblePolygons(visible);\r\n    this.setVisiblePolylines(visible);\r\n    this.setVisibleLayers(visible);\r\n\r\n    this.setVisibleHeatmap(visible);\r\n  }\r\n\r\n  // layers methods\r\n  // --------------------------\r\n\r\n  addLayer(id) {\r\n    if (this.getLayer(id)) {\r\n      throw new Error(\"layer alredy exists\");\r\n    }\r\n    const layer = new Layer(this.map, id);\r\n    this.layers.push(layer);\r\n    return layer;\r\n  }\r\n\r\n  getLayer(id) {\r\n    return this.layers.filter(x => x.id === id)[0];\r\n  }\r\n\r\n  removeLayer(id) {\r\n    const index = this.layers.indexOf(this.getLayer(id));\r\n    if (index) {\r\n      return this.layers.splice(index, 1);\r\n    }\r\n  }\r\n\r\n  setVisibleLayers(visible) {\r\n    for (const layer of this.layers) {\r\n      layer.setVisible(visible);\r\n    }\r\n  }\r\n\r\n  clearLayers() {\r\n    for (const layer of this.layers) {\r\n      layers.clear();\r\n    }\r\n    this.layers = [];\r\n  }\r\n\r\n  // markers methods\r\n  // --------------------------\r\n\r\n  addMarker(id, options) {\r\n    // error management\r\n    if (id === Object(id)) {\r\n      throw new Error(\"must set a marker id\");\r\n    }\r\n\r\n    if (this.getMarker(id)) {\r\n      throw new Error(\"marker id alredy exists\");\r\n    }\r\n\r\n    // default properties\r\n    options.map = this.map;\r\n    options.id = id;\r\n    const marker = new google.maps.Marker(options);\r\n\r\n    // custom properties: events\r\n    if (options[\"events\"] != null) {\r\n      for (var name in options[\"events\"]) {\r\n        google.maps.event.addListener(marker, name, options[\"events\"][name]);\r\n      }\r\n    }\r\n\r\n    // custom properties: info window\r\n    if (options[\"infoWindowContent\"] != null) {\r\n      marker.infowindow = new google.maps.InfoWindow({\r\n        content: options[\"infoWindowContent\"]\r\n      });\r\n\r\n      marker.addListener(\"click\", function() {\r\n        this.infowindow.open(this.getMap(), this);\r\n      });\r\n    }\r\n\r\n    // add to array\r\n    this.markers.push(marker);\r\n    return marker;\r\n  }\r\n\r\n  getMarker(id) {\r\n    return this.markers.filter(x => x.id === id)[0];\r\n  }\r\n\r\n  removeMarker(id) {\r\n    const index = this.markers.indexOf(this.getMarker(id));\r\n    if (index) {\r\n      return this.markers.splice(index, 1);\r\n    }\r\n  }\r\n\r\n  clearMarkers() {\r\n    for (const marker of this.markers) {\r\n      marker.setMap(null);\r\n    }\r\n    this.markers = [];\r\n  }\r\n\r\n  setVisibleMarkers(visible) {\r\n    if (!this.heatmap)\r\n      for (const marker of this.markers) {\r\n        marker.setVisible(visible);\r\n      }\r\n  }\r\n\r\n  createHeatmap(options) {\r\n    // destroy current heatmap\r\n    if (this.heatmap) {\r\n      this.heatmap.setMap(null);\r\n      this.heatmap = null;\r\n    }\r\n\r\n    // hide all markers\r\n    this.setVisibleMarkers(false);\r\n\r\n    // set default values\r\n    options.data = this.markers.map(x => x.position);\r\n    options.map = this.map;\r\n\r\n    // creates new heatmap\r\n    this.heatmap = new google.maps.visualization.HeatmapLayer(options);\r\n  }\r\n\r\n  setVisibleHeatmap(visible) {\r\n    if (this.heatmap) {\r\n      if (visible) this.heatmap.setMap(this.map);\r\n      else this.heatmap.setMap(null);\r\n    }\r\n  }\r\n\r\n  // polygons methods\r\n  // --------------------------\r\n\r\n  addPolygon(id, options) {\r\n    // error management\r\n    if (!id) {\r\n      throw new Error(\"must set a polygon id\");\r\n    }\r\n\r\n    if (this.getPolygon(id)) {\r\n      throw new Error(\"polygon id alredy exists\");\r\n    }\r\n\r\n    // default properties\r\n    options.map = this.map;\r\n    options.id = id;\r\n    const polygon = new google.maps.Polygon(options);\r\n\r\n    // custom properties: events\r\n    if (options[\"events\"] != null) {\r\n      for (var name in options[\"events\"]) {\r\n        google.maps.event.addListener(polygon, name, options[\"events\"][name]);\r\n      }\r\n    }\r\n\r\n    // add to array\r\n    this.polygons.push(polygon);\r\n    return polygon;\r\n  }\r\n\r\n  getPolygon(id) {\r\n    return this.polygons.filter(x => x.id === id)[0];\r\n  }\r\n\r\n  removePolygon(id) {\r\n    const index = this.polygons.indexOf(this.getPolygon(id));\r\n    if (index) {\r\n      return this.polygons.splice(index, 1);\r\n    }\r\n  }\r\n\r\n  setVisiblePolygons(visible) {\r\n    for (const polygon of this.polygons) {\r\n      polygon.setVisible(visible);\r\n    }\r\n  }\r\n\r\n  clearPolygons() {\r\n    for (const polygon of this.polygons) {\r\n      polygon.setMap(null);\r\n    }\r\n    this.polygons = [];\r\n  }\r\n\r\n  // polylines methods\r\n  // --------------------------\r\n\r\n  addPolyline(id, options) {\r\n    // error management\r\n    if (!id) {\r\n      throw new Error(\"must set a polyline id\");\r\n    }\r\n\r\n    if (this.getPolyline(id)) {\r\n      throw new Error(\"polyline id alredy exists\");\r\n    }\r\n\r\n    // default properties\r\n    options.map = this.map;\r\n    options.id = id;\r\n    const polyline = new google.maps.Polyline(options);\r\n\r\n    // custom properties: events\r\n    if (options[\"events\"] != null) {\r\n      for (var name in options[\"events\"]) {\r\n        google.maps.event.addListener(polyline, name, options[\"events\"][name]);\r\n      }\r\n    }\r\n\r\n    // add to array\r\n    this.polylines.push(polyline);\r\n    return polyline;\r\n  }\r\n\r\n  getPolyline(id) {\r\n    return this.polylines.filter(x => x.id === id)[0];\r\n  }\r\n\r\n  removePolyline(id) {\r\n    const index = this.polylines.indexOf(this.getPolyline(id));\r\n    if (index) {\r\n      return this.polylines.splice(index, 1);\r\n    }\r\n  }\r\n\r\n  setVisiblePolylines(visible) {\r\n    for (const polyline of this.polylines) {\r\n      polyline.setVisible(visible);\r\n    }\r\n  }\r\n\r\n  clearPolylines() {\r\n    for (const polyline of this.polylines) {\r\n      polyline.setMap(null);\r\n    }\r\n    this.polylines = [];\r\n  }\r\n}\r\n",
+    "static": true,
+    "longname": "D:/Repositorios/RepositorioMigue/libs/gmaps-manager/src/Layer.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 62,
+    "kind": "class",
+    "name": "Layer",
+    "memberof": "src/Layer.js",
+    "static": true,
+    "longname": "src/Layer.js~Layer",
+    "access": "public",
+    "export": true,
+    "importPath": "babel_webpack_starter/src/Layer.js",
+    "importStyle": "Layer",
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "interface": false
+  },
+  {
+    "__docId__": 63,
+    "kind": "constructor",
+    "name": "constructor",
+    "memberof": "src/Layer.js~Layer",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/Layer.js~Layer#constructor",
+    "access": "public",
+    "description": null,
+    "lineNumber": 4,
+    "undocument": true
+  },
+  {
+    "__docId__": 64,
+    "kind": "member",
+    "name": "map",
+    "memberof": "src/Layer.js~Layer",
+    "static": false,
+    "longname": "src/Layer.js~Layer#map",
+    "access": "public",
+    "description": null,
+    "lineNumber": 5,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 65,
+    "kind": "member",
+    "name": "id",
+    "memberof": "src/Layer.js~Layer",
+    "static": false,
+    "longname": "src/Layer.js~Layer#id",
+    "access": "public",
+    "description": null,
+    "lineNumber": 6,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 66,
+    "kind": "member",
+    "name": "layers",
+    "memberof": "src/Layer.js~Layer",
+    "static": false,
+    "longname": "src/Layer.js~Layer#layers",
+    "access": "public",
+    "description": null,
+    "lineNumber": 8,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*[]"
+      ]
+    }
+  },
+  {
+    "__docId__": 67,
+    "kind": "member",
+    "name": "markers",
+    "memberof": "src/Layer.js~Layer",
+    "static": false,
+    "longname": "src/Layer.js~Layer#markers",
+    "access": "public",
+    "description": null,
+    "lineNumber": 9,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*[]"
+      ]
+    }
+  },
+  {
+    "__docId__": 68,
+    "kind": "member",
+    "name": "polygons",
+    "memberof": "src/Layer.js~Layer",
+    "static": false,
+    "longname": "src/Layer.js~Layer#polygons",
+    "access": "public",
+    "description": null,
+    "lineNumber": 10,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*[]"
+      ]
+    }
+  },
+  {
+    "__docId__": 69,
+    "kind": "member",
+    "name": "polylines",
+    "memberof": "src/Layer.js~Layer",
+    "static": false,
+    "longname": "src/Layer.js~Layer#polylines",
+    "access": "public",
+    "description": null,
+    "lineNumber": 11,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*[]"
+      ]
+    }
+  },
+  {
+    "__docId__": 70,
+    "kind": "method",
+    "name": "clear",
+    "memberof": "src/Layer.js~Layer",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/Layer.js~Layer#clear",
+    "access": "public",
+    "description": null,
+    "lineNumber": 16,
+    "undocument": true,
+    "params": [],
+    "return": null
+  },
+  {
+    "__docId__": 71,
+    "kind": "method",
+    "name": "setVisible",
+    "memberof": "src/Layer.js~Layer",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/Layer.js~Layer#setVisible",
+    "access": "public",
+    "description": null,
+    "lineNumber": 22,
+    "undocument": true,
+    "params": [
+      {
+        "name": "visible",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 72,
+    "kind": "method",
+    "name": "addLayer",
+    "memberof": "src/Layer.js~Layer",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/Layer.js~Layer#addLayer",
+    "access": "public",
+    "description": null,
+    "lineNumber": 34,
+    "undocument": true,
+    "params": [
+      {
+        "name": "id",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 73,
+    "kind": "method",
+    "name": "getLayer",
+    "memberof": "src/Layer.js~Layer",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/Layer.js~Layer#getLayer",
+    "access": "public",
+    "description": null,
+    "lineNumber": 43,
+    "undocument": true,
+    "params": [
+      {
+        "name": "id",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 74,
+    "kind": "method",
+    "name": "removeLayer",
+    "memberof": "src/Layer.js~Layer",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/Layer.js~Layer#removeLayer",
+    "access": "public",
+    "description": null,
+    "lineNumber": 47,
+    "undocument": true,
+    "params": [
+      {
+        "name": "id",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 75,
+    "kind": "method",
+    "name": "setVisibleLayers",
+    "memberof": "src/Layer.js~Layer",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/Layer.js~Layer#setVisibleLayers",
+    "access": "public",
+    "description": null,
+    "lineNumber": 54,
+    "undocument": true,
+    "params": [
+      {
+        "name": "visible",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 76,
+    "kind": "method",
+    "name": "clearLayers",
+    "memberof": "src/Layer.js~Layer",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/Layer.js~Layer#clearLayers",
+    "access": "public",
+    "description": null,
+    "lineNumber": 60,
+    "undocument": true,
+    "params": [],
+    "return": null
+  },
+  {
+    "__docId__": 78,
+    "kind": "method",
+    "name": "addMarker",
+    "memberof": "src/Layer.js~Layer",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/Layer.js~Layer#addMarker",
+    "access": "public",
+    "description": null,
+    "lineNumber": 70,
+    "undocument": true,
+    "params": [
+      {
+        "name": "id",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "options",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 79,
+    "kind": "method",
+    "name": "getMarker",
+    "memberof": "src/Layer.js~Layer",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/Layer.js~Layer#getMarker",
+    "access": "public",
+    "description": null,
+    "lineNumber": 108,
+    "undocument": true,
+    "params": [
+      {
+        "name": "id",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 80,
+    "kind": "method",
+    "name": "removeMarker",
+    "memberof": "src/Layer.js~Layer",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/Layer.js~Layer#removeMarker",
+    "access": "public",
+    "description": null,
+    "lineNumber": 112,
+    "undocument": true,
+    "params": [
+      {
+        "name": "id",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 81,
+    "kind": "method",
+    "name": "clearMarkers",
+    "memberof": "src/Layer.js~Layer",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/Layer.js~Layer#clearMarkers",
+    "access": "public",
+    "description": null,
+    "lineNumber": 119,
+    "undocument": true,
+    "params": [],
+    "return": null
+  },
+  {
+    "__docId__": 83,
+    "kind": "method",
+    "name": "setVisibleMarkers",
+    "memberof": "src/Layer.js~Layer",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/Layer.js~Layer#setVisibleMarkers",
+    "access": "public",
+    "description": null,
+    "lineNumber": 126,
+    "undocument": true,
+    "params": [
+      {
+        "name": "visible",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 84,
+    "kind": "method",
+    "name": "createHeatmap",
+    "memberof": "src/Layer.js~Layer",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/Layer.js~Layer#createHeatmap",
+    "access": "public",
+    "description": null,
+    "lineNumber": 133,
+    "undocument": true,
+    "params": [
+      {
+        "name": "options",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 85,
+    "kind": "member",
+    "name": "heatmap",
+    "memberof": "src/Layer.js~Layer",
+    "static": false,
+    "longname": "src/Layer.js~Layer#heatmap",
+    "access": "public",
+    "description": null,
+    "lineNumber": 137,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 87,
+    "kind": "method",
+    "name": "setVisibleHeatmap",
+    "memberof": "src/Layer.js~Layer",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/Layer.js~Layer#setVisibleHeatmap",
+    "access": "public",
+    "description": null,
+    "lineNumber": 151,
+    "undocument": true,
+    "params": [
+      {
+        "name": "visible",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 88,
+    "kind": "method",
+    "name": "addPolygon",
+    "memberof": "src/Layer.js~Layer",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/Layer.js~Layer#addPolygon",
+    "access": "public",
+    "description": null,
+    "lineNumber": 161,
+    "undocument": true,
+    "params": [
+      {
+        "name": "id",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "options",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 89,
+    "kind": "method",
+    "name": "getPolygon",
+    "memberof": "src/Layer.js~Layer",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/Layer.js~Layer#getPolygon",
+    "access": "public",
+    "description": null,
+    "lineNumber": 188,
+    "undocument": true,
+    "params": [
+      {
+        "name": "id",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 90,
+    "kind": "method",
+    "name": "removePolygon",
+    "memberof": "src/Layer.js~Layer",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/Layer.js~Layer#removePolygon",
+    "access": "public",
+    "description": null,
+    "lineNumber": 192,
+    "undocument": true,
+    "params": [
+      {
+        "name": "id",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 91,
+    "kind": "method",
+    "name": "setVisiblePolygons",
+    "memberof": "src/Layer.js~Layer",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/Layer.js~Layer#setVisiblePolygons",
+    "access": "public",
+    "description": null,
+    "lineNumber": 199,
+    "undocument": true,
+    "params": [
+      {
+        "name": "visible",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 92,
+    "kind": "method",
+    "name": "clearPolygons",
+    "memberof": "src/Layer.js~Layer",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/Layer.js~Layer#clearPolygons",
+    "access": "public",
+    "description": null,
+    "lineNumber": 205,
+    "undocument": true,
+    "params": [],
+    "return": null
+  },
+  {
+    "__docId__": 94,
+    "kind": "method",
+    "name": "addPolyline",
+    "memberof": "src/Layer.js~Layer",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/Layer.js~Layer#addPolyline",
+    "access": "public",
+    "description": null,
+    "lineNumber": 215,
+    "undocument": true,
+    "params": [
+      {
+        "name": "id",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "options",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 95,
+    "kind": "method",
+    "name": "getPolyline",
+    "memberof": "src/Layer.js~Layer",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/Layer.js~Layer#getPolyline",
+    "access": "public",
+    "description": null,
+    "lineNumber": 242,
+    "undocument": true,
+    "params": [
+      {
+        "name": "id",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 96,
+    "kind": "method",
+    "name": "removePolyline",
+    "memberof": "src/Layer.js~Layer",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/Layer.js~Layer#removePolyline",
+    "access": "public",
+    "description": null,
+    "lineNumber": 246,
+    "undocument": true,
+    "params": [
+      {
+        "name": "id",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 97,
+    "kind": "method",
+    "name": "setVisiblePolylines",
+    "memberof": "src/Layer.js~Layer",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/Layer.js~Layer#setVisiblePolylines",
+    "access": "public",
+    "description": null,
+    "lineNumber": 253,
+    "undocument": true,
+    "params": [
+      {
+        "name": "visible",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 98,
+    "kind": "method",
+    "name": "clearPolylines",
+    "memberof": "src/Layer.js~Layer",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/Layer.js~Layer#clearPolylines",
+    "access": "public",
+    "description": null,
+    "lineNumber": 259,
+    "undocument": true,
+    "params": [],
+    "return": null
+  },
+  {
+    "kind": "index",
+    "content": "# Babel Webpack Starter\r\n\r\nA starter pack to build JavaScript applications using standards from ES2015, ES2016 & ES2017. It uses webpack, Babel and webpack-dev-server to compile and serve. It is fully compatible with Async/Await as it uses the Babel polyfill.\r\n\r\n### Version\r\n1.1.0\r\n\r\n## Usage\r\n\r\n### Installation\r\n\r\nInstall the dependencies\r\n\r\n```sh\r\n$ npm install\r\n```\r\n\r\n### Serve\r\nTo serve in the browser  - Runs webpack-dev-server\r\n\r\n```sh\r\n$ npm start\r\n```\r\n\r\n### Build\r\nCompile and build\r\n\r\n```sh\r\n$ npm run build\r\n```\r\n\r\n## More Info\r\n\r\n### Author\r\n\r\nBrad Traversy\r\n[Traversy Media](http://www.traversymedia.com)\r\n\r\n### License\r\n\r\nThis project is licensed under the MIT License",
+    "longname": "D:\\Repositorios\\RepositorioMigue\\libs\\gmaps-manager\\README.md",
+    "name": "./README.md",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "packageJSON",
+    "content": "{\n  \"name\": \"babel_webpack_starter\",\n  \"version\": \"1.0.0\",\n  \"description\": \"Starter pack for compiling ES6+ apps to ES5\",\n  \"main\": \"app.js\",\n  \"scripts\": {\n    \"test\": \"echo \\\"Error: no test specified\\\" && exit 1\",\n    \"start\": \"webpack-dev-server --output-public-path=/build/  --mode development --progress --open --hot\",\n    \"build\": \"webpack --mode production --progress\",\n    \"doc\": \"esdoc open ./docs/index.html\"\n  },\n  \"author\": \"Brad Traversy\",\n  \"license\": \"MIT\",\n  \"devDependencies\": {\n    \"babel-core\": \"^6.26.0\",\n    \"babel-loader\": \"^7.1.5\",\n    \"babel-polyfill\": \"^6.26.0\",\n    \"babel-preset-env\": \"^1.7.0\",\n    \"babel-preset-stage-0\": \"^6.24.1\",\n    \"esdoc\": \"^1.1.0\",\n    \"esdoc-standard-plugin\": \"^1.0.0\",\n    \"jsdoc\": \"^3.5.5\",\n    \"webpack\": \"^4.25.1\",\n    \"webpack-cli\": \"^3.1.2\",\n    \"webpack-dev-server\": \"^3.1.4\"\n  }\n}\n",
+    "longname": "D:\\Repositorios\\RepositorioMigue\\libs\\gmaps-manager\\package.json",
+    "name": "package.json",
+    "static": true,
+    "access": "public"
+  }
+]
