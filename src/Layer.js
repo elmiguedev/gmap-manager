@@ -1,3 +1,8 @@
+import MarkerClusterer from "./plugins/markercluster.js";
+import * as toGeoJSON from "@mapbox/togeojson";
+import tokml from "tokml";
+import GmapManager from "./GMapManager.js";
+
 export default class Layer {
   // constructor
   // --------------------------
@@ -16,6 +21,7 @@ export default class Layer {
   clear() {
     this.clearMarkers();
     this.clearPolygons();
+    this.clearPolylines();
     this.clearLayers();
   }
 
@@ -26,6 +32,98 @@ export default class Layer {
     this.setVisibleLayers(visible);
 
     this.setVisibleHeatmap(visible);
+    this.setVisibleClusters(visible);
+  }
+
+  exportGeoJson() {
+    // create base geojson
+    let geojson = {
+      type: "FeatureCollection",
+      features: []
+    };
+
+    // add markers
+    for (const m of this.markers) {
+      geojson.features.push({
+        type: "Feature",
+        geometry: {
+          type: "Point",
+          coordinates: [m.getPosition().lng(), m.getPosition().lat(), 0]
+        },
+        properties: {
+          name: m.id.toString(),
+          description: m.infoWindowContent || ""
+        }
+      });
+    }
+
+    // add polygons
+    for (const p of this.polygons) {
+      geojson.features.push({
+        type: "Feature",
+        geometry: {
+          type: "Polygon",
+          coordinates: [
+            p
+              .getPath()
+              .getArray()
+              .map(x => [x.lng(), x.lat(), 0])
+          ]
+        },
+        properties: {
+          name: p.id.toString(),
+          description: p.infoWindowContent || ""
+        }
+      });
+    }
+
+    // add polylines
+    for (const p of this.polylines) {
+      geojson.features.push({
+        type: "Feature",
+        geometry: {
+          type: "LineString",
+          coordinates: [
+            p
+              .getPath()
+              .getArray()
+              .map(x => [x.lng(), x.lat(), 0])
+          ]
+        },
+        properties: {
+          name: p.id.toString(),
+          description: p.infoWindowContent || ""
+        }
+      });
+    }
+
+    // return
+    return geojson;
+  }
+
+  exportKml() {
+    return tokml(this.exportGeoJson());
+  }
+
+  exportKmlFile(filename) {
+    const data = this.exportKml();
+    var file = new Blob([data],{type: 'kml'});
+    if (window.navigator.msSaveOrOpenBlob)
+      // IE10+
+      window.navigator.msSaveOrOpenBlob(file, filename);
+    else {
+      // Others
+      var a = document.createElement("a"),
+        url = URL.createObjectURL(file);
+      a.href = url;
+      a.download = filename;
+      document.body.appendChild(a);
+      a.click();
+      setTimeout(function() {
+        document.body.removeChild(a);
+        window.URL.revokeObjectURL(url);
+      }, 0);
+    }
   }
 
   // layers methods
@@ -155,6 +253,88 @@ export default class Layer {
     }
   }
 
+  createClusters(options) {
+    // destroy current clusters
+    if (this.clusters) {
+      this.clusters.setMap(null);
+      this.clusters = null;
+    }
+
+    // hide all markers
+    //this.setVisibleMarkers(false);
+
+    // set default values
+
+    // creates new clusters
+    this.clusters = new MarkerClusterer(this.map, this.markers, {
+      imagePath:
+        "https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/m"
+    });
+  }
+
+  setVisibleClusters(visible) {
+    if (this.clusters) {
+      if (visible) this.clusters.setMap(this.map);
+      else this.clusters.setMap(null);
+    }
+  }
+
+  loadKmlOriginal(src) {
+    var kmlLayer = new google.maps.KmlLayer(src, {
+      suppressInfoWindows: true,
+      preserveViewport: false,
+      map: this.map
+    });
+  }
+
+  loadKml(src) {
+    fetch(src)
+      .then(res => res.text())
+      .then(xml => {
+        const dom = new DOMParser().parseFromString(xml, "text/xml");
+        const geojson = toGeoJSON.kml(dom);
+        console.log(geojson);
+
+        if (geojson.features) {
+          for (const f of geojson.features) {
+            if (f.type === "Feature") {
+              switch (f.geometry.type) {
+                case "Point":
+                  this.addMarker(geojson.features.indexOf(f), {
+                    position: {
+                      lat: f.geometry.coordinates[1],
+                      lng: f.geometry.coordinates[0]
+                    },
+                    infoWindowContent: `
+                      <b>${f.properties.name}</b><br>
+                      ${f.properties.description}
+                    `
+                  });
+                  break;
+
+                case "Polygon":
+                  this.addPolygon(geojson.features.indexOf(f), {
+                    path: f.geometry.coordinates[0].map(x => {
+                      return { lat: x[1], lng: x[0] };
+                    }),
+                    strokeColor: f.properties.stroke || "#FF0000",
+                    strokeOpacity: f.properties.strokeOpacity || 0.8,
+                    strokeWeight: f.properties.strokeWidth || 2,
+                    fillColor: f.properties.fill || "#FF0000",
+                    fillOpacity: f.properties.fillOpacity || 0.35,
+                    infoWindowContent: f.properties.name
+                  });
+                  break;
+
+                default:
+                  break;
+              }
+            }
+          }
+        }
+      });
+  }
+
   // polygons methods
   // --------------------------
 
@@ -171,6 +351,8 @@ export default class Layer {
     // default properties
     options.map = this.map;
     options.id = id;
+    options.center = GmapManager.getAreaCenter(options.path);
+    options.baseColor = options.fillColor || GmapManager.colorRandom();
     const polygon = new google.maps.Polygon(options);
 
     // custom properties: events
@@ -179,6 +361,26 @@ export default class Layer {
         google.maps.event.addListener(polygon, name, options["events"][name]);
       }
     }
+
+    // custom properties: info window
+    if (options["infoWindowContent"] != null) {
+      polygon.infowindow = new google.maps.InfoWindow({
+        content: options["infoWindowContent"]
+      });
+
+      polygon.addListener("click", function(e) {
+        this.infowindow.setPosition(e.latLng);
+        this.infowindow.open(this.getMap(), this);
+      });
+    }
+
+    // custom properties: polygon highlight
+    polygon.addListener("mouseover", function(e) {
+      this.set("fillColor", GmapManager.colorLightUp(this.baseColor));
+    });
+    polygon.addListener("mouseout", function(e) {
+      this.set("fillColor", this.baseColor);
+    });
 
     // add to array
     this.polygons.push(polygon);

@@ -6,7 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>Gmap Manager test page</title>
 
-  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAyQv7xxWqVL7sehsO2hG5kP7z5RkIV4hw&libraries=visualization"></script>
+  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC2TDg_EYBCuqQ1Lpq7hP3uSNjz8HmLMBM&libraries=visualization"></script>
   
   <script src="build/app.bundle.js"></script>
 
@@ -16,10 +16,27 @@
   <div id="map" style="height: 480px; widows: 640px; background-color: lightgray;"></div>
   <button type="button" onclick="setVisible()">set visible</button>
   <button type="button" onclick="createHeatmap()">show heatmap</button>
+  <button type="button" onclick="createClusters()">show cluster</button>
+  <button type="button" onclick="cargarKml()">cargar kml</button>
+  <button type="button" onclick="exportarGeojson()">exportar geojson</button>
+  <button type="button" onclick="exportarKml()">exportar kml</button>
+  <button type="button" onclick="exportarKmlFile()">exportar kml file</button>
   <script>
 
     var visible =true;
     let map;
+
+    function exportarGeojson() {
+      const geojson = map.getLayer('test').exportGeoJson();
+      console.log(geojson);
+    }
+    function exportarKml() {
+      const kml = map.getLayer('test').exportKml();
+      console.log(kml);
+    }
+    function exportarKmlFile() {
+      const kml = map.getLayer('test').exportKmlFile('archivo kml');
+    }
 
     function setVisible() {
       visible = !visible;
@@ -32,12 +49,22 @@
       });
     }
 
+    function createClusters() {
+      map.getLayer('test').createClusters({});
+    }
+
     function mapClick(e) {
       const count = map.getLayer('test').markers.length;
       console.log(count);
       map.getLayer('test').addMarker(count, {
         position: e.latLng,
       });
+    }
+
+    function cargarKml() {
+      //const url = 'https://developers.google.com/maps/documentation/javascript/examples/kml/westcampus.kml';
+      const url = 'test.kml';
+      map.getLayer('test').loadKml(url);
     }
 
     (function(){
@@ -51,9 +78,13 @@
 
       map.addLayer('test');
 
-      map.getLayer('test').addPolyline(1, {
-        path: [{ "lat": -31.382255099999977, "lng": -64.21687957168888},{"lat": -31.3832443, "lng": -64.22237280000002},{"lat": -31.3825665, "lng": -64.2233276},{"lat": -31.3820719, "lng": -64.22368169999999},{"lat": -31.3815315, "lng": -64.22362800000002},{"lat": -31.3812017, "lng": -64.2233276},{"lat": -31.3808445, "lng": -64.22302719999999},{"lat": -31.3803133, "lng": -64.2229092},{"lat": -31.3797545, "lng": -64.22304869999999},{"lat": -31.379379, "lng": -64.22353150000004},{"lat": -31.3791225, "lng": -64.22347780000001},{"lat": -31.380450688111292, "lng": -64.21560283967278},{"lat": -31.382465759317263, "lng": -64.21608568014824}]
+      const coords = [{ "lat": -31.382255099999977, "lng": -64.21687957168888},{"lat": -31.3832443, "lng": -64.22237280000002},{"lat": -31.3825665, "lng": -64.2233276},{"lat": -31.3820719, "lng": -64.22368169999999},{"lat": -31.3815315, "lng": -64.22362800000002},{"lat": -31.3812017, "lng": -64.2233276},{"lat": -31.3808445, "lng": -64.22302719999999},{"lat": -31.3803133, "lng": -64.2229092},{"lat": -31.3797545, "lng": -64.22304869999999},{"lat": -31.379379, "lng": -64.22353150000004},{"lat": -31.3791225, "lng": -64.22347780000001},{"lat": -31.380450688111292, "lng": -64.21560283967278},{"lat": -31.382465759317263, "lng": -64.21608568014824}];
+      const p = map.getLayer('test').addPolygon(1, {
+        fillColor: '#CC0000',
+        path: coords
       });
+
+      console.log('CENTRO DEL POLIGONO: ', GmapManager.getAreaCenter(coords));
 
       map.addLayer('test2');
       map.addLayer('test3');
