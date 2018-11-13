@@ -1,598 +1,34 @@
 [
   {
-    "__docId__": 1,
-    "kind": "external",
-    "name": "Infinity",
-    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Infinity",
-    "memberof": "src/.external-ecmascript.js",
-    "static": true,
-    "longname": "src/.external-ecmascript.js~Infinity",
-    "access": "public",
-    "description": "",
-    "builtinExternal": true
-  },
-  {
-    "__docId__": 2,
-    "kind": "external",
-    "name": "NaN",
-    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/NaN",
-    "memberof": "src/.external-ecmascript.js",
-    "static": true,
-    "longname": "src/.external-ecmascript.js~NaN",
-    "access": "public",
-    "description": "",
-    "builtinExternal": true
-  },
-  {
-    "__docId__": 3,
-    "kind": "external",
-    "name": "undefined",
-    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/undefined",
-    "memberof": "src/.external-ecmascript.js",
-    "static": true,
-    "longname": "src/.external-ecmascript.js~undefined",
-    "access": "public",
-    "description": "",
-    "builtinExternal": true
-  },
-  {
-    "__docId__": 4,
-    "kind": "external",
-    "name": "null",
-    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/null",
-    "memberof": "src/.external-ecmascript.js",
-    "static": true,
-    "longname": "src/.external-ecmascript.js~null",
-    "access": "public",
-    "description": "",
-    "builtinExternal": true
-  },
-  {
-    "__docId__": 5,
-    "kind": "external",
-    "name": "Object",
-    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
-    "memberof": "src/.external-ecmascript.js",
-    "static": true,
-    "longname": "src/.external-ecmascript.js~Object",
-    "access": "public",
-    "description": "",
-    "builtinExternal": true
-  },
-  {
-    "__docId__": 6,
-    "kind": "external",
-    "name": "object",
-    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
-    "memberof": "src/.external-ecmascript.js",
-    "static": true,
-    "longname": "src/.external-ecmascript.js~object",
-    "access": "public",
-    "description": "",
-    "builtinExternal": true
-  },
-  {
-    "__docId__": 7,
-    "kind": "external",
-    "name": "Function",
-    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
-    "memberof": "src/.external-ecmascript.js",
-    "static": true,
-    "longname": "src/.external-ecmascript.js~Function",
-    "access": "public",
-    "description": "",
-    "builtinExternal": true
-  },
-  {
-    "__docId__": 8,
-    "kind": "external",
-    "name": "function",
-    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
-    "memberof": "src/.external-ecmascript.js",
-    "static": true,
-    "longname": "src/.external-ecmascript.js~function",
-    "access": "public",
-    "description": "",
-    "builtinExternal": true
-  },
-  {
-    "__docId__": 9,
-    "kind": "external",
-    "name": "Boolean",
-    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
-    "memberof": "src/.external-ecmascript.js",
-    "static": true,
-    "longname": "src/.external-ecmascript.js~Boolean",
-    "access": "public",
-    "description": "",
-    "builtinExternal": true
-  },
-  {
-    "__docId__": 10,
-    "kind": "external",
-    "name": "boolean",
-    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
-    "memberof": "src/.external-ecmascript.js",
-    "static": true,
-    "longname": "src/.external-ecmascript.js~boolean",
-    "access": "public",
-    "description": "",
-    "builtinExternal": true
-  },
-  {
-    "__docId__": 11,
-    "kind": "external",
-    "name": "Symbol",
-    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol",
-    "memberof": "src/.external-ecmascript.js",
-    "static": true,
-    "longname": "src/.external-ecmascript.js~Symbol",
-    "access": "public",
-    "description": "",
-    "builtinExternal": true
-  },
-  {
-    "__docId__": 12,
-    "kind": "external",
-    "name": "Error",
-    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error",
-    "memberof": "src/.external-ecmascript.js",
-    "static": true,
-    "longname": "src/.external-ecmascript.js~Error",
-    "access": "public",
-    "description": "",
-    "builtinExternal": true
-  },
-  {
-    "__docId__": 13,
-    "kind": "external",
-    "name": "EvalError",
-    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/EvalError",
-    "memberof": "src/.external-ecmascript.js",
-    "static": true,
-    "longname": "src/.external-ecmascript.js~EvalError",
-    "access": "public",
-    "description": "",
-    "builtinExternal": true
-  },
-  {
-    "__docId__": 14,
-    "kind": "external",
-    "name": "InternalError",
-    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/InternalError",
-    "memberof": "src/.external-ecmascript.js",
-    "static": true,
-    "longname": "src/.external-ecmascript.js~InternalError",
-    "access": "public",
-    "description": "",
-    "builtinExternal": true
-  },
-  {
-    "__docId__": 15,
-    "kind": "external",
-    "name": "RangeError",
-    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RangeError",
-    "memberof": "src/.external-ecmascript.js",
-    "static": true,
-    "longname": "src/.external-ecmascript.js~RangeError",
-    "access": "public",
-    "description": "",
-    "builtinExternal": true
-  },
-  {
-    "__docId__": 16,
-    "kind": "external",
-    "name": "ReferenceError",
-    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ReferenceError",
-    "memberof": "src/.external-ecmascript.js",
-    "static": true,
-    "longname": "src/.external-ecmascript.js~ReferenceError",
-    "access": "public",
-    "description": "",
-    "builtinExternal": true
-  },
-  {
-    "__docId__": 17,
-    "kind": "external",
-    "name": "SyntaxError",
-    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/SyntaxError",
-    "memberof": "src/.external-ecmascript.js",
-    "static": true,
-    "longname": "src/.external-ecmascript.js~SyntaxError",
-    "access": "public",
-    "description": "",
-    "builtinExternal": true
-  },
-  {
-    "__docId__": 18,
-    "kind": "external",
-    "name": "TypeError",
-    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypeError",
-    "memberof": "src/.external-ecmascript.js",
-    "static": true,
-    "longname": "src/.external-ecmascript.js~TypeError",
-    "access": "public",
-    "description": "",
-    "builtinExternal": true
-  },
-  {
-    "__docId__": 19,
-    "kind": "external",
-    "name": "URIError",
-    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/URIError",
-    "memberof": "src/.external-ecmascript.js",
-    "static": true,
-    "longname": "src/.external-ecmascript.js~URIError",
-    "access": "public",
-    "description": "",
-    "builtinExternal": true
-  },
-  {
-    "__docId__": 20,
-    "kind": "external",
-    "name": "Number",
-    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
-    "memberof": "src/.external-ecmascript.js",
-    "static": true,
-    "longname": "src/.external-ecmascript.js~Number",
-    "access": "public",
-    "description": "",
-    "builtinExternal": true
-  },
-  {
-    "__docId__": 21,
-    "kind": "external",
-    "name": "number",
-    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
-    "memberof": "src/.external-ecmascript.js",
-    "static": true,
-    "longname": "src/.external-ecmascript.js~number",
-    "access": "public",
-    "description": "",
-    "builtinExternal": true
-  },
-  {
-    "__docId__": 22,
-    "kind": "external",
-    "name": "Date",
-    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date",
-    "memberof": "src/.external-ecmascript.js",
-    "static": true,
-    "longname": "src/.external-ecmascript.js~Date",
-    "access": "public",
-    "description": "",
-    "builtinExternal": true
-  },
-  {
-    "__docId__": 23,
-    "kind": "external",
-    "name": "String",
-    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
-    "memberof": "src/.external-ecmascript.js",
-    "static": true,
-    "longname": "src/.external-ecmascript.js~String",
-    "access": "public",
-    "description": "",
-    "builtinExternal": true
-  },
-  {
-    "__docId__": 24,
-    "kind": "external",
-    "name": "string",
-    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
-    "memberof": "src/.external-ecmascript.js",
-    "static": true,
-    "longname": "src/.external-ecmascript.js~string",
-    "access": "public",
-    "description": "",
-    "builtinExternal": true
-  },
-  {
-    "__docId__": 25,
-    "kind": "external",
-    "name": "RegExp",
-    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp",
-    "memberof": "src/.external-ecmascript.js",
-    "static": true,
-    "longname": "src/.external-ecmascript.js~RegExp",
-    "access": "public",
-    "description": "",
-    "builtinExternal": true
-  },
-  {
-    "__docId__": 26,
-    "kind": "external",
-    "name": "Array",
-    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array",
-    "memberof": "src/.external-ecmascript.js",
-    "static": true,
-    "longname": "src/.external-ecmascript.js~Array",
-    "access": "public",
-    "description": "",
-    "builtinExternal": true
-  },
-  {
-    "__docId__": 27,
-    "kind": "external",
-    "name": "Int8Array",
-    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int8Array",
-    "memberof": "src/.external-ecmascript.js",
-    "static": true,
-    "longname": "src/.external-ecmascript.js~Int8Array",
-    "access": "public",
-    "description": "",
-    "builtinExternal": true
-  },
-  {
-    "__docId__": 28,
-    "kind": "external",
-    "name": "Uint8Array",
-    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8Array",
-    "memberof": "src/.external-ecmascript.js",
-    "static": true,
-    "longname": "src/.external-ecmascript.js~Uint8Array",
-    "access": "public",
-    "description": "",
-    "builtinExternal": true
-  },
-  {
-    "__docId__": 29,
-    "kind": "external",
-    "name": "Uint8ClampedArray",
-    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8ClampedArray",
-    "memberof": "src/.external-ecmascript.js",
-    "static": true,
-    "longname": "src/.external-ecmascript.js~Uint8ClampedArray",
-    "access": "public",
-    "description": "",
-    "builtinExternal": true
-  },
-  {
-    "__docId__": 30,
-    "kind": "external",
-    "name": "Int16Array",
-    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int16Array",
-    "memberof": "src/.external-ecmascript.js",
-    "static": true,
-    "longname": "src/.external-ecmascript.js~Int16Array",
-    "access": "public",
-    "description": "",
-    "builtinExternal": true
-  },
-  {
-    "__docId__": 31,
-    "kind": "external",
-    "name": "Uint16Array",
-    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint16Array",
-    "memberof": "src/.external-ecmascript.js",
-    "static": true,
-    "longname": "src/.external-ecmascript.js~Uint16Array",
-    "access": "public",
-    "description": "",
-    "builtinExternal": true
-  },
-  {
-    "__docId__": 32,
-    "kind": "external",
-    "name": "Int32Array",
-    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int32Array",
-    "memberof": "src/.external-ecmascript.js",
-    "static": true,
-    "longname": "src/.external-ecmascript.js~Int32Array",
-    "access": "public",
-    "description": "",
-    "builtinExternal": true
-  },
-  {
-    "__docId__": 33,
-    "kind": "external",
-    "name": "Uint32Array",
-    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint32Array",
-    "memberof": "src/.external-ecmascript.js",
-    "static": true,
-    "longname": "src/.external-ecmascript.js~Uint32Array",
-    "access": "public",
-    "description": "",
-    "builtinExternal": true
-  },
-  {
-    "__docId__": 34,
-    "kind": "external",
-    "name": "Float32Array",
-    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float32Array",
-    "memberof": "src/.external-ecmascript.js",
-    "static": true,
-    "longname": "src/.external-ecmascript.js~Float32Array",
-    "access": "public",
-    "description": "",
-    "builtinExternal": true
-  },
-  {
-    "__docId__": 35,
-    "kind": "external",
-    "name": "Float64Array",
-    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float64Array",
-    "memberof": "src/.external-ecmascript.js",
-    "static": true,
-    "longname": "src/.external-ecmascript.js~Float64Array",
-    "access": "public",
-    "description": "",
-    "builtinExternal": true
-  },
-  {
-    "__docId__": 36,
-    "kind": "external",
-    "name": "Map",
-    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map",
-    "memberof": "src/.external-ecmascript.js",
-    "static": true,
-    "longname": "src/.external-ecmascript.js~Map",
-    "access": "public",
-    "description": "",
-    "builtinExternal": true
-  },
-  {
-    "__docId__": 37,
-    "kind": "external",
-    "name": "Set",
-    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set",
-    "memberof": "src/.external-ecmascript.js",
-    "static": true,
-    "longname": "src/.external-ecmascript.js~Set",
-    "access": "public",
-    "description": "",
-    "builtinExternal": true
-  },
-  {
-    "__docId__": 38,
-    "kind": "external",
-    "name": "WeakMap",
-    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakMap",
-    "memberof": "src/.external-ecmascript.js",
-    "static": true,
-    "longname": "src/.external-ecmascript.js~WeakMap",
-    "access": "public",
-    "description": "",
-    "builtinExternal": true
-  },
-  {
-    "__docId__": 39,
-    "kind": "external",
-    "name": "WeakSet",
-    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakSet",
-    "memberof": "src/.external-ecmascript.js",
-    "static": true,
-    "longname": "src/.external-ecmascript.js~WeakSet",
-    "access": "public",
-    "description": "",
-    "builtinExternal": true
-  },
-  {
-    "__docId__": 40,
-    "kind": "external",
-    "name": "ArrayBuffer",
-    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ArrayBuffer",
-    "memberof": "src/.external-ecmascript.js",
-    "static": true,
-    "longname": "src/.external-ecmascript.js~ArrayBuffer",
-    "access": "public",
-    "description": "",
-    "builtinExternal": true
-  },
-  {
-    "__docId__": 41,
-    "kind": "external",
-    "name": "DataView",
-    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView",
-    "memberof": "src/.external-ecmascript.js",
-    "static": true,
-    "longname": "src/.external-ecmascript.js~DataView",
-    "access": "public",
-    "description": "",
-    "builtinExternal": true
-  },
-  {
-    "__docId__": 42,
-    "kind": "external",
-    "name": "JSON",
-    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON",
-    "memberof": "src/.external-ecmascript.js",
-    "static": true,
-    "longname": "src/.external-ecmascript.js~JSON",
-    "access": "public",
-    "description": "",
-    "builtinExternal": true
-  },
-  {
-    "__docId__": 43,
-    "kind": "external",
-    "name": "Promise",
-    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise",
-    "memberof": "src/.external-ecmascript.js",
-    "static": true,
-    "longname": "src/.external-ecmascript.js~Promise",
-    "access": "public",
-    "description": "",
-    "builtinExternal": true
-  },
-  {
-    "__docId__": 44,
-    "kind": "external",
-    "name": "Generator",
-    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator",
-    "memberof": "src/.external-ecmascript.js",
-    "static": true,
-    "longname": "src/.external-ecmascript.js~Generator",
-    "access": "public",
-    "description": "",
-    "builtinExternal": true
-  },
-  {
-    "__docId__": 45,
-    "kind": "external",
-    "name": "GeneratorFunction",
-    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/GeneratorFunction",
-    "memberof": "src/.external-ecmascript.js",
-    "static": true,
-    "longname": "src/.external-ecmascript.js~GeneratorFunction",
-    "access": "public",
-    "description": "",
-    "builtinExternal": true
-  },
-  {
-    "__docId__": 46,
-    "kind": "external",
-    "name": "Reflect",
-    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Reflect",
-    "memberof": "src/.external-ecmascript.js",
-    "static": true,
-    "longname": "src/.external-ecmascript.js~Reflect",
-    "access": "public",
-    "description": "",
-    "builtinExternal": true
-  },
-  {
-    "__docId__": 47,
-    "kind": "external",
-    "name": "Proxy",
-    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy",
-    "memberof": "src/.external-ecmascript.js",
-    "static": true,
-    "longname": "src/.external-ecmascript.js~Proxy",
-    "access": "public",
-    "description": "",
-    "builtinExternal": true
-  },
-  {
-    "__docId__": 48,
+    "__docId__": 0,
     "kind": "file",
     "name": "src/app.js",
     "content": "import GmapManager from './GmapManager';\r\n\r\nwindow.GmapManager = GmapManager;",
     "static": true,
     "longname": "D:/Repositorios/RepositorioMigue/libs/gmaps-manager/src/app.js",
-    "access": "public",
+    "access": null,
     "description": null,
     "lineNumber": 1
   },
   {
-    "__docId__": 49,
+    "__docId__": 1,
     "kind": "file",
     "name": "src/GmapManager.js",
-    "content": "import Layer from \"./Layer\";\r\n\r\n/**\r\n * Google maps layer manager\r\n */\r\nexport default class GmapManager {\r\n\r\n    // constructor\r\n    // --------------------------\r\n\r\n    /**\r\n     * @constructor\r\n     * @param {any} divId: DOM div ID\r\n     * @param {object} options: classic options of google maps instances\r\n     */\r\n    constructor(divId, options) {\r\n        \r\n        this.divId = divId;\r\n        this.options = options;\r\n        \r\n        // default properties\r\n        this.options.center = options.center || {lat: -31.4138261, lng: -64.2008924};\r\n        this.options.zoom = options.zoom || 13;\r\n\r\n        // init map\r\n        this.createMap();\r\n    }\r\n\r\n    // methods\r\n    // --------------------------\r\n\r\n    /**\r\n     * Create and configure a new instance of a map\r\n     */\r\n    createMap() {\r\n\r\n        // creates map instance\r\n        this.map = new google.maps.Map(document.getElementById(this.divId),this.options);\r\n        \r\n        // creates default layer\r\n        this._baseLayer = new Layer(this.map, '__baseLayer');\r\n        this.layers = this._baseLayer.layers;\r\n\r\n        // custom properties: events\r\n        if (this.options['events'] != null) {\r\n            for (var name in this.options['events']) {\r\n                this.map.addListener(name, this.options['events'][name]);\r\n            }\r\n        }\r\n\r\n    }\r\n\r\n    /**\r\n     * create a new base layer\r\n     * @param {any} id: layer id\r\n     */\r\n    addLayer(id) {\r\n        return this._baseLayer.addLayer(id);\r\n    }\r\n\r\n    /**\r\n     * get a base layer by id\r\n     * @param {any} id: layer id\r\n     */\r\n    getLayer(id) {\r\n        return this._baseLayer.getLayer(id);\r\n    }\r\n\r\n    /**\r\n     * remove a base layer by id\r\n     * @param {any} id: layer id\r\n     */\r\n    removeLayer(id) {\r\n        return this._baseLayer.removeLayer(id);\r\n    }\r\n\r\n}",
+    "content": "import Layer from \"./Layer\";\r\n\r\n/**\r\n * Google maps layer manager\r\n */\r\nexport default class GmapManager {\r\n  // constructor\r\n  // --------------------------\r\n\r\n  /**\r\n   * @constructor\r\n   * @param {any} divId: DOM div ID\r\n   * @param {object} options: classic options of google maps instances\r\n   */\r\n  constructor(divId, options) {\r\n    this.divId = divId;\r\n    this.options = options;\r\n\r\n    // default properties\r\n    this.options.center = options.center || {\r\n      lat: -31.4138261,\r\n      lng: -64.2008924\r\n    };\r\n    this.options.zoom = options.zoom || 13;\r\n\r\n    // init map\r\n    this.createMap();\r\n  }\r\n\r\n  // methods\r\n  // --------------------------\r\n\r\n  /**\r\n   * Create and configure a new instance of a map\r\n   */\r\n  createMap() {\r\n    // creates map instance\r\n    this.map = new google.maps.Map(\r\n      document.getElementById(this.divId),\r\n      this.options\r\n    );\r\n\r\n    // creates default layer\r\n    this._baseLayer = new Layer(this.map, \"__baseLayer\");\r\n    this.layers = this._baseLayer.layers;\r\n\r\n    // custom properties: events\r\n    if (this.options[\"events\"] != null) {\r\n      for (var name in this.options[\"events\"]) {\r\n        this.map.addListener(name, this.options[\"events\"][name]);\r\n      }\r\n    }\r\n  }\r\n\r\n  /**\r\n   * create a new base layer\r\n   * @param {any} id: layer id\r\n   */\r\n  addLayer(id) {\r\n    return this._baseLayer.addLayer(id);\r\n  }\r\n\r\n  /**\r\n   * get a base layer by id\r\n   * @param {any} id: layer id\r\n   */\r\n  getLayer(id) {\r\n    return this._baseLayer.getLayer(id);\r\n  }\r\n\r\n  /**\r\n   * remove a base layer by id\r\n   * @param {any} id: layer id\r\n   */\r\n  removeLayer(id) {\r\n    return this._baseLayer.removeLayer(id);\r\n  }\r\n\r\n  // STATIC METHDOS\r\n  // --------------------------\r\n\r\n  static getAreaCenter(areaArray) {\r\n    var bounds = new google.maps.LatLngBounds();\r\n    for (const l of areaArray) bounds.extend(l);\r\n    const center = bounds.getCenter();\r\n    return center;\r\n  }\r\n\r\n  static colorHexToRgb(hex) {\r\n    var res = hex.match(/[a-f0-9]{2}/gi);\r\n    return res && res.length === 3\r\n      ? res.map(function(v) {\r\n          return parseInt(v, 16);\r\n        })\r\n      : null;\r\n  }\r\n\r\n  static colorRgbToHex(red, green, blue) {\r\n    var rgb = blue | (green << 8) | (red << 16);\r\n    return \"#\" + (0x1000000 + rgb).toString(16).slice(1);\r\n  }\r\n\r\n  static colorLightUp(color) {\r\n    let c = GmapManager.colorHexToRgb(color);\r\n    c[0] = c[0] < 225 ? c[0] + 30 : 255;\r\n    c[1] = c[1] < 225 ? c[1] + 30 : 255;\r\n    c[2] = c[2] < 225 ? c[2] + 30 : 255;\r\n    return GmapManager.colorRgbToHex(c[0],c[1],c[2]);\r\n  }\r\n\r\n  static colorRandom() {\r\n    return (\r\n      \"#\" + (0x1000000 + Math.random() * 0xffffff).toString(16).substr(1, 6)\r\n    );\r\n  }\r\n}\r\n",
     "static": true,
     "longname": "D:/Repositorios/RepositorioMigue/libs/gmaps-manager/src/GmapManager.js",
-    "access": "public",
+    "access": null,
     "description": null,
     "lineNumber": 1
   },
   {
-    "__docId__": 50,
+    "__docId__": 2,
     "kind": "class",
     "name": "GmapManager",
     "memberof": "src/GmapManager.js",
     "static": true,
     "longname": "src/GmapManager.js~GmapManager",
-    "access": "public",
+    "access": null,
     "export": true,
     "importPath": "babel_webpack_starter/src/GmapManager.js",
     "importStyle": "GmapManager",
@@ -601,7 +37,7 @@
     "interface": false
   },
   {
-    "__docId__": 51,
+    "__docId__": 3,
     "kind": "constructor",
     "name": "constructor",
     "memberof": "src/GmapManager.js~GmapManager",
@@ -609,9 +45,9 @@
     "async": false,
     "static": false,
     "longname": "src/GmapManager.js~GmapManager#constructor",
-    "access": "public",
+    "access": null,
     "description": "",
-    "lineNumber": 16,
+    "lineNumber": 15,
     "unknown": [
       {
         "tagName": "@constructor",
@@ -642,41 +78,31 @@
     ]
   },
   {
-    "__docId__": 52,
+    "__docId__": 4,
     "kind": "member",
     "name": "divId",
     "memberof": "src/GmapManager.js~GmapManager",
     "static": false,
     "longname": "src/GmapManager.js~GmapManager#divId",
-    "access": "public",
+    "access": null,
     "description": null,
-    "lineNumber": 18,
-    "undocument": true,
-    "type": {
-      "types": [
-        "*"
-      ]
-    }
+    "lineNumber": 16,
+    "undocument": true
   },
   {
-    "__docId__": 53,
+    "__docId__": 5,
     "kind": "member",
     "name": "options",
     "memberof": "src/GmapManager.js~GmapManager",
     "static": false,
     "longname": "src/GmapManager.js~GmapManager#options",
-    "access": "public",
+    "access": null,
     "description": null,
-    "lineNumber": 19,
-    "undocument": true,
-    "type": {
-      "types": [
-        "*"
-      ]
-    }
+    "lineNumber": 17,
+    "undocument": true
   },
   {
-    "__docId__": 54,
+    "__docId__": 6,
     "kind": "method",
     "name": "createMap",
     "memberof": "src/GmapManager.js~GmapManager",
@@ -684,65 +110,48 @@
     "async": false,
     "static": false,
     "longname": "src/GmapManager.js~GmapManager#createMap",
-    "access": "public",
+    "access": null,
     "description": "Create and configure a new instance of a map",
-    "lineNumber": 35,
-    "params": [],
-    "return": null
+    "lineNumber": 36
   },
   {
-    "__docId__": 55,
+    "__docId__": 7,
     "kind": "member",
     "name": "map",
     "memberof": "src/GmapManager.js~GmapManager",
     "static": false,
     "longname": "src/GmapManager.js~GmapManager#map",
-    "access": "public",
+    "access": null,
     "description": null,
     "lineNumber": 38,
-    "undocument": true,
-    "type": {
-      "types": [
-        "*"
-      ]
-    }
+    "undocument": true
   },
   {
-    "__docId__": 56,
+    "__docId__": 8,
     "kind": "member",
     "name": "_baseLayer",
     "memberof": "src/GmapManager.js~GmapManager",
     "static": false,
     "longname": "src/GmapManager.js~GmapManager#_baseLayer",
-    "access": "private",
+    "access": null,
     "description": null,
-    "lineNumber": 41,
-    "undocument": true,
-    "type": {
-      "types": [
-        "*"
-      ]
-    }
+    "lineNumber": 44,
+    "undocument": true
   },
   {
-    "__docId__": 57,
+    "__docId__": 9,
     "kind": "member",
     "name": "layers",
     "memberof": "src/GmapManager.js~GmapManager",
     "static": false,
     "longname": "src/GmapManager.js~GmapManager#layers",
-    "access": "public",
+    "access": null,
     "description": null,
-    "lineNumber": 42,
-    "undocument": true,
-    "type": {
-      "types": [
-        "*"
-      ]
-    }
+    "lineNumber": 45,
+    "undocument": true
   },
   {
-    "__docId__": 58,
+    "__docId__": 10,
     "kind": "method",
     "name": "addLayer",
     "memberof": "src/GmapManager.js~GmapManager",
@@ -750,9 +159,9 @@
     "async": false,
     "static": false,
     "longname": "src/GmapManager.js~GmapManager#addLayer",
-    "access": "public",
+    "access": null,
     "description": "create a new base layer",
-    "lineNumber": 57,
+    "lineNumber": 59,
     "params": [
       {
         "nullable": null,
@@ -764,15 +173,10 @@
         "name": "id:",
         "description": "layer id"
       }
-    ],
-    "return": {
-      "types": [
-        "*"
-      ]
-    }
+    ]
   },
   {
-    "__docId__": 59,
+    "__docId__": 11,
     "kind": "method",
     "name": "getLayer",
     "memberof": "src/GmapManager.js~GmapManager",
@@ -780,9 +184,9 @@
     "async": false,
     "static": false,
     "longname": "src/GmapManager.js~GmapManager#getLayer",
-    "access": "public",
+    "access": null,
     "description": "get a base layer by id",
-    "lineNumber": 65,
+    "lineNumber": 67,
     "params": [
       {
         "nullable": null,
@@ -794,15 +198,10 @@
         "name": "id:",
         "description": "layer id"
       }
-    ],
-    "return": {
-      "types": [
-        "*"
-      ]
-    }
+    ]
   },
   {
-    "__docId__": 60,
+    "__docId__": 12,
     "kind": "method",
     "name": "removeLayer",
     "memberof": "src/GmapManager.js~GmapManager",
@@ -810,9 +209,9 @@
     "async": false,
     "static": false,
     "longname": "src/GmapManager.js~GmapManager#removeLayer",
-    "access": "public",
+    "access": null,
     "description": "remove a base layer by id",
-    "lineNumber": 73,
+    "lineNumber": 75,
     "params": [
       {
         "nullable": null,
@@ -824,42 +223,106 @@
         "name": "id:",
         "description": "layer id"
       }
-    ],
-    "return": {
-      "types": [
-        "*"
-      ]
-    }
+    ]
   },
   {
-    "__docId__": 61,
+    "__docId__": 13,
+    "kind": "method",
+    "name": "getAreaCenter",
+    "memberof": "src/GmapManager.js~GmapManager",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/GmapManager.js~GmapManager.getAreaCenter",
+    "access": null,
+    "description": null,
+    "lineNumber": 82,
+    "undocument": true
+  },
+  {
+    "__docId__": 14,
+    "kind": "method",
+    "name": "colorHexToRgb",
+    "memberof": "src/GmapManager.js~GmapManager",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/GmapManager.js~GmapManager.colorHexToRgb",
+    "access": null,
+    "description": null,
+    "lineNumber": 89,
+    "undocument": true
+  },
+  {
+    "__docId__": 15,
+    "kind": "method",
+    "name": "colorRgbToHex",
+    "memberof": "src/GmapManager.js~GmapManager",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/GmapManager.js~GmapManager.colorRgbToHex",
+    "access": null,
+    "description": null,
+    "lineNumber": 98,
+    "undocument": true
+  },
+  {
+    "__docId__": 16,
+    "kind": "method",
+    "name": "colorLightUp",
+    "memberof": "src/GmapManager.js~GmapManager",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/GmapManager.js~GmapManager.colorLightUp",
+    "access": null,
+    "description": null,
+    "lineNumber": 103,
+    "undocument": true
+  },
+  {
+    "__docId__": 17,
+    "kind": "method",
+    "name": "colorRandom",
+    "memberof": "src/GmapManager.js~GmapManager",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/GmapManager.js~GmapManager.colorRandom",
+    "access": null,
+    "description": null,
+    "lineNumber": 111,
+    "undocument": true
+  },
+  {
+    "__docId__": 18,
     "kind": "file",
     "name": "src/Layer.js",
-    "content": "export default class Layer {\r\n  // constructor\r\n  // --------------------------\r\n  constructor(map, id) {\r\n    this.map = map;\r\n    this.id = id;\r\n\r\n    this.layers = [];\r\n    this.markers = [];\r\n    this.polygons = [];\r\n    this.polylines = [];\r\n  }\r\n\r\n  // own methods\r\n  // --------------------------\r\n  clear() {\r\n    this.clearMarkers();\r\n    this.clearPolygons();\r\n    this.clearLayers();\r\n  }\r\n\r\n  setVisible(visible) {\r\n    this.setVisibleMarkers(visible);\r\n    this.setVisiblePolygons(visible);\r\n    this.setVisiblePolylines(visible);\r\n    this.setVisibleLayers(visible);\r\n\r\n    this.setVisibleHeatmap(visible);\r\n  }\r\n\r\n  // layers methods\r\n  // --------------------------\r\n\r\n  addLayer(id) {\r\n    if (this.getLayer(id)) {\r\n      throw new Error(\"layer alredy exists\");\r\n    }\r\n    const layer = new Layer(this.map, id);\r\n    this.layers.push(layer);\r\n    return layer;\r\n  }\r\n\r\n  getLayer(id) {\r\n    return this.layers.filter(x => x.id === id)[0];\r\n  }\r\n\r\n  removeLayer(id) {\r\n    const index = this.layers.indexOf(this.getLayer(id));\r\n    if (index) {\r\n      return this.layers.splice(index, 1);\r\n    }\r\n  }\r\n\r\n  setVisibleLayers(visible) {\r\n    for (const layer of this.layers) {\r\n      layer.setVisible(visible);\r\n    }\r\n  }\r\n\r\n  clearLayers() {\r\n    for (const layer of this.layers) {\r\n      layers.clear();\r\n    }\r\n    this.layers = [];\r\n  }\r\n\r\n  // markers methods\r\n  // --------------------------\r\n\r\n  addMarker(id, options) {\r\n    // error management\r\n    if (id === Object(id)) {\r\n      throw new Error(\"must set a marker id\");\r\n    }\r\n\r\n    if (this.getMarker(id)) {\r\n      throw new Error(\"marker id alredy exists\");\r\n    }\r\n\r\n    // default properties\r\n    options.map = this.map;\r\n    options.id = id;\r\n    const marker = new google.maps.Marker(options);\r\n\r\n    // custom properties: events\r\n    if (options[\"events\"] != null) {\r\n      for (var name in options[\"events\"]) {\r\n        google.maps.event.addListener(marker, name, options[\"events\"][name]);\r\n      }\r\n    }\r\n\r\n    // custom properties: info window\r\n    if (options[\"infoWindowContent\"] != null) {\r\n      marker.infowindow = new google.maps.InfoWindow({\r\n        content: options[\"infoWindowContent\"]\r\n      });\r\n\r\n      marker.addListener(\"click\", function() {\r\n        this.infowindow.open(this.getMap(), this);\r\n      });\r\n    }\r\n\r\n    // add to array\r\n    this.markers.push(marker);\r\n    return marker;\r\n  }\r\n\r\n  getMarker(id) {\r\n    return this.markers.filter(x => x.id === id)[0];\r\n  }\r\n\r\n  removeMarker(id) {\r\n    const index = this.markers.indexOf(this.getMarker(id));\r\n    if (index) {\r\n      return this.markers.splice(index, 1);\r\n    }\r\n  }\r\n\r\n  clearMarkers() {\r\n    for (const marker of this.markers) {\r\n      marker.setMap(null);\r\n    }\r\n    this.markers = [];\r\n  }\r\n\r\n  setVisibleMarkers(visible) {\r\n    if (!this.heatmap)\r\n      for (const marker of this.markers) {\r\n        marker.setVisible(visible);\r\n      }\r\n  }\r\n\r\n  createHeatmap(options) {\r\n    // destroy current heatmap\r\n    if (this.heatmap) {\r\n      this.heatmap.setMap(null);\r\n      this.heatmap = null;\r\n    }\r\n\r\n    // hide all markers\r\n    this.setVisibleMarkers(false);\r\n\r\n    // set default values\r\n    options.data = this.markers.map(x => x.position);\r\n    options.map = this.map;\r\n\r\n    // creates new heatmap\r\n    this.heatmap = new google.maps.visualization.HeatmapLayer(options);\r\n  }\r\n\r\n  setVisibleHeatmap(visible) {\r\n    if (this.heatmap) {\r\n      if (visible) this.heatmap.setMap(this.map);\r\n      else this.heatmap.setMap(null);\r\n    }\r\n  }\r\n\r\n  // polygons methods\r\n  // --------------------------\r\n\r\n  addPolygon(id, options) {\r\n    // error management\r\n    if (!id) {\r\n      throw new Error(\"must set a polygon id\");\r\n    }\r\n\r\n    if (this.getPolygon(id)) {\r\n      throw new Error(\"polygon id alredy exists\");\r\n    }\r\n\r\n    // default properties\r\n    options.map = this.map;\r\n    options.id = id;\r\n    const polygon = new google.maps.Polygon(options);\r\n\r\n    // custom properties: events\r\n    if (options[\"events\"] != null) {\r\n      for (var name in options[\"events\"]) {\r\n        google.maps.event.addListener(polygon, name, options[\"events\"][name]);\r\n      }\r\n    }\r\n\r\n    // add to array\r\n    this.polygons.push(polygon);\r\n    return polygon;\r\n  }\r\n\r\n  getPolygon(id) {\r\n    return this.polygons.filter(x => x.id === id)[0];\r\n  }\r\n\r\n  removePolygon(id) {\r\n    const index = this.polygons.indexOf(this.getPolygon(id));\r\n    if (index) {\r\n      return this.polygons.splice(index, 1);\r\n    }\r\n  }\r\n\r\n  setVisiblePolygons(visible) {\r\n    for (const polygon of this.polygons) {\r\n      polygon.setVisible(visible);\r\n    }\r\n  }\r\n\r\n  clearPolygons() {\r\n    for (const polygon of this.polygons) {\r\n      polygon.setMap(null);\r\n    }\r\n    this.polygons = [];\r\n  }\r\n\r\n  // polylines methods\r\n  // --------------------------\r\n\r\n  addPolyline(id, options) {\r\n    // error management\r\n    if (!id) {\r\n      throw new Error(\"must set a polyline id\");\r\n    }\r\n\r\n    if (this.getPolyline(id)) {\r\n      throw new Error(\"polyline id alredy exists\");\r\n    }\r\n\r\n    // default properties\r\n    options.map = this.map;\r\n    options.id = id;\r\n    const polyline = new google.maps.Polyline(options);\r\n\r\n    // custom properties: events\r\n    if (options[\"events\"] != null) {\r\n      for (var name in options[\"events\"]) {\r\n        google.maps.event.addListener(polyline, name, options[\"events\"][name]);\r\n      }\r\n    }\r\n\r\n    // add to array\r\n    this.polylines.push(polyline);\r\n    return polyline;\r\n  }\r\n\r\n  getPolyline(id) {\r\n    return this.polylines.filter(x => x.id === id)[0];\r\n  }\r\n\r\n  removePolyline(id) {\r\n    const index = this.polylines.indexOf(this.getPolyline(id));\r\n    if (index) {\r\n      return this.polylines.splice(index, 1);\r\n    }\r\n  }\r\n\r\n  setVisiblePolylines(visible) {\r\n    for (const polyline of this.polylines) {\r\n      polyline.setVisible(visible);\r\n    }\r\n  }\r\n\r\n  clearPolylines() {\r\n    for (const polyline of this.polylines) {\r\n      polyline.setMap(null);\r\n    }\r\n    this.polylines = [];\r\n  }\r\n}\r\n",
+    "content": "import MarkerClusterer from \"./plugins/markercluster.js\";\r\nimport * as toGeoJSON from \"@mapbox/togeojson\";\r\nimport tokml from \"tokml\";\r\nimport GmapManager from \"./GmapManager.js\";\r\n\r\n/**\r\n * Layer is a google maps \"features\" container,\r\n * like Makers, Polygons and Polylines.\r\n * Also, Layer can contain other sub-Layers\r\n */\r\nexport default class Layer {\r\n  \r\n  // constructor\r\n  // --------------------------\r\n\r\n  /**\r\n   *\r\n   * @param {google.maps.map} map : a google map instance\r\n   * @param {any} id : unique id of a layer\r\n   */\r\n  constructor(map, id) {\r\n    this.map = map;\r\n    this.id = id;\r\n\r\n    this.layers = [];\r\n    this.markers = [];\r\n    this.polygons = [];\r\n    this.polylines = [];\r\n  }\r\n\r\n  // own methods\r\n  // --------------------------\r\n\r\n  /**\r\n   * Erase all things on that layer\r\n   */\r\n  clear() {\r\n    this.clearMarkers();\r\n    this.clearPolygons();\r\n    this.clearPolylines();\r\n    this.clearLayers();\r\n    this.clearHeatmap();\r\n    this.clearClusters();\r\n  }\r\n\r\n  /**\r\n   * Hide / show layer\r\n   * @param {boolean} visible : visibility of layer\r\n   */\r\n  setVisible(visible) {\r\n    this.setVisibleMarkers(visible);\r\n    this.setVisiblePolygons(visible);\r\n    this.setVisiblePolylines(visible);\r\n    this.setVisibleLayers(visible);\r\n\r\n    this.setVisibleHeatmap(visible);\r\n    this.setVisibleClusters(visible);\r\n  }\r\n\r\n  /**\r\n   * create a heatmap using layer's markers\r\n   * @param {object} options : original google maps Heatman options\r\n   */\r\n  createHeatmap(options) {\r\n    // destroy current heatmap\r\n    if (this.heatmap) {\r\n      this.heatmap.setMap(null);\r\n      this.heatmap = null;\r\n    }\r\n\r\n    // hide all markers\r\n    this.setVisibleMarkers(false);\r\n\r\n    // set default values\r\n    options.data = this.markers.map(x => x.position);\r\n    options.map = this.map;\r\n\r\n    // creates new heatmap\r\n    this.heatmap = new google.maps.visualization.HeatmapLayer(options);\r\n  }\r\n\r\n  /**\r\n   * hide / show created heatmap\r\n   * @param {boolean} visible : heatmap visibility\r\n   */\r\n  setVisibleHeatmap(visible) {\r\n    if (this.heatmap) {\r\n      if (visible) this.heatmap.setMap(this.map);\r\n      else this.heatmap.setMap(null);\r\n    }\r\n  }\r\n\r\n  /**\r\n   * remove created heatmap\r\n   */\r\n  clearHeatmap() {\r\n    this.setVisibleHeatmap(false);\r\n    this.heatmap = null;\r\n  }\r\n\r\n  /**\r\n   * Create a cluster layer: \"manage per-zoom-level clusters for\r\n   * large amounts of markers\" (https://github.com/googlemaps/js-marker-clusterer)\r\n   * @param {object} options : original MarkerClusterer options\r\n   */\r\n  createClusters(options) {\r\n    // destroy current clusters\r\n    if (this.clusters) {\r\n      this.clusters.setMap(null);\r\n      this.clusters = null;\r\n    }\r\n\r\n    // creates new clusters\r\n    this.clusters = new MarkerClusterer(this.map, this.markers, {\r\n      imagePath:\r\n        \"https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/m\"\r\n    });\r\n  }\r\n\r\n  /**\r\n   * hide / show created clusters\r\n   * @param {boolean} visible : clusters visibility\r\n   */\r\n  setVisibleClusters(visible) {\r\n    if (this.clusters) {\r\n      if (visible) this.clusters.setMap(this.map);\r\n      else this.clusters.setMap(null);\r\n    }\r\n  }\r\n\r\n  /**\r\n   * remove created clusters\r\n   */\r\n  clearClusters() {\r\n    this.setVisibleClusters(false);\r\n    this.clusters = null;\r\n  }\r\n\r\n  /**\r\n   * create an original KML Layer\r\n   * @param {string} src : kml file url\r\n   */\r\n  loadKmlOriginal(src) {\r\n    var kmlLayer = new google.maps.KmlLayer(src, {\r\n      suppressInfoWindows: true,\r\n      preserveViewport: false,\r\n      map: this.map\r\n    });\r\n  }\r\n\r\n  /**\r\n   * fill the layer with kml features (Point->makers,\r\n   * Polygon->polygon, LineString-> Polyline)\r\n   * @param {string} src : kml file src\r\n   */\r\n  loadKml(src) {\r\n    fetch(src)\r\n      .then(res => res.text())\r\n      .then(xml => {\r\n        const dom = new DOMParser().parseFromString(xml, \"text/xml\");\r\n        const geojson = toGeoJSON.kml(dom);\r\n        console.log(geojson);\r\n\r\n        if (geojson.features) {\r\n          for (const f of geojson.features) {\r\n            if (f.type === \"Feature\") {\r\n              switch (f.geometry.type) {\r\n                case \"Point\":\r\n                  this.addMarker(geojson.features.indexOf(f), {\r\n                    position: {\r\n                      lat: f.geometry.coordinates[1],\r\n                      lng: f.geometry.coordinates[0]\r\n                    },\r\n                    infoWindowContent: `\r\n                      <b>${f.properties.name}</b><br>\r\n                      ${f.properties.description}\r\n                    `\r\n                  });\r\n                  break;\r\n\r\n                case \"Polygon\":\r\n                  this.addPolygon(geojson.features.indexOf(f), {\r\n                    path: f.geometry.coordinates[0].map(x => {\r\n                      return { lat: x[1], lng: x[0] };\r\n                    }),\r\n                    strokeColor: f.properties.stroke || \"#FF0000\",\r\n                    strokeOpacity: f.properties.strokeOpacity || 0.8,\r\n                    strokeWeight: f.properties.strokeWidth || 2,\r\n                    fillColor: f.properties.fill || \"#FF0000\",\r\n                    fillOpacity: f.properties.fillOpacity || 0.35,\r\n                    infoWindowContent: f.properties.name\r\n                  });\r\n                  break;\r\n\r\n                case \"Polyline\":\r\n                  this.addPolyline(geojson.features.indexOf(f), {\r\n                    path: f.geometry.coordinates[0].map(x => {\r\n                      return { lat: x[1], lng: x[0] };\r\n                    }),\r\n                    strokeColor: f.properties.stroke || \"#FF0000\",\r\n                    strokeOpacity: f.properties.strokeOpacity || 0.8,\r\n                    strokeWeight: f.properties.strokeWidth || 2,\r\n                    infoWindowContent: f.properties.name\r\n                  });\r\n                  break;\r\n\r\n                default:\r\n                  break;\r\n              }\r\n            }\r\n          }\r\n        }\r\n      });\r\n  }\r\n\r\n  /**\r\n   * Create a GeoJson object from layer features\r\n   * (The GeoJSON Specification (RFC 7946))\r\n   */\r\n  exportGeoJson() {\r\n\r\n    // create base geojson\r\n    let geojson = {\r\n      type: \"FeatureCollection\",\r\n      features: []\r\n    };\r\n\r\n    // add markers\r\n    for (const m of this.markers) {\r\n      geojson.features.push({\r\n        type: \"Feature\",\r\n        geometry: {\r\n          type: \"Point\",\r\n          coordinates: [m.getPosition().lng(), m.getPosition().lat(), 0]\r\n        },\r\n        properties: {\r\n          name: m.id.toString(),\r\n          description: m.infoWindowContent || \"\"\r\n        }\r\n      });\r\n    }\r\n\r\n    // add polygons\r\n    for (const p of this.polygons) {\r\n      geojson.features.push({\r\n        type: \"Feature\",\r\n        geometry: {\r\n          type: \"Polygon\",\r\n          coordinates: [\r\n            p\r\n              .getPath()\r\n              .getArray()\r\n              .map(x => [x.lng(), x.lat(), 0])\r\n          ]\r\n        },\r\n        properties: {\r\n          name: p.id.toString(),\r\n          description: p.infoWindowContent || \"\"\r\n        }\r\n      });\r\n    }\r\n\r\n    // add polylines\r\n    for (const p of this.polylines) {\r\n      geojson.features.push({\r\n        type: \"Feature\",\r\n        geometry: {\r\n          type: \"LineString\",\r\n          coordinates: [\r\n            p\r\n              .getPath()\r\n              .getArray()\r\n              .map(x => [x.lng(), x.lat(), 0])\r\n          ]\r\n        },\r\n        properties: {\r\n          name: p.id.toString(),\r\n          description: p.infoWindowContent || \"\"\r\n        }\r\n      });\r\n    }\r\n\r\n    // return\r\n    return geojson;\r\n  }\r\n\r\n  /**\r\n   * Create a KML definition from layer features\r\n   */\r\n  exportKml() {\r\n    return tokml(this.exportGeoJson());\r\n  }\r\n\r\n  /**\r\n   * Create a KML file from layer features\r\n   * @param {string} filename : filename of the exported file\r\n   */\r\n  exportKmlFile(filename) {\r\n    const data = this.exportKml();\r\n    var file = new Blob([data], { type: \"kml\" });\r\n    if (window.navigator.msSaveOrOpenBlob)\r\n      // IE10+\r\n      window.navigator.msSaveOrOpenBlob(file, filename);\r\n    else {\r\n      // Others\r\n      var a = document.createElement(\"a\"),\r\n        url = URL.createObjectURL(file);\r\n      a.href = url;\r\n      a.download = filename;\r\n      document.body.appendChild(a);\r\n      a.click();\r\n      setTimeout(function() {\r\n        document.body.removeChild(a);\r\n        window.URL.revokeObjectURL(url);\r\n      }, 0);\r\n    }\r\n  }\r\n\r\n  // layers methods\r\n  // --------------------------\r\n\r\n  /**\r\n   * add a sub layer\r\n   * @param {any} id : layer id\r\n   */\r\n  addLayer(id) {\r\n    if (this.getLayer(id)) {\r\n      throw new Error(\"layer alredy exists\");\r\n    }\r\n    const layer = new Layer(this.map, id);\r\n    this.layers.push(layer);\r\n    return layer;\r\n  }\r\n\r\n  /**\r\n   * get a layer by id\r\n   * @param {any} id : layer id\r\n   */\r\n  getLayer(id) {\r\n    return this.layers.filter(x => x.id === id)[0];\r\n  }\r\n\r\n  /**\r\n   * remove a layer by id\r\n   * @param {any} id : layer id\r\n   */\r\n  removeLayer(id) {\r\n    const index = this.layers.indexOf(this.getLayer(id));\r\n    if (index) {\r\n      return this.layers.splice(index, 1);\r\n    }\r\n  }\r\n\r\n  /**\r\n   * set all layers array visibility\r\n   * @param {boolean} visible : layers array visibility\r\n   */\r\n  setVisibleLayers(visible) {\r\n    for (const layer of this.layers) {\r\n      layer.setVisible(visible);\r\n    }\r\n  }\r\n\r\n  /**\r\n   * clear all sub-layers\r\n   */\r\n  clearLayers() {\r\n    for (const layer of this.layers) {\r\n      layers.clear();\r\n    }\r\n    this.layers = [];\r\n  }\r\n\r\n  // markers methods\r\n  // --------------------------\r\n\r\n  /**\r\n   * Add a google.maps.Marker to the markers array\r\n   * @param {any} id : marker id\r\n   * @param {object} options : original google.maps.Marker options\r\n   */\r\n  addMarker(id, options) {\r\n    // error management\r\n    if (id === Object(id)) {\r\n      throw new Error(\"must set a marker id\");\r\n    }\r\n\r\n    if (this.getMarker(id)) {\r\n      throw new Error(\"marker id alredy exists\");\r\n    }\r\n\r\n    // default properties\r\n    options.map = this.map;\r\n    options.id = id;\r\n    const marker = new google.maps.Marker(options);\r\n\r\n    // custom properties: events\r\n    if (options[\"events\"] != null) {\r\n      for (var name in options[\"events\"]) {\r\n        google.maps.event.addListener(marker, name, options[\"events\"][name]);\r\n      }\r\n    }\r\n\r\n    // custom properties: info window\r\n    if (options[\"infoWindowContent\"] != null) {\r\n      marker.infowindow = new google.maps.InfoWindow({\r\n        content: options[\"infoWindowContent\"]\r\n      });\r\n\r\n      marker.addListener(\"click\", function() {\r\n        this.infowindow.open(this.getMap(), this);\r\n      });\r\n    }\r\n\r\n    // add to array\r\n    this.markers.push(marker);\r\n    return marker;\r\n  }\r\n\r\n  /**\r\n   * get a marker by id\r\n   * @param {any} id : marker id\r\n   */\r\n  getMarker(id) {\r\n    return this.markers.filter(x => x.id === id)[0];\r\n  }\r\n\r\n  /**\r\n   * remove a marker by id\r\n   * @param {any} id : marker id\r\n   */\r\n  removeMarker(id) {\r\n    const index = this.markers.indexOf(this.getMarker(id));\r\n    if (index) {\r\n      return this.markers.splice(index, 1);\r\n    }\r\n  }\r\n\r\n  /**\r\n   * clear all layer's markers\r\n   */\r\n  clearMarkers() {\r\n    for (const marker of this.markers) {\r\n      marker.setMap(null);\r\n    }\r\n    this.markers = [];\r\n  }\r\n\r\n  /**\r\n   * set all markers array visibility\r\n   * @param {boolean} visible : markers visibility\r\n   */\r\n  setVisibleMarkers(visible) {\r\n    if (!this.heatmap)\r\n      for (const marker of this.markers) {\r\n        marker.setVisible(visible);\r\n      }\r\n  }\r\n\r\n  // polygons methods\r\n  // --------------------------\r\n\r\n  /**\r\n   * Add a google.maps.Polygon to the polygons array\r\n   * @param {any} id : polygon id\r\n   * @param {object} options : original google.maps.Polygon options\r\n   */\r\n  addPolygon(id, options) {\r\n\r\n    // error management\r\n    if (!id) {\r\n      throw new Error(\"must set a polygon id\");\r\n    }\r\n\r\n    if (this.getPolygon(id)) {\r\n      throw new Error(\"polygon id alredy exists\");\r\n    }\r\n\r\n    // default properties\r\n    options.map = this.map;\r\n    options.id = id;\r\n    options.center = GmapManager.getAreaCenter(options.path);\r\n    options.baseColor = options.fillColor || GmapManager.colorRandom();\r\n    const polygon = new google.maps.Polygon(options);\r\n\r\n    // custom properties: events\r\n    if (options[\"events\"] != null) {\r\n      for (var name in options[\"events\"]) {\r\n        google.maps.event.addListener(polygon, name, options[\"events\"][name]);\r\n      }\r\n    }\r\n\r\n    // custom properties: info window\r\n    if (options[\"infoWindowContent\"] != null) {\r\n      polygon.infowindow = new google.maps.InfoWindow({\r\n        content: options[\"infoWindowContent\"]\r\n      });\r\n\r\n      polygon.addListener(\"click\", function(e) {\r\n        this.infowindow.setPosition(e.latLng);\r\n        this.infowindow.open(this.getMap(), this);\r\n      });\r\n    }\r\n\r\n    // custom properties: polygon highlight\r\n    polygon.addListener(\"mouseover\", function(e) {\r\n      this.set(\"fillColor\", GmapManager.colorLightUp(this.baseColor));\r\n    });\r\n    polygon.addListener(\"mouseout\", function(e) {\r\n      this.set(\"fillColor\", this.baseColor);\r\n    });\r\n\r\n    // add to array\r\n    this.polygons.push(polygon);\r\n    return polygon;\r\n  }\r\n\r\n  /**\r\n   * get a polygon by id  \r\n   * @param {any} id : polygon id\r\n   */\r\n  getPolygon(id) {\r\n    return this.polygons.filter(x => x.id === id)[0];\r\n  }\r\n\r\n  /**\r\n   * remove a polygon by id\r\n   * @param {any} id : polygon id\r\n   */\r\n  removePolygon(id) {\r\n    const index = this.polygons.indexOf(this.getPolygon(id));\r\n    if (index) {\r\n      return this.polygons.splice(index, 1);\r\n    }\r\n  }\r\n\r\n  /**\r\n   * set all polygons visibility  \r\n   * @param {boolean} visible : polygons visibility\r\n   */\r\n  setVisiblePolygons(visible) {\r\n    for (const polygon of this.polygons) {\r\n      polygon.setVisible(visible);\r\n    }\r\n  }\r\n\r\n  /**\r\n   * clear all polygons from the layer\r\n   */\r\n  clearPolygons() {\r\n    for (const polygon of this.polygons) {\r\n      polygon.setMap(null);\r\n    }\r\n    this.polygons = [];\r\n  }\r\n\r\n  // polylines methods\r\n  // --------------------------\r\n\r\n  /**\r\n   * Add a google.maps.Polylines to the polyliness array\r\n   * @param {any} id : polylines id\r\n   * @param {object} options : original google.maps.Polylines options\r\n   */\r\n  addPolyline(id, options) {\r\n    // error management\r\n    if (!id) {\r\n      throw new Error(\"must set a polyline id\");\r\n    }\r\n\r\n    if (this.getPolyline(id)) {\r\n      throw new Error(\"polyline id alredy exists\");\r\n    }\r\n\r\n    // default properties\r\n    options.map = this.map;\r\n    options.id = id;\r\n    const polyline = new google.maps.Polyline(options);\r\n\r\n    // custom properties: events\r\n    if (options[\"events\"] != null) {\r\n      for (var name in options[\"events\"]) {\r\n        google.maps.event.addListener(polyline, name, options[\"events\"][name]);\r\n      }\r\n    }\r\n\r\n    // add to array\r\n    this.polylines.push(polyline);\r\n    return polyline;\r\n  }\r\n\r\n  /**\r\n   * get a polylines by id  \r\n   * @param {any} id : polylines id\r\n   */\r\n  getPolyline(id) {\r\n    return this.polylines.filter(x => x.id === id)[0];\r\n  }\r\n\r\n  /**\r\n   * set all polyliness visibility  \r\n   * @param {boolean} visible : polyliness visibility\r\n   */\r\n  removePolyline(id) {\r\n    const index = this.polylines.indexOf(this.getPolyline(id));\r\n    if (index) {\r\n      return this.polylines.splice(index, 1);\r\n    }\r\n  }\r\n\r\n  /**\r\n   * set all polyliness visibility  \r\n   * @param {boolean} visible : polyliness visibility\r\n   */\r\n  setVisiblePolylines(visible) {\r\n    for (const polyline of this.polylines) {\r\n      polyline.setVisible(visible);\r\n    }\r\n  }\r\n\r\n  /**\r\n   * clear all polyliness from the layer\r\n   */\r\n  clearPolylines() {\r\n    for (const polyline of this.polylines) {\r\n      polyline.setMap(null);\r\n    }\r\n    this.polylines = [];\r\n  }\r\n}\r\n",
     "static": true,
     "longname": "D:/Repositorios/RepositorioMigue/libs/gmaps-manager/src/Layer.js",
-    "access": "public",
+    "access": null,
     "description": null,
     "lineNumber": 1
   },
   {
-    "__docId__": 62,
+    "__docId__": 19,
     "kind": "class",
     "name": "Layer",
     "memberof": "src/Layer.js",
     "static": true,
     "longname": "src/Layer.js~Layer",
-    "access": "public",
+    "access": null,
     "export": true,
     "importPath": "babel_webpack_starter/src/Layer.js",
     "importStyle": "Layer",
-    "description": null,
-    "lineNumber": 1,
-    "undocument": true,
+    "description": "Layer is a google maps \"features\" container,\nlike Makers, Polygons and Polylines.\nAlso, Layer can contain other sub-Layers",
+    "lineNumber": 11,
     "interface": false
   },
   {
-    "__docId__": 63,
+    "__docId__": 20,
     "kind": "constructor",
     "name": "constructor",
     "memberof": "src/Layer.js~Layer",
@@ -867,115 +330,106 @@
     "async": false,
     "static": false,
     "longname": "src/Layer.js~Layer#constructor",
-    "access": "public",
-    "description": null,
-    "lineNumber": 4,
-    "undocument": true
+    "access": null,
+    "description": "",
+    "lineNumber": 21,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "google.maps.map"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "map",
+        "description": ": a google map instance"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "any"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "id",
+        "description": ": unique id of a layer"
+      }
+    ]
   },
   {
-    "__docId__": 64,
+    "__docId__": 21,
     "kind": "member",
     "name": "map",
     "memberof": "src/Layer.js~Layer",
     "static": false,
     "longname": "src/Layer.js~Layer#map",
-    "access": "public",
+    "access": null,
     "description": null,
-    "lineNumber": 5,
-    "undocument": true,
-    "type": {
-      "types": [
-        "*"
-      ]
-    }
+    "lineNumber": 22,
+    "undocument": true
   },
   {
-    "__docId__": 65,
+    "__docId__": 22,
     "kind": "member",
     "name": "id",
     "memberof": "src/Layer.js~Layer",
     "static": false,
     "longname": "src/Layer.js~Layer#id",
-    "access": "public",
+    "access": null,
     "description": null,
-    "lineNumber": 6,
-    "undocument": true,
-    "type": {
-      "types": [
-        "*"
-      ]
-    }
+    "lineNumber": 23,
+    "undocument": true
   },
   {
-    "__docId__": 66,
+    "__docId__": 23,
     "kind": "member",
     "name": "layers",
     "memberof": "src/Layer.js~Layer",
     "static": false,
     "longname": "src/Layer.js~Layer#layers",
-    "access": "public",
+    "access": null,
     "description": null,
-    "lineNumber": 8,
-    "undocument": true,
-    "type": {
-      "types": [
-        "*[]"
-      ]
-    }
+    "lineNumber": 25,
+    "undocument": true
   },
   {
-    "__docId__": 67,
+    "__docId__": 24,
     "kind": "member",
     "name": "markers",
     "memberof": "src/Layer.js~Layer",
     "static": false,
     "longname": "src/Layer.js~Layer#markers",
-    "access": "public",
+    "access": null,
     "description": null,
-    "lineNumber": 9,
-    "undocument": true,
-    "type": {
-      "types": [
-        "*[]"
-      ]
-    }
+    "lineNumber": 26,
+    "undocument": true
   },
   {
-    "__docId__": 68,
+    "__docId__": 25,
     "kind": "member",
     "name": "polygons",
     "memberof": "src/Layer.js~Layer",
     "static": false,
     "longname": "src/Layer.js~Layer#polygons",
-    "access": "public",
+    "access": null,
     "description": null,
-    "lineNumber": 10,
-    "undocument": true,
-    "type": {
-      "types": [
-        "*[]"
-      ]
-    }
+    "lineNumber": 27,
+    "undocument": true
   },
   {
-    "__docId__": 69,
+    "__docId__": 26,
     "kind": "member",
     "name": "polylines",
     "memberof": "src/Layer.js~Layer",
     "static": false,
     "longname": "src/Layer.js~Layer#polylines",
-    "access": "public",
+    "access": null,
     "description": null,
-    "lineNumber": 11,
-    "undocument": true,
-    "type": {
-      "types": [
-        "*[]"
-      ]
-    }
+    "lineNumber": 28,
+    "undocument": true
   },
   {
-    "__docId__": 70,
+    "__docId__": 27,
     "kind": "method",
     "name": "clear",
     "memberof": "src/Layer.js~Layer",
@@ -983,15 +437,12 @@
     "async": false,
     "static": false,
     "longname": "src/Layer.js~Layer#clear",
-    "access": "public",
-    "description": null,
-    "lineNumber": 16,
-    "undocument": true,
-    "params": [],
-    "return": null
+    "access": null,
+    "description": "Erase all things on that layer",
+    "lineNumber": 37
   },
   {
-    "__docId__": 71,
+    "__docId__": 28,
     "kind": "method",
     "name": "setVisible",
     "memberof": "src/Layer.js~Layer",
@@ -999,268 +450,24 @@
     "async": false,
     "static": false,
     "longname": "src/Layer.js~Layer#setVisible",
-    "access": "public",
-    "description": null,
-    "lineNumber": 22,
-    "undocument": true,
+    "access": null,
+    "description": "Hide / show layer",
+    "lineNumber": 50,
     "params": [
       {
+        "nullable": null,
+        "types": [
+          "boolean"
+        ],
+        "spread": false,
+        "optional": false,
         "name": "visible",
-        "types": [
-          "*"
-        ]
+        "description": ": visibility of layer"
       }
-    ],
-    "return": null
+    ]
   },
   {
-    "__docId__": 72,
-    "kind": "method",
-    "name": "addLayer",
-    "memberof": "src/Layer.js~Layer",
-    "generator": false,
-    "async": false,
-    "static": false,
-    "longname": "src/Layer.js~Layer#addLayer",
-    "access": "public",
-    "description": null,
-    "lineNumber": 34,
-    "undocument": true,
-    "params": [
-      {
-        "name": "id",
-        "types": [
-          "*"
-        ]
-      }
-    ],
-    "return": {
-      "types": [
-        "*"
-      ]
-    }
-  },
-  {
-    "__docId__": 73,
-    "kind": "method",
-    "name": "getLayer",
-    "memberof": "src/Layer.js~Layer",
-    "generator": false,
-    "async": false,
-    "static": false,
-    "longname": "src/Layer.js~Layer#getLayer",
-    "access": "public",
-    "description": null,
-    "lineNumber": 43,
-    "undocument": true,
-    "params": [
-      {
-        "name": "id",
-        "types": [
-          "*"
-        ]
-      }
-    ],
-    "return": {
-      "types": [
-        "*"
-      ]
-    }
-  },
-  {
-    "__docId__": 74,
-    "kind": "method",
-    "name": "removeLayer",
-    "memberof": "src/Layer.js~Layer",
-    "generator": false,
-    "async": false,
-    "static": false,
-    "longname": "src/Layer.js~Layer#removeLayer",
-    "access": "public",
-    "description": null,
-    "lineNumber": 47,
-    "undocument": true,
-    "params": [
-      {
-        "name": "id",
-        "types": [
-          "*"
-        ]
-      }
-    ],
-    "return": {
-      "types": [
-        "*"
-      ]
-    }
-  },
-  {
-    "__docId__": 75,
-    "kind": "method",
-    "name": "setVisibleLayers",
-    "memberof": "src/Layer.js~Layer",
-    "generator": false,
-    "async": false,
-    "static": false,
-    "longname": "src/Layer.js~Layer#setVisibleLayers",
-    "access": "public",
-    "description": null,
-    "lineNumber": 54,
-    "undocument": true,
-    "params": [
-      {
-        "name": "visible",
-        "types": [
-          "*"
-        ]
-      }
-    ],
-    "return": null
-  },
-  {
-    "__docId__": 76,
-    "kind": "method",
-    "name": "clearLayers",
-    "memberof": "src/Layer.js~Layer",
-    "generator": false,
-    "async": false,
-    "static": false,
-    "longname": "src/Layer.js~Layer#clearLayers",
-    "access": "public",
-    "description": null,
-    "lineNumber": 60,
-    "undocument": true,
-    "params": [],
-    "return": null
-  },
-  {
-    "__docId__": 78,
-    "kind": "method",
-    "name": "addMarker",
-    "memberof": "src/Layer.js~Layer",
-    "generator": false,
-    "async": false,
-    "static": false,
-    "longname": "src/Layer.js~Layer#addMarker",
-    "access": "public",
-    "description": null,
-    "lineNumber": 70,
-    "undocument": true,
-    "params": [
-      {
-        "name": "id",
-        "types": [
-          "*"
-        ]
-      },
-      {
-        "name": "options",
-        "types": [
-          "*"
-        ]
-      }
-    ],
-    "return": {
-      "types": [
-        "*"
-      ]
-    }
-  },
-  {
-    "__docId__": 79,
-    "kind": "method",
-    "name": "getMarker",
-    "memberof": "src/Layer.js~Layer",
-    "generator": false,
-    "async": false,
-    "static": false,
-    "longname": "src/Layer.js~Layer#getMarker",
-    "access": "public",
-    "description": null,
-    "lineNumber": 108,
-    "undocument": true,
-    "params": [
-      {
-        "name": "id",
-        "types": [
-          "*"
-        ]
-      }
-    ],
-    "return": {
-      "types": [
-        "*"
-      ]
-    }
-  },
-  {
-    "__docId__": 80,
-    "kind": "method",
-    "name": "removeMarker",
-    "memberof": "src/Layer.js~Layer",
-    "generator": false,
-    "async": false,
-    "static": false,
-    "longname": "src/Layer.js~Layer#removeMarker",
-    "access": "public",
-    "description": null,
-    "lineNumber": 112,
-    "undocument": true,
-    "params": [
-      {
-        "name": "id",
-        "types": [
-          "*"
-        ]
-      }
-    ],
-    "return": {
-      "types": [
-        "*"
-      ]
-    }
-  },
-  {
-    "__docId__": 81,
-    "kind": "method",
-    "name": "clearMarkers",
-    "memberof": "src/Layer.js~Layer",
-    "generator": false,
-    "async": false,
-    "static": false,
-    "longname": "src/Layer.js~Layer#clearMarkers",
-    "access": "public",
-    "description": null,
-    "lineNumber": 119,
-    "undocument": true,
-    "params": [],
-    "return": null
-  },
-  {
-    "__docId__": 83,
-    "kind": "method",
-    "name": "setVisibleMarkers",
-    "memberof": "src/Layer.js~Layer",
-    "generator": false,
-    "async": false,
-    "static": false,
-    "longname": "src/Layer.js~Layer#setVisibleMarkers",
-    "access": "public",
-    "description": null,
-    "lineNumber": 126,
-    "undocument": true,
-    "params": [
-      {
-        "name": "visible",
-        "types": [
-          "*"
-        ]
-      }
-    ],
-    "return": null
-  },
-  {
-    "__docId__": 84,
+    "__docId__": 29,
     "kind": "method",
     "name": "createHeatmap",
     "memberof": "src/Layer.js~Layer",
@@ -1268,39 +475,36 @@
     "async": false,
     "static": false,
     "longname": "src/Layer.js~Layer#createHeatmap",
-    "access": "public",
-    "description": null,
-    "lineNumber": 133,
-    "undocument": true,
+    "access": null,
+    "description": "create a heatmap using layer's markers",
+    "lineNumber": 64,
     "params": [
       {
-        "name": "options",
+        "nullable": null,
         "types": [
-          "*"
-        ]
+          "object"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "options",
+        "description": ": original google maps Heatman options"
       }
-    ],
-    "return": null
+    ]
   },
   {
-    "__docId__": 85,
+    "__docId__": 30,
     "kind": "member",
     "name": "heatmap",
     "memberof": "src/Layer.js~Layer",
     "static": false,
     "longname": "src/Layer.js~Layer#heatmap",
-    "access": "public",
+    "access": null,
     "description": null,
-    "lineNumber": 137,
-    "undocument": true,
-    "type": {
-      "types": [
-        "*"
-      ]
-    }
+    "lineNumber": 68,
+    "undocument": true
   },
   {
-    "__docId__": 87,
+    "__docId__": 32,
     "kind": "method",
     "name": "setVisibleHeatmap",
     "memberof": "src/Layer.js~Layer",
@@ -1308,22 +512,449 @@
     "async": false,
     "static": false,
     "longname": "src/Layer.js~Layer#setVisibleHeatmap",
-    "access": "public",
-    "description": null,
-    "lineNumber": 151,
-    "undocument": true,
+    "access": null,
+    "description": "hide / show created heatmap",
+    "lineNumber": 86,
     "params": [
       {
-        "name": "visible",
+        "nullable": null,
         "types": [
-          "*"
-        ]
+          "boolean"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "visible",
+        "description": ": heatmap visibility"
       }
-    ],
-    "return": null
+    ]
   },
   {
-    "__docId__": 88,
+    "__docId__": 33,
+    "kind": "method",
+    "name": "clearHeatmap",
+    "memberof": "src/Layer.js~Layer",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/Layer.js~Layer#clearHeatmap",
+    "access": null,
+    "description": "remove created heatmap",
+    "lineNumber": 96
+  },
+  {
+    "__docId__": 35,
+    "kind": "method",
+    "name": "createClusters",
+    "memberof": "src/Layer.js~Layer",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/Layer.js~Layer#createClusters",
+    "access": null,
+    "description": "Create a cluster layer: \"manage per-zoom-level clusters for\nlarge amounts of markers\" (https://github.com/googlemaps/js-marker-clusterer)",
+    "lineNumber": 106,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "object"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "options",
+        "description": ": original MarkerClusterer options"
+      }
+    ]
+  },
+  {
+    "__docId__": 36,
+    "kind": "member",
+    "name": "clusters",
+    "memberof": "src/Layer.js~Layer",
+    "static": false,
+    "longname": "src/Layer.js~Layer#clusters",
+    "access": null,
+    "description": null,
+    "lineNumber": 110,
+    "undocument": true
+  },
+  {
+    "__docId__": 38,
+    "kind": "method",
+    "name": "setVisibleClusters",
+    "memberof": "src/Layer.js~Layer",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/Layer.js~Layer#setVisibleClusters",
+    "access": null,
+    "description": "hide / show created clusters",
+    "lineNumber": 124,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "boolean"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "visible",
+        "description": ": clusters visibility"
+      }
+    ]
+  },
+  {
+    "__docId__": 39,
+    "kind": "method",
+    "name": "clearClusters",
+    "memberof": "src/Layer.js~Layer",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/Layer.js~Layer#clearClusters",
+    "access": null,
+    "description": "remove created clusters",
+    "lineNumber": 134
+  },
+  {
+    "__docId__": 41,
+    "kind": "method",
+    "name": "loadKmlOriginal",
+    "memberof": "src/Layer.js~Layer",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/Layer.js~Layer#loadKmlOriginal",
+    "access": null,
+    "description": "create an original KML Layer",
+    "lineNumber": 143,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "src",
+        "description": ": kml file url"
+      }
+    ]
+  },
+  {
+    "__docId__": 42,
+    "kind": "method",
+    "name": "loadKml",
+    "memberof": "src/Layer.js~Layer",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/Layer.js~Layer#loadKml",
+    "access": null,
+    "description": "fill the layer with kml features (Point->makers,\nPolygon->polygon, LineString-> Polyline)",
+    "lineNumber": 156,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "src",
+        "description": ": kml file src"
+      }
+    ]
+  },
+  {
+    "__docId__": 43,
+    "kind": "method",
+    "name": "exportGeoJson",
+    "memberof": "src/Layer.js~Layer",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/Layer.js~Layer#exportGeoJson",
+    "access": null,
+    "description": "Create a GeoJson object from layer features\n(The GeoJSON Specification (RFC 7946))",
+    "lineNumber": 220
+  },
+  {
+    "__docId__": 44,
+    "kind": "method",
+    "name": "exportKml",
+    "memberof": "src/Layer.js~Layer",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/Layer.js~Layer#exportKml",
+    "access": null,
+    "description": "Create a KML definition from layer features",
+    "lineNumber": 290
+  },
+  {
+    "__docId__": 45,
+    "kind": "method",
+    "name": "exportKmlFile",
+    "memberof": "src/Layer.js~Layer",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/Layer.js~Layer#exportKmlFile",
+    "access": null,
+    "description": "Create a KML file from layer features",
+    "lineNumber": 298,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "filename",
+        "description": ": filename of the exported file"
+      }
+    ]
+  },
+  {
+    "__docId__": 46,
+    "kind": "method",
+    "name": "addLayer",
+    "memberof": "src/Layer.js~Layer",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/Layer.js~Layer#addLayer",
+    "access": null,
+    "description": "add a sub layer",
+    "lineNumber": 326,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "any"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "id",
+        "description": ": layer id"
+      }
+    ]
+  },
+  {
+    "__docId__": 47,
+    "kind": "method",
+    "name": "getLayer",
+    "memberof": "src/Layer.js~Layer",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/Layer.js~Layer#getLayer",
+    "access": null,
+    "description": "get a layer by id",
+    "lineNumber": 339,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "any"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "id",
+        "description": ": layer id"
+      }
+    ]
+  },
+  {
+    "__docId__": 48,
+    "kind": "method",
+    "name": "removeLayer",
+    "memberof": "src/Layer.js~Layer",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/Layer.js~Layer#removeLayer",
+    "access": null,
+    "description": "remove a layer by id",
+    "lineNumber": 347,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "any"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "id",
+        "description": ": layer id"
+      }
+    ]
+  },
+  {
+    "__docId__": 49,
+    "kind": "method",
+    "name": "setVisibleLayers",
+    "memberof": "src/Layer.js~Layer",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/Layer.js~Layer#setVisibleLayers",
+    "access": null,
+    "description": "set all layers array visibility",
+    "lineNumber": 358,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "boolean"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "visible",
+        "description": ": layers array visibility"
+      }
+    ]
+  },
+  {
+    "__docId__": 50,
+    "kind": "method",
+    "name": "clearLayers",
+    "memberof": "src/Layer.js~Layer",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/Layer.js~Layer#clearLayers",
+    "access": null,
+    "description": "clear all sub-layers",
+    "lineNumber": 367
+  },
+  {
+    "__docId__": 52,
+    "kind": "method",
+    "name": "addMarker",
+    "memberof": "src/Layer.js~Layer",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/Layer.js~Layer#addMarker",
+    "access": null,
+    "description": "Add a google.maps.Marker to the markers array",
+    "lineNumber": 382,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "any"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "id",
+        "description": ": marker id"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "object"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "options",
+        "description": ": original google.maps.Marker options"
+      }
+    ]
+  },
+  {
+    "__docId__": 53,
+    "kind": "method",
+    "name": "getMarker",
+    "memberof": "src/Layer.js~Layer",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/Layer.js~Layer#getMarker",
+    "access": null,
+    "description": "get a marker by id",
+    "lineNumber": 424,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "any"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "id",
+        "description": ": marker id"
+      }
+    ]
+  },
+  {
+    "__docId__": 54,
+    "kind": "method",
+    "name": "removeMarker",
+    "memberof": "src/Layer.js~Layer",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/Layer.js~Layer#removeMarker",
+    "access": null,
+    "description": "remove a marker by id",
+    "lineNumber": 432,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "any"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "id",
+        "description": ": marker id"
+      }
+    ]
+  },
+  {
+    "__docId__": 55,
+    "kind": "method",
+    "name": "clearMarkers",
+    "memberof": "src/Layer.js~Layer",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/Layer.js~Layer#clearMarkers",
+    "access": null,
+    "description": "clear all layer's markers",
+    "lineNumber": 442
+  },
+  {
+    "__docId__": 57,
+    "kind": "method",
+    "name": "setVisibleMarkers",
+    "memberof": "src/Layer.js~Layer",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/Layer.js~Layer#setVisibleMarkers",
+    "access": null,
+    "description": "set all markers array visibility",
+    "lineNumber": 453,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "boolean"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "visible",
+        "description": ": markers visibility"
+      }
+    ]
+  },
+  {
+    "__docId__": 58,
     "kind": "method",
     "name": "addPolygon",
     "memberof": "src/Layer.js~Layer",
@@ -1331,32 +962,34 @@
     "async": false,
     "static": false,
     "longname": "src/Layer.js~Layer#addPolygon",
-    "access": "public",
-    "description": null,
-    "lineNumber": 161,
-    "undocument": true,
+    "access": null,
+    "description": "Add a google.maps.Polygon to the polygons array",
+    "lineNumber": 468,
     "params": [
       {
-        "name": "id",
+        "nullable": null,
         "types": [
-          "*"
-        ]
+          "any"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "id",
+        "description": ": polygon id"
       },
       {
-        "name": "options",
+        "nullable": null,
         "types": [
-          "*"
-        ]
+          "object"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "options",
+        "description": ": original google.maps.Polygon options"
       }
-    ],
-    "return": {
-      "types": [
-        "*"
-      ]
-    }
+    ]
   },
   {
-    "__docId__": 89,
+    "__docId__": 59,
     "kind": "method",
     "name": "getPolygon",
     "memberof": "src/Layer.js~Layer",
@@ -1364,26 +997,24 @@
     "async": false,
     "static": false,
     "longname": "src/Layer.js~Layer#getPolygon",
-    "access": "public",
-    "description": null,
-    "lineNumber": 188,
-    "undocument": true,
+    "access": null,
+    "description": "get a polygon by id  ",
+    "lineNumber": 522,
     "params": [
       {
-        "name": "id",
+        "nullable": null,
         "types": [
-          "*"
-        ]
+          "any"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "id",
+        "description": ": polygon id"
       }
-    ],
-    "return": {
-      "types": [
-        "*"
-      ]
-    }
+    ]
   },
   {
-    "__docId__": 90,
+    "__docId__": 60,
     "kind": "method",
     "name": "removePolygon",
     "memberof": "src/Layer.js~Layer",
@@ -1391,26 +1022,24 @@
     "async": false,
     "static": false,
     "longname": "src/Layer.js~Layer#removePolygon",
-    "access": "public",
-    "description": null,
-    "lineNumber": 192,
-    "undocument": true,
+    "access": null,
+    "description": "remove a polygon by id",
+    "lineNumber": 530,
     "params": [
       {
-        "name": "id",
+        "nullable": null,
         "types": [
-          "*"
-        ]
+          "any"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "id",
+        "description": ": polygon id"
       }
-    ],
-    "return": {
-      "types": [
-        "*"
-      ]
-    }
+    ]
   },
   {
-    "__docId__": 91,
+    "__docId__": 61,
     "kind": "method",
     "name": "setVisiblePolygons",
     "memberof": "src/Layer.js~Layer",
@@ -1418,22 +1047,24 @@
     "async": false,
     "static": false,
     "longname": "src/Layer.js~Layer#setVisiblePolygons",
-    "access": "public",
-    "description": null,
-    "lineNumber": 199,
-    "undocument": true,
+    "access": null,
+    "description": "set all polygons visibility  ",
+    "lineNumber": 541,
     "params": [
       {
-        "name": "visible",
+        "nullable": null,
         "types": [
-          "*"
-        ]
+          "boolean"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "visible",
+        "description": ": polygons visibility"
       }
-    ],
-    "return": null
+    ]
   },
   {
-    "__docId__": 92,
+    "__docId__": 62,
     "kind": "method",
     "name": "clearPolygons",
     "memberof": "src/Layer.js~Layer",
@@ -1441,15 +1072,12 @@
     "async": false,
     "static": false,
     "longname": "src/Layer.js~Layer#clearPolygons",
-    "access": "public",
-    "description": null,
-    "lineNumber": 205,
-    "undocument": true,
-    "params": [],
-    "return": null
+    "access": null,
+    "description": "clear all polygons from the layer",
+    "lineNumber": 550
   },
   {
-    "__docId__": 94,
+    "__docId__": 64,
     "kind": "method",
     "name": "addPolyline",
     "memberof": "src/Layer.js~Layer",
@@ -1457,32 +1085,34 @@
     "async": false,
     "static": false,
     "longname": "src/Layer.js~Layer#addPolyline",
-    "access": "public",
-    "description": null,
-    "lineNumber": 215,
-    "undocument": true,
+    "access": null,
+    "description": "Add a google.maps.Polylines to the polyliness array",
+    "lineNumber": 565,
     "params": [
       {
-        "name": "id",
+        "nullable": null,
         "types": [
-          "*"
-        ]
+          "any"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "id",
+        "description": ": polylines id"
       },
       {
-        "name": "options",
+        "nullable": null,
         "types": [
-          "*"
-        ]
+          "object"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "options",
+        "description": ": original google.maps.Polylines options"
       }
-    ],
-    "return": {
-      "types": [
-        "*"
-      ]
-    }
+    ]
   },
   {
-    "__docId__": 95,
+    "__docId__": 65,
     "kind": "method",
     "name": "getPolyline",
     "memberof": "src/Layer.js~Layer",
@@ -1490,26 +1120,24 @@
     "async": false,
     "static": false,
     "longname": "src/Layer.js~Layer#getPolyline",
-    "access": "public",
-    "description": null,
-    "lineNumber": 242,
-    "undocument": true,
+    "access": null,
+    "description": "get a polylines by id  ",
+    "lineNumber": 596,
     "params": [
       {
-        "name": "id",
+        "nullable": null,
         "types": [
-          "*"
-        ]
+          "any"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "id",
+        "description": ": polylines id"
       }
-    ],
-    "return": {
-      "types": [
-        "*"
-      ]
-    }
+    ]
   },
   {
-    "__docId__": 96,
+    "__docId__": 66,
     "kind": "method",
     "name": "removePolyline",
     "memberof": "src/Layer.js~Layer",
@@ -1517,26 +1145,24 @@
     "async": false,
     "static": false,
     "longname": "src/Layer.js~Layer#removePolyline",
-    "access": "public",
-    "description": null,
-    "lineNumber": 246,
-    "undocument": true,
+    "access": null,
+    "description": "set all polyliness visibility  ",
+    "lineNumber": 604,
     "params": [
       {
-        "name": "id",
+        "nullable": null,
         "types": [
-          "*"
-        ]
+          "boolean"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "visible",
+        "description": ": polyliness visibility"
       }
-    ],
-    "return": {
-      "types": [
-        "*"
-      ]
-    }
+    ]
   },
   {
-    "__docId__": 97,
+    "__docId__": 67,
     "kind": "method",
     "name": "setVisiblePolylines",
     "memberof": "src/Layer.js~Layer",
@@ -1544,22 +1170,24 @@
     "async": false,
     "static": false,
     "longname": "src/Layer.js~Layer#setVisiblePolylines",
-    "access": "public",
-    "description": null,
-    "lineNumber": 253,
-    "undocument": true,
+    "access": null,
+    "description": "set all polyliness visibility  ",
+    "lineNumber": 615,
     "params": [
       {
-        "name": "visible",
+        "nullable": null,
         "types": [
-          "*"
-        ]
+          "boolean"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "visible",
+        "description": ": polyliness visibility"
       }
-    ],
-    "return": null
+    ]
   },
   {
-    "__docId__": 98,
+    "__docId__": 68,
     "kind": "method",
     "name": "clearPolylines",
     "memberof": "src/Layer.js~Layer",
@@ -1567,12 +1195,1825 @@
     "async": false,
     "static": false,
     "longname": "src/Layer.js~Layer#clearPolylines",
-    "access": "public",
+    "access": null,
+    "description": "clear all polyliness from the layer",
+    "lineNumber": 624
+  },
+  {
+    "__docId__": 70,
+    "kind": "file",
+    "name": "src/plugins/markercluster.js",
+    "content": "/**\r\n * @name MarkerClusterer for Google Maps v3\r\n * @version version 1.0.1\r\n * @author Luke Mahe\r\n * @fileoverview\r\n * The library creates and manages per-zoom-level clusters for large amounts of\r\n * markers.\r\n * <br/>\r\n * This is a v3 implementation of the\r\n * <a href=\"http://gmaps-utility-library-dev.googlecode.com/svn/tags/markerclusterer/\"\r\n * >v2 MarkerClusterer</a>.\r\n */\r\n\r\n/**\r\n * Licensed under the Apache License, Version 2.0 (the \"License\");\r\n * you may not use this file except in compliance with the License.\r\n * You may obtain a copy of the License at\r\n *\r\n *     http://www.apache.org/licenses/LICENSE-2.0\r\n *\r\n * Unless required by applicable law or agreed to in writing, software\r\n * distributed under the License is distributed on an \"AS IS\" BASIS,\r\n * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.\r\n * See the License for the specific language governing permissions and\r\n * limitations under the License.\r\n */\r\n\r\n\r\n/**\r\n * A Marker Clusterer that clusters markers.\r\n *\r\n * @param {google.maps.Map} map The Google map to attach to.\r\n * @param {Array.<google.maps.Marker>=} opt_markers Optional markers to add to\r\n *   the cluster.\r\n * @param {Object=} opt_options support the following options:\r\n *     'gridSize': (number) The grid size of a cluster in pixels.\r\n *     'maxZoom': (number) The maximum zoom level that a marker can be part of a\r\n *                cluster.\r\n *     'zoomOnClick': (boolean) Whether the default behaviour of clicking on a\r\n *                    cluster is to zoom into it.\r\n *     'averageCenter': (boolean) Whether the center of each cluster should be\r\n *                      the average of all markers in the cluster.\r\n *     'minimumClusterSize': (number) The minimum number of markers to be in a\r\n *                           cluster before the markers are hidden and a count\r\n *                           is shown.\r\n *     'styles': (object) An object that has style properties:\r\n *       'url': (string) The image url.\r\n *       'height': (number) The image height.\r\n *       'width': (number) The image width.\r\n *       'anchor': (Array) The anchor position of the label text.\r\n *       'textColor': (string) The text color.\r\n *       'textSize': (number) The text size.\r\n *       'backgroundPosition': (string) The position of the backgound x, y.\r\n * @constructor\r\n * @extends google.maps.OverlayView\r\n */\r\nfunction MarkerClusterer(map, opt_markers, opt_options) {\r\n    // MarkerClusterer implements google.maps.OverlayView interface. We use the\r\n    // extend function to extend MarkerClusterer with google.maps.OverlayView\r\n    // because it might not always be available when the code is defined so we\r\n    // look for it at the last possible moment. If it doesn't exist now then\r\n    // there is no point going ahead :)\r\n    this.extend(MarkerClusterer, google.maps.OverlayView);\r\n    this.map_ = map;\r\n  \r\n    /**\r\n     * @type {Array.<google.maps.Marker>}\r\n     * @private\r\n     */\r\n    this.markers_ = [];\r\n  \r\n    /**\r\n     *  @type {Array.<Cluster>}\r\n     */\r\n    this.clusters_ = [];\r\n  \r\n    this.sizes = [53, 56, 66, 78, 90];\r\n  \r\n    /**\r\n     * @private\r\n     */\r\n    this.styles_ = [];\r\n  \r\n    /**\r\n     * @type {boolean}\r\n     * @private\r\n     */\r\n    this.ready_ = false;\r\n  \r\n    var options = opt_options || {};\r\n  \r\n    /**\r\n     * @type {number}\r\n     * @private\r\n     */\r\n    this.gridSize_ = options['gridSize'] || 60;\r\n  \r\n    /**\r\n     * @private\r\n     */\r\n    this.minClusterSize_ = options['minimumClusterSize'] || 2;\r\n  \r\n  \r\n    /**\r\n     * @type {?number}\r\n     * @private\r\n     */\r\n    this.maxZoom_ = options['maxZoom'] || null;\r\n  \r\n    this.styles_ = options['styles'] || [];\r\n  \r\n    /**\r\n     * @type {string}\r\n     * @private\r\n     */\r\n    this.imagePath_ = options['imagePath'] ||\r\n        this.MARKER_CLUSTER_IMAGE_PATH_;\r\n  \r\n    /**\r\n     * @type {string}\r\n     * @private\r\n     */\r\n    this.imageExtension_ = options['imageExtension'] ||\r\n        this.MARKER_CLUSTER_IMAGE_EXTENSION_;\r\n  \r\n    /**\r\n     * @type {boolean}\r\n     * @private\r\n     */\r\n    this.zoomOnClick_ = true;\r\n  \r\n    if (options['zoomOnClick'] != undefined) {\r\n      this.zoomOnClick_ = options['zoomOnClick'];\r\n    }\r\n  \r\n    /**\r\n     * @type {boolean}\r\n     * @private\r\n     */\r\n    this.averageCenter_ = false;\r\n  \r\n    if (options['averageCenter'] != undefined) {\r\n      this.averageCenter_ = options['averageCenter'];\r\n    }\r\n  \r\n    this.setupStyles_();\r\n  \r\n    this.setMap(map);\r\n  \r\n    /**\r\n     * @type {number}\r\n     * @private\r\n     */\r\n    this.prevZoom_ = this.map_.getZoom();\r\n  \r\n    // Add the map event listeners\r\n    var that = this;\r\n    google.maps.event.addListener(this.map_, 'zoom_changed', function() {\r\n      // Determines map type and prevent illegal zoom levels\r\n      var zoom = that.map_.getZoom();\r\n      var minZoom = that.map_.minZoom || 0;\r\n      var maxZoom = Math.min(that.map_.maxZoom || 100,\r\n                           that.map_.mapTypes[that.map_.getMapTypeId()].maxZoom);\r\n      zoom = Math.min(Math.max(zoom,minZoom),maxZoom);\r\n  \r\n      if (that.prevZoom_ != zoom) {\r\n        that.prevZoom_ = zoom;\r\n        that.resetViewport();\r\n      }\r\n    });\r\n  \r\n    google.maps.event.addListener(this.map_, 'idle', function() {\r\n      that.redraw();\r\n    });\r\n  \r\n    // Finally, add the markers\r\n    if (opt_markers && (opt_markers.length || Object.keys(opt_markers).length)) {\r\n      this.addMarkers(opt_markers, false);\r\n    }\r\n  }\r\n  \r\n  \r\n  /**\r\n   * The marker cluster image path.\r\n   *\r\n   * @type {string}\r\n   * @private\r\n   */\r\n  MarkerClusterer.prototype.MARKER_CLUSTER_IMAGE_PATH_ = '../images/m';\r\n  \r\n  \r\n  /**\r\n   * The marker cluster image path.\r\n   *\r\n   * @type {string}\r\n   * @private\r\n   */\r\n  MarkerClusterer.prototype.MARKER_CLUSTER_IMAGE_EXTENSION_ = 'png';\r\n  \r\n  \r\n  /**\r\n   * Extends a objects prototype by anothers.\r\n   *\r\n   * @param {Object} obj1 The object to be extended.\r\n   * @param {Object} obj2 The object to extend with.\r\n   * @return {Object} The new extended object.\r\n   * @ignore\r\n   */\r\n  MarkerClusterer.prototype.extend = function(obj1, obj2) {\r\n    return (function(object) {\r\n      for (var property in object.prototype) {\r\n        this.prototype[property] = object.prototype[property];\r\n      }\r\n      return this;\r\n    }).apply(obj1, [obj2]);\r\n  };\r\n  \r\n  \r\n  /**\r\n   * Implementaion of the interface method.\r\n   * @ignore\r\n   */\r\n  MarkerClusterer.prototype.onAdd = function() {\r\n    this.setReady_(true);\r\n  };\r\n  \r\n  /**\r\n   * Implementaion of the interface method.\r\n   * @ignore\r\n   */\r\n  MarkerClusterer.prototype.draw = function() {};\r\n  \r\n  /**\r\n   * Sets up the styles object.\r\n   *\r\n   * @private\r\n   */\r\n  MarkerClusterer.prototype.setupStyles_ = function() {\r\n    if (this.styles_.length) {\r\n      return;\r\n    }\r\n  \r\n    for (var i = 0, size; size = this.sizes[i]; i++) {\r\n      this.styles_.push({\r\n        url: this.imagePath_ + (i + 1) + '.' + this.imageExtension_,\r\n        height: size,\r\n        width: size\r\n      });\r\n    }\r\n  };\r\n  \r\n  /**\r\n   *  Fit the map to the bounds of the markers in the clusterer.\r\n   */\r\n  MarkerClusterer.prototype.fitMapToMarkers = function() {\r\n    var markers = this.getMarkers();\r\n    var bounds = new google.maps.LatLngBounds();\r\n    for (var i = 0, marker; marker = markers[i]; i++) {\r\n      bounds.extend(marker.getPosition());\r\n    }\r\n  \r\n    this.map_.fitBounds(bounds);\r\n  };\r\n  \r\n  \r\n  /**\r\n   *  Sets the styles.\r\n   *\r\n   *  @param {Object} styles The style to set.\r\n   */\r\n  MarkerClusterer.prototype.setStyles = function(styles) {\r\n    this.styles_ = styles;\r\n  };\r\n  \r\n  \r\n  /**\r\n   *  Gets the styles.\r\n   *\r\n   *  @return {Object} The styles object.\r\n   */\r\n  MarkerClusterer.prototype.getStyles = function() {\r\n    return this.styles_;\r\n  };\r\n  \r\n  \r\n  /**\r\n   * Whether zoom on click is set.\r\n   *\r\n   * @return {boolean} True if zoomOnClick_ is set.\r\n   */\r\n  MarkerClusterer.prototype.isZoomOnClick = function() {\r\n    return this.zoomOnClick_;\r\n  };\r\n  \r\n  /**\r\n   * Whether average center is set.\r\n   *\r\n   * @return {boolean} True if averageCenter_ is set.\r\n   */\r\n  MarkerClusterer.prototype.isAverageCenter = function() {\r\n    return this.averageCenter_;\r\n  };\r\n  \r\n  \r\n  /**\r\n   *  Returns the array of markers in the clusterer.\r\n   *\r\n   *  @return {Array.<google.maps.Marker>} The markers.\r\n   */\r\n  MarkerClusterer.prototype.getMarkers = function() {\r\n    return this.markers_;\r\n  };\r\n  \r\n  \r\n  /**\r\n   *  Returns the number of markers in the clusterer\r\n   *\r\n   *  @return {Number} The number of markers.\r\n   */\r\n  MarkerClusterer.prototype.getTotalMarkers = function() {\r\n    return this.markers_.length;\r\n  };\r\n  \r\n  \r\n  /**\r\n   *  Sets the max zoom for the clusterer.\r\n   *\r\n   *  @param {number} maxZoom The max zoom level.\r\n   */\r\n  MarkerClusterer.prototype.setMaxZoom = function(maxZoom) {\r\n    this.maxZoom_ = maxZoom;\r\n  };\r\n  \r\n  \r\n  /**\r\n   *  Gets the max zoom for the clusterer.\r\n   *\r\n   *  @return {number} The max zoom level.\r\n   */\r\n  MarkerClusterer.prototype.getMaxZoom = function() {\r\n    return this.maxZoom_;\r\n  };\r\n  \r\n  \r\n  /**\r\n   *  The function for calculating the cluster icon image.\r\n   *\r\n   *  @param {Array.<google.maps.Marker>} markers The markers in the clusterer.\r\n   *  @param {number} numStyles The number of styles available.\r\n   *  @return {Object} A object properties: 'text' (string) and 'index' (number).\r\n   *  @private\r\n   */\r\n  MarkerClusterer.prototype.calculator_ = function(markers, numStyles) {\r\n    var index = 0;\r\n    var count = markers.length;\r\n    var dv = count;\r\n    while (dv !== 0) {\r\n      dv = parseInt(dv / 10, 10);\r\n      index++;\r\n    }\r\n  \r\n    index = Math.min(index, numStyles);\r\n    return {\r\n      text: count,\r\n      index: index\r\n    };\r\n  };\r\n  \r\n  \r\n  /**\r\n   * Set the calculator function.\r\n   *\r\n   * @param {function(Array, number)} calculator The function to set as the\r\n   *     calculator. The function should return a object properties:\r\n   *     'text' (string) and 'index' (number).\r\n   *\r\n   */\r\n  MarkerClusterer.prototype.setCalculator = function(calculator) {\r\n    this.calculator_ = calculator;\r\n  };\r\n  \r\n  \r\n  /**\r\n   * Get the calculator function.\r\n   *\r\n   * @return {function(Array, number)} the calculator function.\r\n   */\r\n  MarkerClusterer.prototype.getCalculator = function() {\r\n    return this.calculator_;\r\n  };\r\n  \r\n  \r\n  /**\r\n   * Add an array of markers to the clusterer.\r\n   *\r\n   * @param {Array.<google.maps.Marker>} markers The markers to add.\r\n   * @param {boolean=} opt_nodraw Whether to redraw the clusters.\r\n   */\r\n  MarkerClusterer.prototype.addMarkers = function(markers, opt_nodraw) {\r\n    if (markers.length) {\r\n      for (var i = 0, marker; marker = markers[i]; i++) {\r\n        this.pushMarkerTo_(marker);\r\n      }\r\n    } else if (Object.keys(markers).length) {\r\n      for (var marker in markers) {\r\n        this.pushMarkerTo_(markers[marker]);\r\n      }\r\n    }\r\n    if (!opt_nodraw) {\r\n      this.redraw();\r\n    }\r\n  };\r\n  \r\n  \r\n  /**\r\n   * Pushes a marker to the clusterer.\r\n   *\r\n   * @param {google.maps.Marker} marker The marker to add.\r\n   * @private\r\n   */\r\n  MarkerClusterer.prototype.pushMarkerTo_ = function(marker) {\r\n    marker.isAdded = false;\r\n    if (marker['draggable']) {\r\n      // If the marker is draggable add a listener so we update the clusters on\r\n      // the drag end.\r\n      var that = this;\r\n      google.maps.event.addListener(marker, 'dragend', function() {\r\n        marker.isAdded = false;\r\n        that.repaint();\r\n      });\r\n    }\r\n    this.markers_.push(marker);\r\n  };\r\n  \r\n  \r\n  /**\r\n   * Adds a marker to the clusterer and redraws if needed.\r\n   *\r\n   * @param {google.maps.Marker} marker The marker to add.\r\n   * @param {boolean=} opt_nodraw Whether to redraw the clusters.\r\n   */\r\n  MarkerClusterer.prototype.addMarker = function(marker, opt_nodraw) {\r\n    this.pushMarkerTo_(marker);\r\n    if (!opt_nodraw) {\r\n      this.redraw();\r\n    }\r\n  };\r\n  \r\n  \r\n  /**\r\n   * Removes a marker and returns true if removed, false if not\r\n   *\r\n   * @param {google.maps.Marker} marker The marker to remove\r\n   * @return {boolean} Whether the marker was removed or not\r\n   * @private\r\n   */\r\n  MarkerClusterer.prototype.removeMarker_ = function(marker) {\r\n    var index = -1;\r\n    if (this.markers_.indexOf) {\r\n      index = this.markers_.indexOf(marker);\r\n    } else {\r\n      for (var i = 0, m; m = this.markers_[i]; i++) {\r\n        if (m == marker) {\r\n          index = i;\r\n          break;\r\n        }\r\n      }\r\n    }\r\n  \r\n    if (index == -1) {\r\n      // Marker is not in our list of markers.\r\n      return false;\r\n    }\r\n  \r\n    marker.setMap(null);\r\n  \r\n    this.markers_.splice(index, 1);\r\n  \r\n    return true;\r\n  };\r\n  \r\n  \r\n  /**\r\n   * Remove a marker from the cluster.\r\n   *\r\n   * @param {google.maps.Marker} marker The marker to remove.\r\n   * @param {boolean=} opt_nodraw Optional boolean to force no redraw.\r\n   * @return {boolean} True if the marker was removed.\r\n   */\r\n  MarkerClusterer.prototype.removeMarker = function(marker, opt_nodraw) {\r\n    var removed = this.removeMarker_(marker);\r\n  \r\n    if (!opt_nodraw && removed) {\r\n      this.resetViewport();\r\n      this.redraw();\r\n      return true;\r\n    } else {\r\n     return false;\r\n    }\r\n  };\r\n  \r\n  \r\n  /**\r\n   * Removes an array of markers from the cluster.\r\n   *\r\n   * @param {Array.<google.maps.Marker>} markers The markers to remove.\r\n   * @param {boolean=} opt_nodraw Optional boolean to force no redraw.\r\n   */\r\n  MarkerClusterer.prototype.removeMarkers = function(markers, opt_nodraw) {\r\n    var removed = false;\r\n  \r\n    for (var i = 0, marker; marker = markers[i]; i++) {\r\n      var r = this.removeMarker_(marker);\r\n      removed = removed || r;\r\n    }\r\n  \r\n    if (!opt_nodraw && removed) {\r\n      this.resetViewport();\r\n      this.redraw();\r\n      return true;\r\n    }\r\n  };\r\n  \r\n  \r\n  /**\r\n   * Sets the clusterer's ready state.\r\n   *\r\n   * @param {boolean} ready The state.\r\n   * @private\r\n   */\r\n  MarkerClusterer.prototype.setReady_ = function(ready) {\r\n    if (!this.ready_) {\r\n      this.ready_ = ready;\r\n      this.createClusters_();\r\n    }\r\n  };\r\n  \r\n  \r\n  /**\r\n   * Returns the number of clusters in the clusterer.\r\n   *\r\n   * @return {number} The number of clusters.\r\n   */\r\n  MarkerClusterer.prototype.getTotalClusters = function() {\r\n    return this.clusters_.length;\r\n  };\r\n  \r\n  \r\n  /**\r\n   * Returns the google map that the clusterer is associated with.\r\n   *\r\n   * @return {google.maps.Map} The map.\r\n   */\r\n  MarkerClusterer.prototype.getMap = function() {\r\n    return this.map_;\r\n  };\r\n  \r\n  \r\n  /**\r\n   * Sets the google map that the clusterer is associated with.\r\n   *\r\n   * @param {google.maps.Map} map The map.\r\n   */\r\n  MarkerClusterer.prototype.setMap = function(map) {\r\n    this.map_ = map;\r\n  };\r\n  \r\n  \r\n  /**\r\n   * Returns the size of the grid.\r\n   *\r\n   * @return {number} The grid size.\r\n   */\r\n  MarkerClusterer.prototype.getGridSize = function() {\r\n    return this.gridSize_;\r\n  };\r\n  \r\n  \r\n  /**\r\n   * Sets the size of the grid.\r\n   *\r\n   * @param {number} size The grid size.\r\n   */\r\n  MarkerClusterer.prototype.setGridSize = function(size) {\r\n    this.gridSize_ = size;\r\n  };\r\n  \r\n  \r\n  /**\r\n   * Returns the min cluster size.\r\n   *\r\n   * @return {number} The grid size.\r\n   */\r\n  MarkerClusterer.prototype.getMinClusterSize = function() {\r\n    return this.minClusterSize_;\r\n  };\r\n  \r\n  /**\r\n   * Sets the min cluster size.\r\n   *\r\n   * @param {number} size The grid size.\r\n   */\r\n  MarkerClusterer.prototype.setMinClusterSize = function(size) {\r\n    this.minClusterSize_ = size;\r\n  };\r\n  \r\n  \r\n  /**\r\n   * Extends a bounds object by the grid size.\r\n   *\r\n   * @param {google.maps.LatLngBounds} bounds The bounds to extend.\r\n   * @return {google.maps.LatLngBounds} The extended bounds.\r\n   */\r\n  MarkerClusterer.prototype.getExtendedBounds = function(bounds) {\r\n    var projection = this.getProjection();\r\n  \r\n    // Turn the bounds into latlng.\r\n    var tr = new google.maps.LatLng(bounds.getNorthEast().lat(),\r\n        bounds.getNorthEast().lng());\r\n    var bl = new google.maps.LatLng(bounds.getSouthWest().lat(),\r\n        bounds.getSouthWest().lng());\r\n  \r\n    // Convert the points to pixels and the extend out by the grid size.\r\n    var trPix = projection.fromLatLngToDivPixel(tr);\r\n    trPix.x += this.gridSize_;\r\n    trPix.y -= this.gridSize_;\r\n  \r\n    var blPix = projection.fromLatLngToDivPixel(bl);\r\n    blPix.x -= this.gridSize_;\r\n    blPix.y += this.gridSize_;\r\n  \r\n    // Convert the pixel points back to LatLng\r\n    var ne = projection.fromDivPixelToLatLng(trPix);\r\n    var sw = projection.fromDivPixelToLatLng(blPix);\r\n  \r\n    // Extend the bounds to contain the new bounds.\r\n    bounds.extend(ne);\r\n    bounds.extend(sw);\r\n  \r\n    return bounds;\r\n  };\r\n  \r\n  \r\n  /**\r\n   * Determins if a marker is contained in a bounds.\r\n   *\r\n   * @param {google.maps.Marker} marker The marker to check.\r\n   * @param {google.maps.LatLngBounds} bounds The bounds to check against.\r\n   * @return {boolean} True if the marker is in the bounds.\r\n   * @private\r\n   */\r\n  MarkerClusterer.prototype.isMarkerInBounds_ = function(marker, bounds) {\r\n    return bounds.contains(marker.getPosition());\r\n  };\r\n  \r\n  \r\n  /**\r\n   * Clears all clusters and markers from the clusterer.\r\n   */\r\n  MarkerClusterer.prototype.clearMarkers = function() {\r\n    this.resetViewport(true);\r\n  \r\n    // Set the markers a empty array.\r\n    this.markers_ = [];\r\n  };\r\n  \r\n  \r\n  /**\r\n   * Clears all existing clusters and recreates them.\r\n   * @param {boolean} opt_hide To also hide the marker.\r\n   */\r\n  MarkerClusterer.prototype.resetViewport = function(opt_hide) {\r\n    // Remove all the clusters\r\n    for (var i = 0, cluster; cluster = this.clusters_[i]; i++) {\r\n      cluster.remove();\r\n    }\r\n  \r\n    // Reset the markers to not be added and to be invisible.\r\n    for (var i = 0, marker; marker = this.markers_[i]; i++) {\r\n      marker.isAdded = false;\r\n      if (opt_hide) {\r\n        marker.setMap(null);\r\n      }\r\n    }\r\n  \r\n    this.clusters_ = [];\r\n  };\r\n  \r\n  /**\r\n   *\r\n   */\r\n  MarkerClusterer.prototype.repaint = function() {\r\n    var oldClusters = this.clusters_.slice();\r\n    this.clusters_.length = 0;\r\n    this.resetViewport();\r\n    this.redraw();\r\n  \r\n    // Remove the old clusters.\r\n    // Do it in a timeout so the other clusters have been drawn first.\r\n    window.setTimeout(function() {\r\n      for (var i = 0, cluster; cluster = oldClusters[i]; i++) {\r\n        cluster.remove();\r\n      }\r\n    }, 0);\r\n  };\r\n  \r\n  \r\n  /**\r\n   * Redraws the clusters.\r\n   */\r\n  MarkerClusterer.prototype.redraw = function() {\r\n    this.createClusters_();\r\n  };\r\n  \r\n  \r\n  /**\r\n   * Calculates the distance between two latlng locations in km.\r\n   * @see http://www.movable-type.co.uk/scripts/latlong.html\r\n   *\r\n   * @param {google.maps.LatLng} p1 The first lat lng point.\r\n   * @param {google.maps.LatLng} p2 The second lat lng point.\r\n   * @return {number} The distance between the two points in km.\r\n   * @private\r\n  */\r\n  MarkerClusterer.prototype.distanceBetweenPoints_ = function(p1, p2) {\r\n    if (!p1 || !p2) {\r\n      return 0;\r\n    }\r\n  \r\n    var R = 6371; // Radius of the Earth in km\r\n    var dLat = (p2.lat() - p1.lat()) * Math.PI / 180;\r\n    var dLon = (p2.lng() - p1.lng()) * Math.PI / 180;\r\n    var a = Math.sin(dLat / 2) * Math.sin(dLat / 2) +\r\n      Math.cos(p1.lat() * Math.PI / 180) * Math.cos(p2.lat() * Math.PI / 180) *\r\n      Math.sin(dLon / 2) * Math.sin(dLon / 2);\r\n    var c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));\r\n    var d = R * c;\r\n    return d;\r\n  };\r\n  \r\n  \r\n  /**\r\n   * Add a marker to a cluster, or creates a new cluster.\r\n   *\r\n   * @param {google.maps.Marker} marker The marker to add.\r\n   * @private\r\n   */\r\n  MarkerClusterer.prototype.addToClosestCluster_ = function(marker) {\r\n    var distance = 40000; // Some large number\r\n    var clusterToAddTo = null;\r\n    var pos = marker.getPosition();\r\n    for (var i = 0, cluster; cluster = this.clusters_[i]; i++) {\r\n      var center = cluster.getCenter();\r\n      if (center) {\r\n        var d = this.distanceBetweenPoints_(center, marker.getPosition());\r\n        if (d < distance) {\r\n          distance = d;\r\n          clusterToAddTo = cluster;\r\n        }\r\n      }\r\n    }\r\n  \r\n    if (clusterToAddTo && clusterToAddTo.isMarkerInClusterBounds(marker)) {\r\n      clusterToAddTo.addMarker(marker);\r\n    } else {\r\n      var cluster = new Cluster(this);\r\n      cluster.addMarker(marker);\r\n      this.clusters_.push(cluster);\r\n    }\r\n  };\r\n  \r\n  \r\n  /**\r\n   * Creates the clusters.\r\n   *\r\n   * @private\r\n   */\r\n  MarkerClusterer.prototype.createClusters_ = function() {\r\n    if (!this.ready_) {\r\n      return;\r\n    }\r\n  \r\n    // Get our current map view bounds.\r\n    // Create a new bounds object so we don't affect the map.\r\n    var mapBounds = new google.maps.LatLngBounds(this.map_.getBounds().getSouthWest(),\r\n        this.map_.getBounds().getNorthEast());\r\n    var bounds = this.getExtendedBounds(mapBounds);\r\n  \r\n    for (var i = 0, marker; marker = this.markers_[i]; i++) {\r\n      if (!marker.isAdded && this.isMarkerInBounds_(marker, bounds)) {\r\n        this.addToClosestCluster_(marker);\r\n      }\r\n    }\r\n  };\r\n  \r\n  \r\n  /**\r\n   * A cluster that contains markers.\r\n   *\r\n   * @param {MarkerClusterer} markerClusterer The markerclusterer that this\r\n   *     cluster is associated with.\r\n   * @constructor\r\n   * @ignore\r\n   */\r\n  function Cluster(markerClusterer) {\r\n    this.markerClusterer_ = markerClusterer;\r\n    this.map_ = markerClusterer.getMap();\r\n    this.gridSize_ = markerClusterer.getGridSize();\r\n    this.minClusterSize_ = markerClusterer.getMinClusterSize();\r\n    this.averageCenter_ = markerClusterer.isAverageCenter();\r\n    this.center_ = null;\r\n    this.markers_ = [];\r\n    this.bounds_ = null;\r\n    this.clusterIcon_ = new ClusterIcon(this, markerClusterer.getStyles(),\r\n        markerClusterer.getGridSize());\r\n  }\r\n  \r\n  /**\r\n   * Determins if a marker is already added to the cluster.\r\n   *\r\n   * @param {google.maps.Marker} marker The marker to check.\r\n   * @return {boolean} True if the marker is already added.\r\n   */\r\n  Cluster.prototype.isMarkerAlreadyAdded = function(marker) {\r\n    if (this.markers_.indexOf) {\r\n      return this.markers_.indexOf(marker) != -1;\r\n    } else {\r\n      for (var i = 0, m; m = this.markers_[i]; i++) {\r\n        if (m == marker) {\r\n          return true;\r\n        }\r\n      }\r\n    }\r\n    return false;\r\n  };\r\n  \r\n  \r\n  /**\r\n   * Add a marker the cluster.\r\n   *\r\n   * @param {google.maps.Marker} marker The marker to add.\r\n   * @return {boolean} True if the marker was added.\r\n   */\r\n  Cluster.prototype.addMarker = function(marker) {\r\n    if (this.isMarkerAlreadyAdded(marker)) {\r\n      return false;\r\n    }\r\n  \r\n    if (!this.center_) {\r\n      this.center_ = marker.getPosition();\r\n      this.calculateBounds_();\r\n    } else {\r\n      if (this.averageCenter_) {\r\n        var l = this.markers_.length + 1;\r\n        var lat = (this.center_.lat() * (l-1) + marker.getPosition().lat()) / l;\r\n        var lng = (this.center_.lng() * (l-1) + marker.getPosition().lng()) / l;\r\n        this.center_ = new google.maps.LatLng(lat, lng);\r\n        this.calculateBounds_();\r\n      }\r\n    }\r\n  \r\n    marker.isAdded = true;\r\n    this.markers_.push(marker);\r\n  \r\n    var len = this.markers_.length;\r\n    if (len < this.minClusterSize_ && marker.getMap() != this.map_) {\r\n      // Min cluster size not reached so show the marker.\r\n      marker.setMap(this.map_);\r\n    }\r\n  \r\n    if (len == this.minClusterSize_) {\r\n      // Hide the markers that were showing.\r\n      for (var i = 0; i < len; i++) {\r\n        this.markers_[i].setMap(null);\r\n      }\r\n    }\r\n  \r\n    if (len >= this.minClusterSize_) {\r\n      marker.setMap(null);\r\n    }\r\n  \r\n    this.updateIcon();\r\n    return true;\r\n  };\r\n  \r\n  \r\n  /**\r\n   * Returns the marker clusterer that the cluster is associated with.\r\n   *\r\n   * @return {MarkerClusterer} The associated marker clusterer.\r\n   */\r\n  Cluster.prototype.getMarkerClusterer = function() {\r\n    return this.markerClusterer_;\r\n  };\r\n  \r\n  \r\n  /**\r\n   * Returns the bounds of the cluster.\r\n   *\r\n   * @return {google.maps.LatLngBounds} the cluster bounds.\r\n   */\r\n  Cluster.prototype.getBounds = function() {\r\n    var bounds = new google.maps.LatLngBounds(this.center_, this.center_);\r\n    var markers = this.getMarkers();\r\n    for (var i = 0, marker; marker = markers[i]; i++) {\r\n      bounds.extend(marker.getPosition());\r\n    }\r\n    return bounds;\r\n  };\r\n  \r\n  \r\n  /**\r\n   * Removes the cluster\r\n   */\r\n  Cluster.prototype.remove = function() {\r\n    this.clusterIcon_.remove();\r\n    this.markers_.length = 0;\r\n    delete this.markers_;\r\n  };\r\n  \r\n  \r\n  /**\r\n   * Returns the center of the cluster.\r\n   *\r\n   * @return {number} The cluster center.\r\n   */\r\n  Cluster.prototype.getSize = function() {\r\n    return this.markers_.length;\r\n  };\r\n  \r\n  \r\n  /**\r\n   * Returns the center of the cluster.\r\n   *\r\n   * @return {Array.<google.maps.Marker>} The cluster center.\r\n   */\r\n  Cluster.prototype.getMarkers = function() {\r\n    return this.markers_;\r\n  };\r\n  \r\n  \r\n  /**\r\n   * Returns the center of the cluster.\r\n   *\r\n   * @return {google.maps.LatLng} The cluster center.\r\n   */\r\n  Cluster.prototype.getCenter = function() {\r\n    return this.center_;\r\n  };\r\n  \r\n  \r\n  /**\r\n   * Calculated the extended bounds of the cluster with the grid.\r\n   *\r\n   * @private\r\n   */\r\n  Cluster.prototype.calculateBounds_ = function() {\r\n    var bounds = new google.maps.LatLngBounds(this.center_, this.center_);\r\n    this.bounds_ = this.markerClusterer_.getExtendedBounds(bounds);\r\n  };\r\n  \r\n  \r\n  /**\r\n   * Determines if a marker lies in the clusters bounds.\r\n   *\r\n   * @param {google.maps.Marker} marker The marker to check.\r\n   * @return {boolean} True if the marker lies in the bounds.\r\n   */\r\n  Cluster.prototype.isMarkerInClusterBounds = function(marker) {\r\n    return this.bounds_.contains(marker.getPosition());\r\n  };\r\n  \r\n  \r\n  /**\r\n   * Returns the map that the cluster is associated with.\r\n   *\r\n   * @return {google.maps.Map} The map.\r\n   */\r\n  Cluster.prototype.getMap = function() {\r\n    return this.map_;\r\n  };\r\n  \r\n  \r\n  /**\r\n   * Updates the cluster icon\r\n   */\r\n  Cluster.prototype.updateIcon = function() {\r\n    var zoom = this.map_.getZoom();\r\n    var mz = this.markerClusterer_.getMaxZoom();\r\n  \r\n    if (mz && zoom > mz) {\r\n      // The zoom is greater than our max zoom so show all the markers in cluster.\r\n      for (var i = 0, marker; marker = this.markers_[i]; i++) {\r\n        marker.setMap(this.map_);\r\n      }\r\n      return;\r\n    }\r\n  \r\n    if (this.markers_.length < this.minClusterSize_) {\r\n      // Min cluster size not yet reached.\r\n      this.clusterIcon_.hide();\r\n      return;\r\n    }\r\n  \r\n    var numStyles = this.markerClusterer_.getStyles().length;\r\n    var sums = this.markerClusterer_.getCalculator()(this.markers_, numStyles);\r\n    this.clusterIcon_.setCenter(this.center_);\r\n    this.clusterIcon_.setSums(sums);\r\n    this.clusterIcon_.show();\r\n  };\r\n  \r\n  \r\n  /**\r\n   * A cluster icon\r\n   *\r\n   * @param {Cluster} cluster The cluster to be associated with.\r\n   * @param {Object} styles An object that has style properties:\r\n   *     'url': (string) The image url.\r\n   *     'height': (number) The image height.\r\n   *     'width': (number) The image width.\r\n   *     'anchor': (Array) The anchor position of the label text.\r\n   *     'textColor': (string) The text color.\r\n   *     'textSize': (number) The text size.\r\n   *     'backgroundPosition: (string) The background postition x, y.\r\n   * @param {number=} opt_padding Optional padding to apply to the cluster icon.\r\n   * @constructor\r\n   * @extends google.maps.OverlayView\r\n   * @ignore\r\n   */\r\n  function ClusterIcon(cluster, styles, opt_padding) {\r\n    cluster.getMarkerClusterer().extend(ClusterIcon, google.maps.OverlayView);\r\n  \r\n    this.styles_ = styles;\r\n    this.padding_ = opt_padding || 0;\r\n    this.cluster_ = cluster;\r\n    this.center_ = null;\r\n    this.map_ = cluster.getMap();\r\n    this.div_ = null;\r\n    this.sums_ = null;\r\n    this.visible_ = false;\r\n  \r\n    this.setMap(this.map_);\r\n  }\r\n  \r\n  \r\n  /**\r\n   * Triggers the clusterclick event and zoom's if the option is set.\r\n   */\r\n  ClusterIcon.prototype.triggerClusterClick = function() {\r\n    var markerClusterer = this.cluster_.getMarkerClusterer();\r\n  \r\n    // Trigger the clusterclick event.\r\n    google.maps.event.trigger(markerClusterer, 'clusterclick', this.cluster_);\r\n  \r\n    if (markerClusterer.isZoomOnClick()) {\r\n      // Zoom into the cluster.\r\n      this.map_.fitBounds(this.cluster_.getBounds());\r\n    }\r\n  };\r\n  \r\n  \r\n  /**\r\n   * Adding the cluster icon to the dom.\r\n   * @ignore\r\n   */\r\n  ClusterIcon.prototype.onAdd = function() {\r\n    this.div_ = document.createElement('DIV');\r\n    if (this.visible_) {\r\n      var pos = this.getPosFromLatLng_(this.center_);\r\n      this.div_.style.cssText = this.createCss(pos);\r\n      this.div_.innerHTML = this.sums_.text;\r\n    }\r\n  \r\n    var panes = this.getPanes();\r\n    panes.overlayMouseTarget.appendChild(this.div_);\r\n  \r\n    var that = this;\r\n    google.maps.event.addDomListener(this.div_, 'click', function() {\r\n      that.triggerClusterClick();\r\n    });\r\n  };\r\n  \r\n  \r\n  /**\r\n   * Returns the position to place the div dending on the latlng.\r\n   *\r\n   * @param {google.maps.LatLng} latlng The position in latlng.\r\n   * @return {google.maps.Point} The position in pixels.\r\n   * @private\r\n   */\r\n  ClusterIcon.prototype.getPosFromLatLng_ = function(latlng) {\r\n    var pos = this.getProjection().fromLatLngToDivPixel(latlng);\r\n    pos.x -= parseInt(this.width_ / 2, 10);\r\n    pos.y -= parseInt(this.height_ / 2, 10);\r\n    return pos;\r\n  };\r\n  \r\n  \r\n  /**\r\n   * Draw the icon.\r\n   * @ignore\r\n   */\r\n  ClusterIcon.prototype.draw = function() {\r\n    if (this.visible_) {\r\n      var pos = this.getPosFromLatLng_(this.center_);\r\n      this.div_.style.top = pos.y + 'px';\r\n      this.div_.style.left = pos.x + 'px';\r\n    }\r\n  };\r\n  \r\n  \r\n  /**\r\n   * Hide the icon.\r\n   */\r\n  ClusterIcon.prototype.hide = function() {\r\n    if (this.div_) {\r\n      this.div_.style.display = 'none';\r\n    }\r\n    this.visible_ = false;\r\n  };\r\n  \r\n  \r\n  /**\r\n   * Position and show the icon.\r\n   */\r\n  ClusterIcon.prototype.show = function() {\r\n    if (this.div_) {\r\n      var pos = this.getPosFromLatLng_(this.center_);\r\n      this.div_.style.cssText = this.createCss(pos);\r\n      this.div_.style.display = '';\r\n    }\r\n    this.visible_ = true;\r\n  };\r\n  \r\n  \r\n  /**\r\n   * Remove the icon from the map\r\n   */\r\n  ClusterIcon.prototype.remove = function() {\r\n    this.setMap(null);\r\n  };\r\n  \r\n  \r\n  /**\r\n   * Implementation of the onRemove interface.\r\n   * @ignore\r\n   */\r\n  ClusterIcon.prototype.onRemove = function() {\r\n    if (this.div_ && this.div_.parentNode) {\r\n      this.hide();\r\n      this.div_.parentNode.removeChild(this.div_);\r\n      this.div_ = null;\r\n    }\r\n  };\r\n  \r\n  \r\n  /**\r\n   * Set the sums of the icon.\r\n   *\r\n   * @param {Object} sums The sums containing:\r\n   *   'text': (string) The text to display in the icon.\r\n   *   'index': (number) The style index of the icon.\r\n   */\r\n  ClusterIcon.prototype.setSums = function(sums) {\r\n    this.sums_ = sums;\r\n    this.text_ = sums.text;\r\n    this.index_ = sums.index;\r\n    if (this.div_) {\r\n      this.div_.innerHTML = sums.text;\r\n    }\r\n  \r\n    this.useStyle();\r\n  };\r\n  \r\n  \r\n  /**\r\n   * Sets the icon to the the styles.\r\n   */\r\n  ClusterIcon.prototype.useStyle = function() {\r\n    var index = Math.max(0, this.sums_.index - 1);\r\n    index = Math.min(this.styles_.length - 1, index);\r\n    var style = this.styles_[index];\r\n    this.url_ = style['url'];\r\n    this.height_ = style['height'];\r\n    this.width_ = style['width'];\r\n    this.textColor_ = style['textColor'];\r\n    this.anchor_ = style['anchor'];\r\n    this.textSize_ = style['textSize'];\r\n    this.backgroundPosition_ = style['backgroundPosition'];\r\n  };\r\n  \r\n  \r\n  /**\r\n   * Sets the center of the icon.\r\n   *\r\n   * @param {google.maps.LatLng} center The latlng to set as the center.\r\n   */\r\n  ClusterIcon.prototype.setCenter = function(center) {\r\n    this.center_ = center;\r\n  };\r\n  \r\n  \r\n  /**\r\n   * Create the css text based on the position of the icon.\r\n   *\r\n   * @param {google.maps.Point} pos The position.\r\n   * @return {string} The css style text.\r\n   */\r\n  ClusterIcon.prototype.createCss = function(pos) {\r\n    var style = [];\r\n    style.push('background-image:url(' + this.url_ + ');');\r\n    var backgroundPosition = this.backgroundPosition_ ? this.backgroundPosition_ : '0 0';\r\n    style.push('background-position:' + backgroundPosition + ';');\r\n  \r\n    if (typeof this.anchor_ === 'object') {\r\n      if (typeof this.anchor_[0] === 'number' && this.anchor_[0] > 0 &&\r\n          this.anchor_[0] < this.height_) {\r\n        style.push('height:' + (this.height_ - this.anchor_[0]) +\r\n            'px; padding-top:' + this.anchor_[0] + 'px;');\r\n      } else {\r\n        style.push('height:' + this.height_ + 'px; line-height:' + this.height_ +\r\n            'px;');\r\n      }\r\n      if (typeof this.anchor_[1] === 'number' && this.anchor_[1] > 0 &&\r\n          this.anchor_[1] < this.width_) {\r\n        style.push('width:' + (this.width_ - this.anchor_[1]) +\r\n            'px; padding-left:' + this.anchor_[1] + 'px;');\r\n      } else {\r\n        style.push('width:' + this.width_ + 'px; text-align:center;');\r\n      }\r\n    } else {\r\n      style.push('height:' + this.height_ + 'px; line-height:' +\r\n          this.height_ + 'px; width:' + this.width_ + 'px; text-align:center;');\r\n    }\r\n  \r\n    var txtColor = this.textColor_ ? this.textColor_ : 'black';\r\n    var txtSize = this.textSize_ ? this.textSize_ : 11;\r\n  \r\n    style.push('cursor:pointer; top:' + pos.y + 'px; left:' +\r\n        pos.x + 'px; color:' + txtColor + '; position:absolute; font-size:' +\r\n        txtSize + 'px; font-family:Arial,sans-serif; font-weight:bold');\r\n    return style.join('');\r\n  };\r\n\r\n  module.exports = MarkerClusterer;",
+    "static": true,
+    "longname": "D:/Repositorios/RepositorioMigue/libs/gmaps-manager/src/plugins/markercluster.js",
+    "access": null,
     "description": null,
-    "lineNumber": 259,
-    "undocument": true,
-    "params": [],
-    "return": null
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 71,
+    "kind": "function",
+    "name": "MarkerClusterer",
+    "memberof": "src/plugins/markercluster.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/plugins/markercluster.js~MarkerClusterer",
+    "access": null,
+    "export": false,
+    "importPath": "babel_webpack_starter/src/plugins/markercluster.js",
+    "importStyle": null,
+    "description": "A Marker Clusterer that clusters markers.",
+    "lineNumber": 57,
+    "unknown": [
+      {
+        "tagName": "@constructor",
+        "tagValue": ""
+      },
+      {
+        "tagName": "@extends",
+        "tagValue": "google.maps.OverlayView"
+      }
+    ],
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "google.maps.Map"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "map",
+        "description": "The Google map to attach to."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Array.<google.maps.Marker>="
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "opt_markers",
+        "description": "Optional markers to add to\n  the cluster."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Object="
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "opt_options",
+        "description": "support the following options:\n    'gridSize': (number) The grid size of a cluster in pixels.\n    'maxZoom': (number) The maximum zoom level that a marker can be part of a\n               cluster.\n    'zoomOnClick': (boolean) Whether the default behaviour of clicking on a\n                   cluster is to zoom into it.\n    'averageCenter': (boolean) Whether the center of each cluster should be\n                     the average of all markers in the cluster.\n    'minimumClusterSize': (number) The minimum number of markers to be in a\n                          cluster before the markers are hidden and a count\n                          is shown.\n    'styles': (object) An object that has style properties:\n      'url': (string) The image url.\n      'height': (number) The image height.\n      'width': (number) The image width.\n      'anchor': (Array) The anchor position of the label text.\n      'textColor': (string) The text color.\n      'textSize': (number) The text size.\n      'backgroundPosition': (string) The position of the backgound x, y."
+      }
+    ]
+  },
+  {
+    "__docId__": 72,
+    "kind": "function",
+    "name": "extend",
+    "memberof": "src/plugins/markercluster.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/plugins/markercluster.js~extend",
+    "access": null,
+    "export": false,
+    "importPath": "babel_webpack_starter/src/plugins/markercluster.js",
+    "importStyle": null,
+    "description": "Extends a objects prototype by anothers.",
+    "lineNumber": 209,
+    "ignore": true,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Object"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "obj1",
+        "description": "The object to be extended."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Object"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "obj2",
+        "description": "The object to extend with."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "Object"
+      ],
+      "spread": false,
+      "description": "The new extended object."
+    }
+  },
+  {
+    "__docId__": 73,
+    "kind": "function",
+    "name": "onAdd",
+    "memberof": "src/plugins/markercluster.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/plugins/markercluster.js~onAdd",
+    "access": null,
+    "export": false,
+    "importPath": "babel_webpack_starter/src/plugins/markercluster.js",
+    "importStyle": null,
+    "description": "Implementaion of the interface method.",
+    "lineNumber": 223,
+    "ignore": true
+  },
+  {
+    "__docId__": 74,
+    "kind": "function",
+    "name": "draw",
+    "memberof": "src/plugins/markercluster.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/plugins/markercluster.js~draw",
+    "access": null,
+    "export": false,
+    "importPath": "babel_webpack_starter/src/plugins/markercluster.js",
+    "importStyle": null,
+    "description": "Implementaion of the interface method.",
+    "lineNumber": 231,
+    "ignore": true
+  },
+  {
+    "__docId__": 75,
+    "kind": "function",
+    "name": "setupStyles_",
+    "memberof": "src/plugins/markercluster.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/plugins/markercluster.js~setupStyles_",
+    "access": "private",
+    "export": false,
+    "importPath": "babel_webpack_starter/src/plugins/markercluster.js",
+    "importStyle": null,
+    "description": "Sets up the styles object.",
+    "lineNumber": 238
+  },
+  {
+    "__docId__": 76,
+    "kind": "function",
+    "name": "fitMapToMarkers",
+    "memberof": "src/plugins/markercluster.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/plugins/markercluster.js~fitMapToMarkers",
+    "access": null,
+    "export": false,
+    "importPath": "babel_webpack_starter/src/plugins/markercluster.js",
+    "importStyle": null,
+    "description": " Fit the map to the bounds of the markers in the clusterer.",
+    "lineNumber": 255
+  },
+  {
+    "__docId__": 77,
+    "kind": "function",
+    "name": "setStyles",
+    "memberof": "src/plugins/markercluster.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/plugins/markercluster.js~setStyles",
+    "access": null,
+    "export": false,
+    "importPath": "babel_webpack_starter/src/plugins/markercluster.js",
+    "importStyle": null,
+    "description": " Sets the styles.",
+    "lineNumber": 271,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Object"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "styles",
+        "description": "The style to set."
+      }
+    ]
+  },
+  {
+    "__docId__": 78,
+    "kind": "function",
+    "name": "getStyles",
+    "memberof": "src/plugins/markercluster.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/plugins/markercluster.js~getStyles",
+    "access": null,
+    "export": false,
+    "importPath": "babel_webpack_starter/src/plugins/markercluster.js",
+    "importStyle": null,
+    "description": " Gets the styles.",
+    "lineNumber": 281,
+    "return": {
+      "nullable": null,
+      "types": [
+        "Object"
+      ],
+      "spread": false,
+      "description": "The styles object."
+    }
+  },
+  {
+    "__docId__": 79,
+    "kind": "function",
+    "name": "isZoomOnClick",
+    "memberof": "src/plugins/markercluster.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/plugins/markercluster.js~isZoomOnClick",
+    "access": null,
+    "export": false,
+    "importPath": "babel_webpack_starter/src/plugins/markercluster.js",
+    "importStyle": null,
+    "description": "Whether zoom on click is set.",
+    "lineNumber": 291,
+    "return": {
+      "nullable": null,
+      "types": [
+        "boolean"
+      ],
+      "spread": false,
+      "description": "True if zoomOnClick_ is set."
+    }
+  },
+  {
+    "__docId__": 80,
+    "kind": "function",
+    "name": "isAverageCenter",
+    "memberof": "src/plugins/markercluster.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/plugins/markercluster.js~isAverageCenter",
+    "access": null,
+    "export": false,
+    "importPath": "babel_webpack_starter/src/plugins/markercluster.js",
+    "importStyle": null,
+    "description": "Whether average center is set.",
+    "lineNumber": 300,
+    "return": {
+      "nullable": null,
+      "types": [
+        "boolean"
+      ],
+      "spread": false,
+      "description": "True if averageCenter_ is set."
+    }
+  },
+  {
+    "__docId__": 81,
+    "kind": "function",
+    "name": "getMarkers",
+    "memberof": "src/plugins/markercluster.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/plugins/markercluster.js~getMarkers",
+    "access": null,
+    "export": false,
+    "importPath": "babel_webpack_starter/src/plugins/markercluster.js",
+    "importStyle": null,
+    "description": " Returns the array of markers in the clusterer.",
+    "lineNumber": 310,
+    "return": {
+      "nullable": null,
+      "types": [
+        "Array.<google.maps.Marker>"
+      ],
+      "spread": false,
+      "description": "The markers."
+    }
+  },
+  {
+    "__docId__": 82,
+    "kind": "function",
+    "name": "getTotalMarkers",
+    "memberof": "src/plugins/markercluster.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/plugins/markercluster.js~getTotalMarkers",
+    "access": null,
+    "export": false,
+    "importPath": "babel_webpack_starter/src/plugins/markercluster.js",
+    "importStyle": null,
+    "description": " Returns the number of markers in the clusterer",
+    "lineNumber": 320,
+    "return": {
+      "nullable": null,
+      "types": [
+        "Number"
+      ],
+      "spread": false,
+      "description": "The number of markers."
+    }
+  },
+  {
+    "__docId__": 83,
+    "kind": "function",
+    "name": "setMaxZoom",
+    "memberof": "src/plugins/markercluster.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/plugins/markercluster.js~setMaxZoom",
+    "access": null,
+    "export": false,
+    "importPath": "babel_webpack_starter/src/plugins/markercluster.js",
+    "importStyle": null,
+    "description": " Sets the max zoom for the clusterer.",
+    "lineNumber": 330,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "number"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "maxZoom",
+        "description": "The max zoom level."
+      }
+    ]
+  },
+  {
+    "__docId__": 84,
+    "kind": "function",
+    "name": "getMaxZoom",
+    "memberof": "src/plugins/markercluster.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/plugins/markercluster.js~getMaxZoom",
+    "access": null,
+    "export": false,
+    "importPath": "babel_webpack_starter/src/plugins/markercluster.js",
+    "importStyle": null,
+    "description": " Gets the max zoom for the clusterer.",
+    "lineNumber": 340,
+    "return": {
+      "nullable": null,
+      "types": [
+        "number"
+      ],
+      "spread": false,
+      "description": "The max zoom level."
+    }
+  },
+  {
+    "__docId__": 85,
+    "kind": "function",
+    "name": "calculator_",
+    "memberof": "src/plugins/markercluster.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/plugins/markercluster.js~calculator_",
+    "access": "private",
+    "export": false,
+    "importPath": "babel_webpack_starter/src/plugins/markercluster.js",
+    "importStyle": null,
+    "description": " The function for calculating the cluster icon image.",
+    "lineNumber": 353,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Array.<google.maps.Marker>"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "markers",
+        "description": "The markers in the clusterer."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "number"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "numStyles",
+        "description": "The number of styles available."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "Object"
+      ],
+      "spread": false,
+      "description": "A object properties: 'text' (string) and 'index' (number)."
+    }
+  },
+  {
+    "__docId__": 86,
+    "kind": "function",
+    "name": "setCalculator",
+    "memberof": "src/plugins/markercluster.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/plugins/markercluster.js~setCalculator",
+    "access": null,
+    "export": false,
+    "importPath": "babel_webpack_starter/src/plugins/markercluster.js",
+    "importStyle": null,
+    "description": "Set the calculator function.",
+    "lineNumber": 378,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "function(Array, number)"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "calculator",
+        "description": "The function to set as the\n    calculator. The function should return a object properties:\n    'text' (string) and 'index' (number)."
+      }
+    ]
+  },
+  {
+    "__docId__": 87,
+    "kind": "function",
+    "name": "getCalculator",
+    "memberof": "src/plugins/markercluster.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/plugins/markercluster.js~getCalculator",
+    "access": null,
+    "export": false,
+    "importPath": "babel_webpack_starter/src/plugins/markercluster.js",
+    "importStyle": null,
+    "description": "Get the calculator function.",
+    "lineNumber": 388,
+    "return": {
+      "nullable": null,
+      "types": [
+        "function(Array, number)"
+      ],
+      "spread": false,
+      "description": "the calculator function."
+    }
+  },
+  {
+    "__docId__": 88,
+    "kind": "function",
+    "name": "addMarkers",
+    "memberof": "src/plugins/markercluster.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/plugins/markercluster.js~addMarkers",
+    "access": null,
+    "export": false,
+    "importPath": "babel_webpack_starter/src/plugins/markercluster.js",
+    "importStyle": null,
+    "description": "Add an array of markers to the clusterer.",
+    "lineNumber": 399,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Array.<google.maps.Marker>"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "markers",
+        "description": "The markers to add."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "boolean="
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "opt_nodraw",
+        "description": "Whether to redraw the clusters."
+      }
+    ]
+  },
+  {
+    "__docId__": 89,
+    "kind": "function",
+    "name": "pushMarkerTo_",
+    "memberof": "src/plugins/markercluster.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/plugins/markercluster.js~pushMarkerTo_",
+    "access": "private",
+    "export": false,
+    "importPath": "babel_webpack_starter/src/plugins/markercluster.js",
+    "importStyle": null,
+    "description": "Pushes a marker to the clusterer.",
+    "lineNumber": 421,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "google.maps.Marker"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "marker",
+        "description": "The marker to add."
+      }
+    ]
+  },
+  {
+    "__docId__": 90,
+    "kind": "function",
+    "name": "addMarker",
+    "memberof": "src/plugins/markercluster.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/plugins/markercluster.js~addMarker",
+    "access": null,
+    "export": false,
+    "importPath": "babel_webpack_starter/src/plugins/markercluster.js",
+    "importStyle": null,
+    "description": "Adds a marker to the clusterer and redraws if needed.",
+    "lineNumber": 442,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "google.maps.Marker"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "marker",
+        "description": "The marker to add."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "boolean="
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "opt_nodraw",
+        "description": "Whether to redraw the clusters."
+      }
+    ]
+  },
+  {
+    "__docId__": 91,
+    "kind": "function",
+    "name": "removeMarker_",
+    "memberof": "src/plugins/markercluster.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/plugins/markercluster.js~removeMarker_",
+    "access": "private",
+    "export": false,
+    "importPath": "babel_webpack_starter/src/plugins/markercluster.js",
+    "importStyle": null,
+    "description": "Removes a marker and returns true if removed, false if not",
+    "lineNumber": 457,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "google.maps.Marker"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "marker",
+        "description": "The marker to remove"
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "boolean"
+      ],
+      "spread": false,
+      "description": "Whether the marker was removed or not"
+    }
+  },
+  {
+    "__docId__": 92,
+    "kind": "function",
+    "name": "removeMarker",
+    "memberof": "src/plugins/markercluster.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/plugins/markercluster.js~removeMarker",
+    "access": null,
+    "export": false,
+    "importPath": "babel_webpack_starter/src/plugins/markercluster.js",
+    "importStyle": null,
+    "description": "Remove a marker from the cluster.",
+    "lineNumber": 490,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "google.maps.Marker"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "marker",
+        "description": "The marker to remove."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "boolean="
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "opt_nodraw",
+        "description": "Optional boolean to force no redraw."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "boolean"
+      ],
+      "spread": false,
+      "description": "True if the marker was removed."
+    }
+  },
+  {
+    "__docId__": 93,
+    "kind": "function",
+    "name": "removeMarkers",
+    "memberof": "src/plugins/markercluster.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/plugins/markercluster.js~removeMarkers",
+    "access": null,
+    "export": false,
+    "importPath": "babel_webpack_starter/src/plugins/markercluster.js",
+    "importStyle": null,
+    "description": "Removes an array of markers from the cluster.",
+    "lineNumber": 509,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Array.<google.maps.Marker>"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "markers",
+        "description": "The markers to remove."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "boolean="
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "opt_nodraw",
+        "description": "Optional boolean to force no redraw."
+      }
+    ]
+  },
+  {
+    "__docId__": 94,
+    "kind": "function",
+    "name": "setReady_",
+    "memberof": "src/plugins/markercluster.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/plugins/markercluster.js~setReady_",
+    "access": "private",
+    "export": false,
+    "importPath": "babel_webpack_starter/src/plugins/markercluster.js",
+    "importStyle": null,
+    "description": "Sets the clusterer's ready state.",
+    "lineNumber": 531,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "boolean"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "ready",
+        "description": "The state."
+      }
+    ]
+  },
+  {
+    "__docId__": 95,
+    "kind": "function",
+    "name": "getTotalClusters",
+    "memberof": "src/plugins/markercluster.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/plugins/markercluster.js~getTotalClusters",
+    "access": null,
+    "export": false,
+    "importPath": "babel_webpack_starter/src/plugins/markercluster.js",
+    "importStyle": null,
+    "description": "Returns the number of clusters in the clusterer.",
+    "lineNumber": 544,
+    "return": {
+      "nullable": null,
+      "types": [
+        "number"
+      ],
+      "spread": false,
+      "description": "The number of clusters."
+    }
+  },
+  {
+    "__docId__": 96,
+    "kind": "function",
+    "name": "getMap",
+    "memberof": "src/plugins/markercluster.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/plugins/markercluster.js~getMap",
+    "access": null,
+    "export": false,
+    "importPath": "babel_webpack_starter/src/plugins/markercluster.js",
+    "importStyle": null,
+    "description": "Returns the google map that the clusterer is associated with.",
+    "lineNumber": 554,
+    "return": {
+      "nullable": null,
+      "types": [
+        "google.maps.Map"
+      ],
+      "spread": false,
+      "description": "The map."
+    }
+  },
+  {
+    "__docId__": 97,
+    "kind": "function",
+    "name": "setMap",
+    "memberof": "src/plugins/markercluster.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/plugins/markercluster.js~setMap",
+    "access": null,
+    "export": false,
+    "importPath": "babel_webpack_starter/src/plugins/markercluster.js",
+    "importStyle": null,
+    "description": "Sets the google map that the clusterer is associated with.",
+    "lineNumber": 564,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "google.maps.Map"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "map",
+        "description": "The map."
+      }
+    ]
+  },
+  {
+    "__docId__": 98,
+    "kind": "function",
+    "name": "getGridSize",
+    "memberof": "src/plugins/markercluster.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/plugins/markercluster.js~getGridSize",
+    "access": null,
+    "export": false,
+    "importPath": "babel_webpack_starter/src/plugins/markercluster.js",
+    "importStyle": null,
+    "description": "Returns the size of the grid.",
+    "lineNumber": 574,
+    "return": {
+      "nullable": null,
+      "types": [
+        "number"
+      ],
+      "spread": false,
+      "description": "The grid size."
+    }
+  },
+  {
+    "__docId__": 99,
+    "kind": "function",
+    "name": "setGridSize",
+    "memberof": "src/plugins/markercluster.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/plugins/markercluster.js~setGridSize",
+    "access": null,
+    "export": false,
+    "importPath": "babel_webpack_starter/src/plugins/markercluster.js",
+    "importStyle": null,
+    "description": "Sets the size of the grid.",
+    "lineNumber": 584,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "number"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "size",
+        "description": "The grid size."
+      }
+    ]
+  },
+  {
+    "__docId__": 100,
+    "kind": "function",
+    "name": "getMinClusterSize",
+    "memberof": "src/plugins/markercluster.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/plugins/markercluster.js~getMinClusterSize",
+    "access": null,
+    "export": false,
+    "importPath": "babel_webpack_starter/src/plugins/markercluster.js",
+    "importStyle": null,
+    "description": "Returns the min cluster size.",
+    "lineNumber": 594,
+    "return": {
+      "nullable": null,
+      "types": [
+        "number"
+      ],
+      "spread": false,
+      "description": "The grid size."
+    }
+  },
+  {
+    "__docId__": 101,
+    "kind": "function",
+    "name": "setMinClusterSize",
+    "memberof": "src/plugins/markercluster.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/plugins/markercluster.js~setMinClusterSize",
+    "access": null,
+    "export": false,
+    "importPath": "babel_webpack_starter/src/plugins/markercluster.js",
+    "importStyle": null,
+    "description": "Sets the min cluster size.",
+    "lineNumber": 603,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "number"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "size",
+        "description": "The grid size."
+      }
+    ]
+  },
+  {
+    "__docId__": 102,
+    "kind": "function",
+    "name": "getExtendedBounds",
+    "memberof": "src/plugins/markercluster.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/plugins/markercluster.js~getExtendedBounds",
+    "access": null,
+    "export": false,
+    "importPath": "babel_webpack_starter/src/plugins/markercluster.js",
+    "importStyle": null,
+    "description": "Extends a bounds object by the grid size.",
+    "lineNumber": 614,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "google.maps.LatLngBounds"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "bounds",
+        "description": "The bounds to extend."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "google.maps.LatLngBounds"
+      ],
+      "spread": false,
+      "description": "The extended bounds."
+    }
+  },
+  {
+    "__docId__": 103,
+    "kind": "function",
+    "name": "isMarkerInBounds_",
+    "memberof": "src/plugins/markercluster.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/plugins/markercluster.js~isMarkerInBounds_",
+    "access": "private",
+    "export": false,
+    "importPath": "babel_webpack_starter/src/plugins/markercluster.js",
+    "importStyle": null,
+    "description": "Determins if a marker is contained in a bounds.",
+    "lineNumber": 652,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "google.maps.Marker"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "marker",
+        "description": "The marker to check."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "google.maps.LatLngBounds"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "bounds",
+        "description": "The bounds to check against."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "boolean"
+      ],
+      "spread": false,
+      "description": "True if the marker is in the bounds."
+    }
+  },
+  {
+    "__docId__": 104,
+    "kind": "function",
+    "name": "clearMarkers",
+    "memberof": "src/plugins/markercluster.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/plugins/markercluster.js~clearMarkers",
+    "access": null,
+    "export": false,
+    "importPath": "babel_webpack_starter/src/plugins/markercluster.js",
+    "importStyle": null,
+    "description": "Clears all clusters and markers from the clusterer.",
+    "lineNumber": 660
+  },
+  {
+    "__docId__": 105,
+    "kind": "function",
+    "name": "resetViewport",
+    "memberof": "src/plugins/markercluster.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/plugins/markercluster.js~resetViewport",
+    "access": null,
+    "export": false,
+    "importPath": "babel_webpack_starter/src/plugins/markercluster.js",
+    "importStyle": null,
+    "description": "Clears all existing clusters and recreates them.",
+    "lineNumber": 672,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "boolean"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "opt_hide",
+        "description": "To also hide the marker."
+      }
+    ]
+  },
+  {
+    "__docId__": 106,
+    "kind": "function",
+    "name": "repaint",
+    "memberof": "src/plugins/markercluster.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/plugins/markercluster.js~repaint",
+    "access": null,
+    "export": false,
+    "importPath": "babel_webpack_starter/src/plugins/markercluster.js",
+    "importStyle": null,
+    "description": "",
+    "lineNumber": 692
+  },
+  {
+    "__docId__": 107,
+    "kind": "function",
+    "name": "redraw",
+    "memberof": "src/plugins/markercluster.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/plugins/markercluster.js~redraw",
+    "access": null,
+    "export": false,
+    "importPath": "babel_webpack_starter/src/plugins/markercluster.js",
+    "importStyle": null,
+    "description": "Redraws the clusters.",
+    "lineNumber": 711
+  },
+  {
+    "__docId__": 108,
+    "kind": "function",
+    "name": "distanceBetweenPoints_",
+    "memberof": "src/plugins/markercluster.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/plugins/markercluster.js~distanceBetweenPoints_",
+    "access": "private",
+    "export": false,
+    "importPath": "babel_webpack_starter/src/plugins/markercluster.js",
+    "importStyle": null,
+    "description": "Calculates the distance between two latlng locations in km.",
+    "see": [
+      "http://www.movable-type.co.uk/scripts/latlong.html"
+    ],
+    "lineNumber": 725,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "google.maps.LatLng"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "p1",
+        "description": "The first lat lng point."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "google.maps.LatLng"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "p2",
+        "description": "The second lat lng point."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "number"
+      ],
+      "spread": false,
+      "description": "The distance between the two points in km."
+    }
+  },
+  {
+    "__docId__": 109,
+    "kind": "function",
+    "name": "addToClosestCluster_",
+    "memberof": "src/plugins/markercluster.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/plugins/markercluster.js~addToClosestCluster_",
+    "access": "private",
+    "export": false,
+    "importPath": "babel_webpack_starter/src/plugins/markercluster.js",
+    "importStyle": null,
+    "description": "Add a marker to a cluster, or creates a new cluster.",
+    "lineNumber": 748,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "google.maps.Marker"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "marker",
+        "description": "The marker to add."
+      }
+    ]
+  },
+  {
+    "__docId__": 110,
+    "kind": "function",
+    "name": "createClusters_",
+    "memberof": "src/plugins/markercluster.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/plugins/markercluster.js~createClusters_",
+    "access": "private",
+    "export": false,
+    "importPath": "babel_webpack_starter/src/plugins/markercluster.js",
+    "importStyle": null,
+    "description": "Creates the clusters.",
+    "lineNumber": 778
+  },
+  {
+    "__docId__": 111,
+    "kind": "function",
+    "name": "Cluster",
+    "memberof": "src/plugins/markercluster.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/plugins/markercluster.js~Cluster",
+    "access": null,
+    "export": false,
+    "importPath": "babel_webpack_starter/src/plugins/markercluster.js",
+    "importStyle": null,
+    "description": "A cluster that contains markers.",
+    "lineNumber": 805,
+    "ignore": true,
+    "unknown": [
+      {
+        "tagName": "@constructor",
+        "tagValue": ""
+      }
+    ],
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "MarkerClusterer"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "markerClusterer",
+        "description": "The markerclusterer that this\n    cluster is associated with."
+      }
+    ]
+  },
+  {
+    "__docId__": 112,
+    "kind": "function",
+    "name": "isMarkerAlreadyAdded",
+    "memberof": "src/plugins/markercluster.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/plugins/markercluster.js~isMarkerAlreadyAdded",
+    "access": null,
+    "export": false,
+    "importPath": "babel_webpack_starter/src/plugins/markercluster.js",
+    "importStyle": null,
+    "description": "Determins if a marker is already added to the cluster.",
+    "lineNumber": 824,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "google.maps.Marker"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "marker",
+        "description": "The marker to check."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "boolean"
+      ],
+      "spread": false,
+      "description": "True if the marker is already added."
+    }
+  },
+  {
+    "__docId__": 113,
+    "kind": "function",
+    "name": "addMarker",
+    "memberof": "src/plugins/markercluster.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/plugins/markercluster.js~addMarker",
+    "access": null,
+    "export": false,
+    "importPath": "babel_webpack_starter/src/plugins/markercluster.js",
+    "importStyle": null,
+    "description": "Add a marker the cluster.",
+    "lineNumber": 844,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "google.maps.Marker"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "marker",
+        "description": "The marker to add."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "boolean"
+      ],
+      "spread": false,
+      "description": "True if the marker was added."
+    }
+  },
+  {
+    "__docId__": 114,
+    "kind": "function",
+    "name": "getMarkerClusterer",
+    "memberof": "src/plugins/markercluster.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/plugins/markercluster.js~getMarkerClusterer",
+    "access": null,
+    "export": false,
+    "importPath": "babel_webpack_starter/src/plugins/markercluster.js",
+    "importStyle": null,
+    "description": "Returns the marker clusterer that the cluster is associated with.",
+    "lineNumber": 892,
+    "return": {
+      "nullable": null,
+      "types": [
+        "MarkerClusterer"
+      ],
+      "spread": false,
+      "description": "The associated marker clusterer."
+    }
+  },
+  {
+    "__docId__": 115,
+    "kind": "function",
+    "name": "getBounds",
+    "memberof": "src/plugins/markercluster.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/plugins/markercluster.js~getBounds",
+    "access": null,
+    "export": false,
+    "importPath": "babel_webpack_starter/src/plugins/markercluster.js",
+    "importStyle": null,
+    "description": "Returns the bounds of the cluster.",
+    "lineNumber": 902,
+    "return": {
+      "nullable": null,
+      "types": [
+        "google.maps.LatLngBounds"
+      ],
+      "spread": false,
+      "description": "the cluster bounds."
+    }
+  },
+  {
+    "__docId__": 116,
+    "kind": "function",
+    "name": "remove",
+    "memberof": "src/plugins/markercluster.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/plugins/markercluster.js~remove",
+    "access": null,
+    "export": false,
+    "importPath": "babel_webpack_starter/src/plugins/markercluster.js",
+    "importStyle": null,
+    "description": "Removes the cluster",
+    "lineNumber": 915
+  },
+  {
+    "__docId__": 117,
+    "kind": "function",
+    "name": "getSize",
+    "memberof": "src/plugins/markercluster.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/plugins/markercluster.js~getSize",
+    "access": null,
+    "export": false,
+    "importPath": "babel_webpack_starter/src/plugins/markercluster.js",
+    "importStyle": null,
+    "description": "Returns the center of the cluster.",
+    "lineNumber": 927,
+    "return": {
+      "nullable": null,
+      "types": [
+        "number"
+      ],
+      "spread": false,
+      "description": "The cluster center."
+    }
+  },
+  {
+    "__docId__": 118,
+    "kind": "function",
+    "name": "getMarkers",
+    "memberof": "src/plugins/markercluster.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/plugins/markercluster.js~getMarkers",
+    "access": null,
+    "export": false,
+    "importPath": "babel_webpack_starter/src/plugins/markercluster.js",
+    "importStyle": null,
+    "description": "Returns the center of the cluster.",
+    "lineNumber": 937,
+    "return": {
+      "nullable": null,
+      "types": [
+        "Array.<google.maps.Marker>"
+      ],
+      "spread": false,
+      "description": "The cluster center."
+    }
+  },
+  {
+    "__docId__": 119,
+    "kind": "function",
+    "name": "getCenter",
+    "memberof": "src/plugins/markercluster.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/plugins/markercluster.js~getCenter",
+    "access": null,
+    "export": false,
+    "importPath": "babel_webpack_starter/src/plugins/markercluster.js",
+    "importStyle": null,
+    "description": "Returns the center of the cluster.",
+    "lineNumber": 947,
+    "return": {
+      "nullable": null,
+      "types": [
+        "google.maps.LatLng"
+      ],
+      "spread": false,
+      "description": "The cluster center."
+    }
+  },
+  {
+    "__docId__": 120,
+    "kind": "function",
+    "name": "calculateBounds_",
+    "memberof": "src/plugins/markercluster.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/plugins/markercluster.js~calculateBounds_",
+    "access": "private",
+    "export": false,
+    "importPath": "babel_webpack_starter/src/plugins/markercluster.js",
+    "importStyle": null,
+    "description": "Calculated the extended bounds of the cluster with the grid.",
+    "lineNumber": 957
+  },
+  {
+    "__docId__": 121,
+    "kind": "function",
+    "name": "isMarkerInClusterBounds",
+    "memberof": "src/plugins/markercluster.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/plugins/markercluster.js~isMarkerInClusterBounds",
+    "access": null,
+    "export": false,
+    "importPath": "babel_webpack_starter/src/plugins/markercluster.js",
+    "importStyle": null,
+    "description": "Determines if a marker lies in the clusters bounds.",
+    "lineNumber": 969,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "google.maps.Marker"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "marker",
+        "description": "The marker to check."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "boolean"
+      ],
+      "spread": false,
+      "description": "True if the marker lies in the bounds."
+    }
+  },
+  {
+    "__docId__": 122,
+    "kind": "function",
+    "name": "getMap",
+    "memberof": "src/plugins/markercluster.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/plugins/markercluster.js~getMap",
+    "access": null,
+    "export": false,
+    "importPath": "babel_webpack_starter/src/plugins/markercluster.js",
+    "importStyle": null,
+    "description": "Returns the map that the cluster is associated with.",
+    "lineNumber": 979,
+    "return": {
+      "nullable": null,
+      "types": [
+        "google.maps.Map"
+      ],
+      "spread": false,
+      "description": "The map."
+    }
+  },
+  {
+    "__docId__": 123,
+    "kind": "function",
+    "name": "updateIcon",
+    "memberof": "src/plugins/markercluster.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/plugins/markercluster.js~updateIcon",
+    "access": null,
+    "export": false,
+    "importPath": "babel_webpack_starter/src/plugins/markercluster.js",
+    "importStyle": null,
+    "description": "Updates the cluster icon",
+    "lineNumber": 987
+  },
+  {
+    "__docId__": 124,
+    "kind": "function",
+    "name": "ClusterIcon",
+    "memberof": "src/plugins/markercluster.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/plugins/markercluster.js~ClusterIcon",
+    "access": null,
+    "export": false,
+    "importPath": "babel_webpack_starter/src/plugins/markercluster.js",
+    "importStyle": null,
+    "description": "A cluster icon",
+    "lineNumber": 1030,
+    "ignore": true,
+    "unknown": [
+      {
+        "tagName": "@constructor",
+        "tagValue": ""
+      },
+      {
+        "tagName": "@extends",
+        "tagValue": "google.maps.OverlayView"
+      }
+    ],
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Cluster"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "cluster",
+        "description": "The cluster to be associated with."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Object"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "styles",
+        "description": "An object that has style properties:\n    'url': (string) The image url.\n    'height': (number) The image height.\n    'width': (number) The image width.\n    'anchor': (Array) The anchor position of the label text.\n    'textColor': (string) The text color.\n    'textSize': (number) The text size.\n    'backgroundPosition: (string) The background postition x, y."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "number="
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "opt_padding",
+        "description": "Optional padding to apply to the cluster icon."
+      }
+    ]
+  },
+  {
+    "__docId__": 125,
+    "kind": "function",
+    "name": "triggerClusterClick",
+    "memberof": "src/plugins/markercluster.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/plugins/markercluster.js~triggerClusterClick",
+    "access": null,
+    "export": false,
+    "importPath": "babel_webpack_starter/src/plugins/markercluster.js",
+    "importStyle": null,
+    "description": "Triggers the clusterclick event and zoom's if the option is set.",
+    "lineNumber": 1049
+  },
+  {
+    "__docId__": 126,
+    "kind": "function",
+    "name": "onAdd",
+    "memberof": "src/plugins/markercluster.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/plugins/markercluster.js~onAdd",
+    "access": null,
+    "export": false,
+    "importPath": "babel_webpack_starter/src/plugins/markercluster.js",
+    "importStyle": null,
+    "description": "Adding the cluster icon to the dom.",
+    "lineNumber": 1066,
+    "ignore": true
+  },
+  {
+    "__docId__": 127,
+    "kind": "function",
+    "name": "getPosFromLatLng_",
+    "memberof": "src/plugins/markercluster.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/plugins/markercluster.js~getPosFromLatLng_",
+    "access": "private",
+    "export": false,
+    "importPath": "babel_webpack_starter/src/plugins/markercluster.js",
+    "importStyle": null,
+    "description": "Returns the position to place the div dending on the latlng.",
+    "lineNumber": 1091,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "google.maps.LatLng"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "latlng",
+        "description": "The position in latlng."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "google.maps.Point"
+      ],
+      "spread": false,
+      "description": "The position in pixels."
+    }
+  },
+  {
+    "__docId__": 128,
+    "kind": "function",
+    "name": "draw",
+    "memberof": "src/plugins/markercluster.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/plugins/markercluster.js~draw",
+    "access": null,
+    "export": false,
+    "importPath": "babel_webpack_starter/src/plugins/markercluster.js",
+    "importStyle": null,
+    "description": "Draw the icon.",
+    "lineNumber": 1103,
+    "ignore": true
+  },
+  {
+    "__docId__": 129,
+    "kind": "function",
+    "name": "hide",
+    "memberof": "src/plugins/markercluster.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/plugins/markercluster.js~hide",
+    "access": null,
+    "export": false,
+    "importPath": "babel_webpack_starter/src/plugins/markercluster.js",
+    "importStyle": null,
+    "description": "Hide the icon.",
+    "lineNumber": 1115
+  },
+  {
+    "__docId__": 130,
+    "kind": "function",
+    "name": "show",
+    "memberof": "src/plugins/markercluster.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/plugins/markercluster.js~show",
+    "access": null,
+    "export": false,
+    "importPath": "babel_webpack_starter/src/plugins/markercluster.js",
+    "importStyle": null,
+    "description": "Position and show the icon.",
+    "lineNumber": 1126
+  },
+  {
+    "__docId__": 131,
+    "kind": "function",
+    "name": "remove",
+    "memberof": "src/plugins/markercluster.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/plugins/markercluster.js~remove",
+    "access": null,
+    "export": false,
+    "importPath": "babel_webpack_starter/src/plugins/markercluster.js",
+    "importStyle": null,
+    "description": "Remove the icon from the map",
+    "lineNumber": 1139
+  },
+  {
+    "__docId__": 132,
+    "kind": "function",
+    "name": "onRemove",
+    "memberof": "src/plugins/markercluster.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/plugins/markercluster.js~onRemove",
+    "access": null,
+    "export": false,
+    "importPath": "babel_webpack_starter/src/plugins/markercluster.js",
+    "importStyle": null,
+    "description": "Implementation of the onRemove interface.",
+    "lineNumber": 1148,
+    "ignore": true
+  },
+  {
+    "__docId__": 133,
+    "kind": "function",
+    "name": "setSums",
+    "memberof": "src/plugins/markercluster.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/plugins/markercluster.js~setSums",
+    "access": null,
+    "export": false,
+    "importPath": "babel_webpack_starter/src/plugins/markercluster.js",
+    "importStyle": null,
+    "description": "Set the sums of the icon.",
+    "lineNumber": 1164,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Object"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "sums",
+        "description": "The sums containing:\n  'text': (string) The text to display in the icon.\n  'index': (number) The style index of the icon."
+      }
+    ]
+  },
+  {
+    "__docId__": 134,
+    "kind": "function",
+    "name": "useStyle",
+    "memberof": "src/plugins/markercluster.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/plugins/markercluster.js~useStyle",
+    "access": null,
+    "export": false,
+    "importPath": "babel_webpack_starter/src/plugins/markercluster.js",
+    "importStyle": null,
+    "description": "Sets the icon to the the styles.",
+    "lineNumber": 1179
+  },
+  {
+    "__docId__": 135,
+    "kind": "function",
+    "name": "setCenter",
+    "memberof": "src/plugins/markercluster.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/plugins/markercluster.js~setCenter",
+    "access": null,
+    "export": false,
+    "importPath": "babel_webpack_starter/src/plugins/markercluster.js",
+    "importStyle": null,
+    "description": "Sets the center of the icon.",
+    "lineNumber": 1198,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "google.maps.LatLng"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "center",
+        "description": "The latlng to set as the center."
+      }
+    ]
+  },
+  {
+    "__docId__": 136,
+    "kind": "function",
+    "name": "createCss",
+    "memberof": "src/plugins/markercluster.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/plugins/markercluster.js~createCss",
+    "access": null,
+    "export": false,
+    "importPath": "babel_webpack_starter/src/plugins/markercluster.js",
+    "importStyle": null,
+    "description": "Create the css text based on the position of the icon.",
+    "lineNumber": 1209,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "google.maps.Point"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "pos",
+        "description": "The position."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "string"
+      ],
+      "spread": false,
+      "description": "The css style text."
+    }
   },
   {
     "kind": "index",
@@ -1584,7 +3025,7 @@
   },
   {
     "kind": "packageJSON",
-    "content": "{\n  \"name\": \"babel_webpack_starter\",\n  \"version\": \"1.0.0\",\n  \"description\": \"Starter pack for compiling ES6+ apps to ES5\",\n  \"main\": \"app.js\",\n  \"scripts\": {\n    \"test\": \"echo \\\"Error: no test specified\\\" && exit 1\",\n    \"start\": \"webpack-dev-server --output-public-path=/build/  --mode development --progress --open --hot\",\n    \"build\": \"webpack --mode production --progress\",\n    \"doc\": \"esdoc open ./docs/index.html\"\n  },\n  \"author\": \"Brad Traversy\",\n  \"license\": \"MIT\",\n  \"devDependencies\": {\n    \"babel-core\": \"^6.26.0\",\n    \"babel-loader\": \"^7.1.5\",\n    \"babel-polyfill\": \"^6.26.0\",\n    \"babel-preset-env\": \"^1.7.0\",\n    \"babel-preset-stage-0\": \"^6.24.1\",\n    \"esdoc\": \"^1.1.0\",\n    \"esdoc-standard-plugin\": \"^1.0.0\",\n    \"jsdoc\": \"^3.5.5\",\n    \"webpack\": \"^4.25.1\",\n    \"webpack-cli\": \"^3.1.2\",\n    \"webpack-dev-server\": \"^3.1.4\"\n  }\n}\n",
+    "content": "{\n  \"name\": \"babel_webpack_starter\",\n  \"version\": \"1.0.0\",\n  \"description\": \"Starter pack for compiling ES6+ apps to ES5\",\n  \"main\": \"app.js\",\n  \"scripts\": {\n    \"test\": \"echo \\\"Error: no test specified\\\" && exit 1\",\n    \"start\": \"webpack-dev-server --output-public-path=/build/  --mode development --progress --open --hot\",\n    \"build\": \"webpack --mode production --progress\",\n    \"doc\": \"esdoc\",\n    \"docsify-init\": \"docsify init ./docs\",\n    \"docsify-serve\": \"docsify serve ./docs\"\n  },\n  \"author\": \"Brad Traversy\",\n  \"license\": \"MIT\",\n  \"devDependencies\": {\n    \"babel-core\": \"^6.26.0\",\n    \"babel-loader\": \"^7.1.5\",\n    \"babel-polyfill\": \"^6.26.0\",\n    \"babel-preset-env\": \"^1.7.0\",\n    \"babel-preset-stage-0\": \"^6.24.1\",\n    \"esdoc\": \"^1.1.0\",\n    \"esdoc-standard-plugin\": \"^1.0.0\",\n    \"jsdoc\": \"^3.5.5\",\n    \"script-loader\": \"^0.7.2\",\n    \"webpack\": \"^4.25.1\",\n    \"webpack-cli\": \"^3.1.2\",\n    \"webpack-dev-server\": \"^3.1.4\"\n  },\n  \"dependencies\": {\n    \"@mapbox/togeojson\": \"^0.16.0\",\n    \"docsify-cli\": \"^4.3.0\",\n    \"esdoc-publish-markdown-plugin\": \"^1.1.0\",\n    \"tokml\": \"^0.4.0\"\n  }\n}\n",
     "longname": "D:\\Repositorios\\RepositorioMigue\\libs\\gmaps-manager\\package.json",
     "name": "package.json",
     "static": true,

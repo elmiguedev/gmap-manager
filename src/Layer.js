@@ -9,6 +9,7 @@ import GmapManager from "./GmapManager.js";
  * Also, Layer can contain other sub-Layers
  */
 export default class Layer {
+  
   // constructor
   // --------------------------
 

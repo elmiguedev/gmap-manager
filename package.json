@@ -7,7 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "webpack-dev-server --output-public-path=/build/  --mode development --progress --open --hot",
     "build": "webpack --mode production --progress",
-    "doc": "esdoc open ./docs/index.html"
+    "doc": "esdoc",
+    "docsify-init": "docsify init ./docs",
+    "docsify-serve": "docsify serve ./docs"
   },
   "author": "Brad Traversy",
   "license": "MIT",
@@ -27,6 +29,8 @@
   },
   "dependencies": {
     "@mapbox/togeojson": "^0.16.0",
+    "docsify-cli": "^4.3.0",
+    "esdoc-publish-markdown-plugin": "^1.1.0",
     "tokml": "^0.4.0"
   }
 }
